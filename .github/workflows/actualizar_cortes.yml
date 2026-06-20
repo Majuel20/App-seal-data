@@ -3,8 +3,9 @@ name: Actualizar cortes SEAL
 on:
   workflow_dispatch:
   schedule:
-    # 12:00 UTC = 07:00 Perú
-    - cron: "0 12 * * *"
+    # 10:17 UTC = 05:17 Perú
+    # Se ejecuta todos los días.
+    - cron: "17 10 * * *"
 
 permissions:
   contents: write
@@ -31,9 +32,27 @@ jobs:
         run: |
           python -m playwright install --with-deps chromium
 
+      - name: Limpiar resultados anteriores
+        run: |
+          mkdir -p docs
+          rm -f docs/cortes_seal_*.csv
+          rm -f docs/cortes_seal_*.json
+          rm -f docs/cortes_seal_*.txt
+          rm -f docs/cortes_seal_*.xlsx
+          rm -f docs/extraccion_*.log
+
       - name: Ejecutar extractor SEAL
         run: |
           python seal_cortes_final_v2.py --output-dir docs --dias-atras 30 --dias-adelante 30 --no-html
+
+      - name: Dejar solo archivos principales
+        run: |
+          rm -f docs/cortes_seal_20*.csv
+          rm -f docs/cortes_seal_20*.json
+          rm -f docs/cortes_seal_20*.txt
+          rm -f docs/cortes_seal_20*.xlsx
+          rm -f docs/extraccion_*.log
+          rm -f docs/historial_cortes.sqlite
 
       - name: Crear index simple
         run: |
@@ -46,8 +65,14 @@ jobs:
           </head>
           <body>
             <h1>APP Seal Data</h1>
-            <p>Archivo principal:</p>
+
+            <p>Archivo principal para la app:</p>
             <a href="cortes_seal_latest.json">cortes_seal_latest.json</a>
+
+            <p>Archivo Excel para revisión:</p>
+            <a href="cortes_seal_latest.xlsx">cortes_seal_latest.xlsx</a>
+
+            <p>Última actualización generada automáticamente por GitHub Actions.</p>
           </body>
           </html>
           EOF
