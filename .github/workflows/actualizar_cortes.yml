@@ -1,0 +1,61 @@
+name: Actualizar cortes SEAL
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 12:00 UTC = 07:00 Perú
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias Python
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 playwright openpyxl
+
+      - name: Instalar navegador Chromium para Playwright
+        run: |
+          python -m playwright install --with-deps chromium
+
+      - name: Ejecutar extractor SEAL
+        run: |
+          python seal_cortes_final_v2.py --output-dir docs --dias-atras 30 --dias-adelante 30 --no-html
+
+      - name: Crear index simple
+        run: |
+          cat > docs/index.html <<'EOF'
+          <!doctype html>
+          <html lang="es">
+          <head>
+            <meta charset="utf-8">
+            <title>APP Seal Data</title>
+          </head>
+          <body>
+            <h1>APP Seal Data</h1>
+            <p>Archivo principal:</p>
+            <a href="cortes_seal_latest.json">cortes_seal_latest.json</a>
+          </body>
+          </html>
+          EOF
+
+      - name: Guardar cambios si hubo actualización
+        run: |
+          git config user.name "app-seal-bot"
+          git config user.email "app-seal-bot@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || git commit -m "Actualizar cortes SEAL"
+          git push
