@@ -1,40 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 APP Seal - Extractor final dinámico de cortes programados SEAL Arequipa
-
-Mejoras de esta versión:
-- NO usa scan-from ni scan-to.
-- Detecta dinámicamente los IDs desde el calendario renderizado.
-- Abre cada ID real de DispForm.aspx y extrae el contenido completo.
-- Corrige lectura de campos cuando SharePoint los muestra como:
-    Título   ...
-    Ubicación   ...
-    Hora de inicio   ...
-- Extrae descripción completa, zonas afectadas completas y SED/subestaciones.
-- Guarda CSV, JSON, TXT, SQLite y XLSX con tabla de Excel.
-- Permite fecha manual temporal. Si está vacía, usa fecha actual.
-- Maneja una ventana máxima de 2 meses:
-    30 días atrás + 30 días adelante.
-- Limpia del historial local cortes anteriores a la ventana activa.
-
-Instalación:
-    pip install requests beautifulsoup4 playwright openpyxl
-    python -m playwright install chromium
-
-Uso normal:
-    python seal_cortes_final_v2.py
-
-Uso temporal para probar desde el 1 de junio:
-    python seal_cortes_final_v2.py --fecha-consulta 2026-06-01
-
-Uso desde el inicio del mes de la fecha actual:
-    python seal_cortes_final_v2.py --desde-inicio-mes
-
-Uso futuro real, solo desde hoy hacia adelante:
-    python seal_cortes_final_v2.py --dias-atras 0 --dias-adelante 30
-
-Depuración viendo navegador:
-    python seal_cortes_final_v2.py --ver-navegador
+by: Majuel20
 """
 
 import argparse
