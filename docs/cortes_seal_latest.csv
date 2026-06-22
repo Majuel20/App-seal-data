@@ -1,1 +1,47 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
+5877,23/06/2026,09:00,11:00,"Cerro Colorado, de Cerro Colorado",Av. Italia de Rio Seco (Distrito de Cerro Colorado).,Conexión de nuevo suministro de gran industria.,Circuito : SED 2574.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
+MARTES, 23 DE JUNIO DE 2026.
+Circuito : SED 2574.
+Hora : 09:00 a 11:00 Hrs.
+Motivo : Conexión de nuevo suministro de gran industria.
+Zonas afectadas: Av. Italia de Rio Seco (Distrito de Cerro Colorado).",,,,,Evento,el 22/06/2026 9:29 por Cuenta del sistema,22/06/2026 9:29,Cuenta del sistema,Cuenta del sistema,23/06/2026 9:00,23/06/2026 11:00,2026-06-23T09:00:00,2026-06-23T11:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5877&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,e62c6a962cd487ed90ae2938eec8e76aceb8020d8d27734ab5422eedc0385461
+5878,24/06/2026,08:00,13:00,"Cayma, de Cayma","Bolognesi San Martin de Porras, Calle San Martin, Calle Fray Martin, Av. Unión, Av. Amazonas, Av. Arequipa, Av. Ramon Castilla, Av. Francisco Bolognesi, Av. Chachani, Av. Aviación (Distrito de Cayma).",Cambio de tablero de distribución.,Circuito : SED 1132.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
+MIERCOLES, 24 DE JUNIO DE 2026.
+Circuito : SED 1132.
+Hora : 08:00 a 13:00 Hrs.
+Motivo : Cambio de tablero de distribución.
+Zonas afectadas: Bolognesi San Martin de Porras, Calle San Martin, Calle Fray Martin, Av. Unión, Av. Amazonas, Av. Arequipa, Av. Ramon Castilla, Av. Francisco Bolognesi, Av. Chachani, Av. Aviación (Distrito de Cayma).",,,,,Evento,el 22/06/2026 9:30 por Cuenta del sistema,22/06/2026 9:30,Cuenta del sistema,Cuenta del sistema,24/06/2026 8:00,24/06/2026 13:00,2026-06-24T08:00:00,2026-06-24T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5878&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,0dc12218615c348b4e85834ea464419715cb3b5c35300e1b3bc331fef6d28e46
+5879,24/06/2026,08:00,13:00,"Cerro Colorado, de Cerro Colorado","Alto Libertad: Av. Alfonso Ugarte, Av. Nicolas de Piérola con Av. Tumbes, Calle Abancay (Distrito de Cerro Colorado).",Cambio de transformador a 100KVA,Circuito : SED 3186.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
+MIERCOLES, 24 DE JUNIO DE 2026.
+Circuito : SED 3186.
+Hora : 08:00 a 13:00 Hrs.
+Motivo : Cambio de transformador a 100KVA
+Zonas afectadas: Alto Libertad: Av. Alfonso Ugarte, Av. Nicolas de Piérola con Av. Tumbes, Calle Abancay (Distrito de Cerro Colorado).",,,,,Evento,el 22/06/2026 9:30 por Cuenta del sistema,22/06/2026 9:30,Cuenta del sistema,Cuenta del sistema,24/06/2026 8:00,24/06/2026 13:00,2026-06-24T08:00:00,2026-06-24T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5879&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,34f77fb443a1065cb507a21f06bdebd2ffe92033c01c998bdffb004a2cca7551
+5874,25/06/2026,08:00,16:00,"Vitor, de Vitor","Urbanizaciones del distrito de Vitor: Cuarta Pampa, La Caleta, Primera Pampa, Segunda Pampa, Tercera Pampa, Virgen de Chapi.",Mantenimiento de redes en media tensión.,Circuito : Vitor desde REC - 200139.,MANTENIMIENTO DE REDES.,"4790, 6576, 6577, 6578, 6579, 6586, 6594, 6831, 6832, 6833, 6834, 6835, 6836, 6838, 6883, 6884, 6886, 6889, 6953, 6954, 7619, 7845, 7846, 7847, 7848, 7849, 7850, 7851, 7852, 7853, 7854, 7855, 7856, 7857, 7858, 7859, 7860, 7861, 7862, 7863, 7864, 7865, 7866, 7922, 7930, 8615, 8616, 8645, 8663, 8681, 8854, 8861, 8877, 8903, 8907, 9519, 10049, 10116, 10230, 10202.","MANTENIMIENTO DE REDES.
+JUEVES, 25 DE JUNIO DE 2026:
+Circuito : Vitor desde REC - 200139.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Vitor: Cuarta Pampa, La Caleta, Primera Pampa, Segunda Pampa, Tercera Pampa, Virgen de Chapi.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4790, 6576, 6577, 6578, 6579, 6586, 6594, 6831, 6832, 6833, 6834, 6835, 6836, 6838, 6883, 6884, 6886, 6889, 6953, 6954, 7619, 7845, 7846, 7847, 7848, 7849, 7850, 7851, 7852, 7853, 7854, 7855, 7856, 7857, 7858, 7859, 7860, 7861, 7862, 7863, 7864, 7865, 7866, 7922, 7930, 8615, 8616, 8645, 8663, 8681, 8854, 8861, 8877, 8903, 8907, 9519, 10049, 10116, 10230, 10202.",,,,,Evento,el 22/06/2026 9:27 por Cuenta del sistema,22/06/2026 9:27,Cuenta del sistema,Cuenta del sistema,25/06/2026 8:00,25/06/2026 16:00,2026-06-25T08:00:00,2026-06-25T16:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5874&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,ca506cf2cb74dc51ec9e04add95b2868a2b2c634d5f786099c1ec86dcea53d5f
+5880,25/06/2026,08:00,15:00,"Yura, de Yura","Upis Los Milagros, Av. A Yura, CA Vía Yura – Arequipa, Asoc. Granjeros Industria Santusa (Distrito de Yura).",Subsanación de deficiencias en atención a la Resolución Osinergmin 228-2009-OS/CD y otros mantenimientos de redes de media tensión.,Circuito : Ciudad Municipal desde EMT 37380.,MANTENIMIENTO DE REDES.,"10015, 4287, 4147, 4778, 4777, 4148.","MANTENIMIENTO DE REDES.
+JUEVES, 25 DE JUNIO DE 2026.
+Circuito : Ciudad Municipal desde EMT 37380.
+Hora : 08:00 a 15:00 Hrs.
+Motivo : Subsanación de deficiencias en atención a la Resolución Osinergmin 228-2009-OS/CD y otros mantenimientos de redes de media tensión.
+Zonas afectadas: Upis Los Milagros, Av. A Yura, CA Vía Yura – Arequipa, Asoc. Granjeros Industria Santusa (Distrito de Yura).
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 10015, 4287, 4147, 4778, 4777, 4148.",,,,,Evento,el 22/06/2026 9:31 por Cuenta del sistema,22/06/2026 9:31,Cuenta del sistema,Cuenta del sistema,25/06/2026 8:00,25/06/2026 15:00,2026-06-25T08:00:00,2026-06-25T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5880&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,6b1c3c616f6eefe93e256bcc524ff5ebe5be0ead698f3194b52f862c0a3a7300
+5876,26/06/2026,07:00,15:00,"La Joya, de La Joya","Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.",Mantenimiento de redes de media tensión.,Circuito : Panamericana desde REC - 200137.,MANTENIMIENTO DE REDES,"6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.","MANTENIMIENTO DE REDES.
+VIERNES, 26 DE JUNIO DE 2026:
+Circuito : Panamericana desde REC - 200137.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.",,,,,Evento,el 22/06/2026 9:29 por Cuenta del sistema,22/06/2026 9:29,Cuenta del sistema,Cuenta del sistema,26/06/2026 7:00,26/06/2026 15:00,2026-06-26T07:00:00,2026-06-26T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5876&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,c1e87dd416faefd531af72cbde75c07a7541bbd2c287c2702fa0951ad12048e9
+5875,26/06/2026,07:30,15:00,"Cayma, de Cayma","Villa Continental zona 3 y 4, Cesar Vallejo, José Carlos Mariátegui, Urbanización Casimiro Cuadros, Av. Héroes del Cenepa, (Distrito de Cayma).",Mantenimiento de redes de media tensión.,Circuito : Zamacola desde EMT 15481.,MANTENIMIENTO DE REDES.,"5194, 1765, 1722, 2842, 1875.","MANTENIMIENTO DE REDES.
+VIERNES, 26 DE JUNIO DE 2026.
+Circuito : Zamacola desde EMT 15481.
+Hora : 07:30 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión.
+Zonas afectadas: Villa Continental zona 3 y 4, Cesar Vallejo, José Carlos Mariátegui, Urbanización Casimiro Cuadros, Av. Héroes del Cenepa, (Distrito de Cayma).
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5194, 1765, 1722, 2842, 1875.",,,,,Evento,el 22/06/2026 9:28 por Cuenta del sistema,22/06/2026 9:28,Cuenta del sistema,Cuenta del sistema,26/06/2026 7:30,26/06/2026 15:00,2026-06-26T07:30:00,2026-06-26T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5875&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,9c07490ae1b813717ac2cf735ca6c9c2e68dfa68b528a7e2fffe221c149b7929

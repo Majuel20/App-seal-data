@@ -1,15 +1,173 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-06-21 19:31:29
+fecha_ejecucion: 2026-06-22 15:33:45
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-06-21
-fecha_inicio: 2026-06-20
-fecha_fin: 2026-07-21
+fecha_base: 2026-06-22
+fecha_inicio: 2026-06-21
+fecha_fin: 2026-07-22
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 39
-eventos_totales_extraidos: 39
-eventos_guardados_en_rango: 0
+ids_detectados: 46
+eventos_totales_extraidos: 46
+eventos_guardados_en_rango: 7
 output_dir: docs
 ====================================================================================================
+
+====================================================================================================
+ID: 5877
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5877&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 23/06/2026
+Hora inicio: 09:00
+Hora fin: 11:00
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Av. Italia de Rio Seco (Distrito de Cerro Colorado).
+Motivo: Conexión de nuevo suministro de gran industria.
+Ubicación: Circuito : SED 2574.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 23 DE JUNIO DE 2026.
+Circuito : SED 2574.
+Hora : 09:00 a 11:00 Hrs.
+Motivo : Conexión de nuevo suministro de gran industria.
+Zonas afectadas: Av. Italia de Rio Seco (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5878
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5878&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 24/06/2026
+Hora inicio: 08:00
+Hora fin: 13:00
+Distrito: Cayma, de Cayma
+Zona afectada: Bolognesi San Martin de Porras, Calle San Martin, Calle Fray Martin, Av. Unión, Av. Amazonas, Av. Arequipa, Av. Ramon Castilla, Av. Francisco Bolognesi, Av. Chachani, Av. Aviación (Distrito de Cayma).
+Motivo: Cambio de tablero de distribución.
+Ubicación: Circuito : SED 1132.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIERCOLES, 24 DE JUNIO DE 2026.
+Circuito : SED 1132.
+Hora : 08:00 a 13:00 Hrs.
+Motivo : Cambio de tablero de distribución.
+Zonas afectadas: Bolognesi San Martin de Porras, Calle San Martin, Calle Fray Martin, Av. Unión, Av. Amazonas, Av. Arequipa, Av. Ramon Castilla, Av. Francisco Bolognesi, Av. Chachani, Av. Aviación (Distrito de Cayma).
+
+====================================================================================================
+ID: 5879
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5879&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 24/06/2026
+Hora inicio: 08:00
+Hora fin: 13:00
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Alto Libertad: Av. Alfonso Ugarte, Av. Nicolas de Piérola con Av. Tumbes, Calle Abancay (Distrito de Cerro Colorado).
+Motivo: Cambio de transformador a 100KVA
+Ubicación: Circuito : SED 3186.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIERCOLES, 24 DE JUNIO DE 2026.
+Circuito : SED 3186.
+Hora : 08:00 a 13:00 Hrs.
+Motivo : Cambio de transformador a 100KVA
+Zonas afectadas: Alto Libertad: Av. Alfonso Ugarte, Av. Nicolas de Piérola con Av. Tumbes, Calle Abancay (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5874
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5874&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/06/2026
+Hora inicio: 08:00
+Hora fin: 16:00
+Distrito: Vitor, de Vitor
+Zona afectada: Urbanizaciones del distrito de Vitor: Cuarta Pampa, La Caleta, Primera Pampa, Segunda Pampa, Tercera Pampa, Virgen de Chapi.
+Motivo: Mantenimiento de redes en media tensión.
+Ubicación: Circuito : Vitor desde REC - 200139.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 4790, 6576, 6577, 6578, 6579, 6586, 6594, 6831, 6832, 6833, 6834, 6835, 6836, 6838, 6883, 6884, 6886, 6889, 6953, 6954, 7619, 7845, 7846, 7847, 7848, 7849, 7850, 7851, 7852, 7853, 7854, 7855, 7856, 7857, 7858, 7859, 7860, 7861, 7862, 7863, 7864, 7865, 7866, 7922, 7930, 8615, 8616, 8645, 8663, 8681, 8854, 8861, 8877, 8903, 8907, 9519, 10049, 10116, 10230, 10202.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+JUEVES, 25 DE JUNIO DE 2026:
+Circuito : Vitor desde REC - 200139.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Vitor: Cuarta Pampa, La Caleta, Primera Pampa, Segunda Pampa, Tercera Pampa, Virgen de Chapi.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4790, 6576, 6577, 6578, 6579, 6586, 6594, 6831, 6832, 6833, 6834, 6835, 6836, 6838, 6883, 6884, 6886, 6889, 6953, 6954, 7619, 7845, 7846, 7847, 7848, 7849, 7850, 7851, 7852, 7853, 7854, 7855, 7856, 7857, 7858, 7859, 7860, 7861, 7862, 7863, 7864, 7865, 7866, 7922, 7930, 8615, 8616, 8645, 8663, 8681, 8854, 8861, 8877, 8903, 8907, 9519, 10049, 10116, 10230, 10202.
+
+====================================================================================================
+ID: 5880
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5880&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/06/2026
+Hora inicio: 08:00
+Hora fin: 15:00
+Distrito: Yura, de Yura
+Zona afectada: Upis Los Milagros, Av. A Yura, CA Vía Yura – Arequipa, Asoc. Granjeros Industria Santusa (Distrito de Yura).
+Motivo: Subsanación de deficiencias en atención a la Resolución Osinergmin 228-2009-OS/CD y otros mantenimientos de redes de media tensión.
+Ubicación: Circuito : Ciudad Municipal desde EMT 37380.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 10015, 4287, 4147, 4778, 4777, 4148.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+JUEVES, 25 DE JUNIO DE 2026.
+Circuito : Ciudad Municipal desde EMT 37380.
+Hora : 08:00 a 15:00 Hrs.
+Motivo : Subsanación de deficiencias en atención a la Resolución Osinergmin 228-2009-OS/CD y otros mantenimientos de redes de media tensión.
+Zonas afectadas: Upis Los Milagros, Av. A Yura, CA Vía Yura – Arequipa, Asoc. Granjeros Industria Santusa (Distrito de Yura).
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 10015, 4287, 4147, 4778, 4777, 4148.
+
+====================================================================================================
+ID: 5876
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5876&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 26/06/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: La Joya, de La Joya
+Zona afectada: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
+Motivo: Mantenimiento de redes de media tensión.
+Ubicación: Circuito : Panamericana desde REC - 200137.
+Título: MANTENIMIENTO DE REDES
+Subestaciones: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 26 DE JUNIO DE 2026:
+Circuito : Panamericana desde REC - 200137.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.
+
+====================================================================================================
+ID: 5875
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5875&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 26/06/2026
+Hora inicio: 07:30
+Hora fin: 15:00
+Distrito: Cayma, de Cayma
+Zona afectada: Villa Continental zona 3 y 4, Cesar Vallejo, José Carlos Mariátegui, Urbanización Casimiro Cuadros, Av. Héroes del Cenepa, (Distrito de Cayma).
+Motivo: Mantenimiento de redes de media tensión.
+Ubicación: Circuito : Zamacola desde EMT 15481.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 5194, 1765, 1722, 2842, 1875.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 26 DE JUNIO DE 2026.
+Circuito : Zamacola desde EMT 15481.
+Hora : 07:30 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión.
+Zonas afectadas: Villa Continental zona 3 y 4, Cesar Vallejo, José Carlos Mariátegui, Urbanización Casimiro Cuadros, Av. Héroes del Cenepa, (Distrito de Cayma).
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5194, 1765, 1722, 2842, 1875.
