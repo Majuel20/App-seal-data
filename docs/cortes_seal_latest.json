@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fecha_ejecucion": "2026-06-22 15:33:45",
+    "fecha_ejecucion": "2026-06-23 12:48:59",
     "fuente": "https://www.seal.com.pe/clientes/SitePages/Cortes.aspx",
-    "fecha_base": "2026-06-22",
-    "fecha_inicio": "2026-06-21",
-    "fecha_fin": "2026-07-22",
+    "fecha_base": "2026-06-23",
+    "fecha_inicio": "2026-06-22",
+    "fecha_fin": "2026-07-23",
     "dias_atras": "1",
     "dias_adelante": "30",
     "metodo_ids": "REQUESTS_STATIC",
