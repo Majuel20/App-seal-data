@@ -1,10 +1,10 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-06-23 12:48:59
+fecha_ejecucion: 2026-06-24 12:30:28
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-06-23
-fecha_inicio: 2026-06-22
-fecha_fin: 2026-07-23
+fecha_base: 2026-06-24
+fecha_inicio: 2026-06-23
+fecha_fin: 2026-07-24
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
