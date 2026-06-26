@@ -1,62 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-06-25 12:34:13
+fecha_ejecucion: 2026-06-26 12:27:54
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-06-25
-fecha_inicio: 2026-06-24
-fecha_fin: 2026-07-25
+fecha_base: 2026-06-26
+fecha_inicio: 2026-06-25
+fecha_fin: 2026-07-26
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 47
-eventos_totales_extraidos: 47
-eventos_guardados_en_rango: 7
+ids_detectados: 48
+eventos_totales_extraidos: 48
+eventos_guardados_en_rango: 6
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5878
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5878&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 24/06/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Cayma, de Cayma
-Zona afectada: Bolognesi San Martin de Porras, Calle San Martin, Calle Fray Martin, Av. Unión, Av. Amazonas, Av. Arequipa, Av. Ramon Castilla, Av. Francisco Bolognesi, Av. Chachani, Av. Aviación (Distrito de Cayma).
-Motivo: Cambio de tablero de distribución.
-Ubicación: Circuito : SED 1132.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIERCOLES, 24 DE JUNIO DE 2026.
-Circuito : SED 1132.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de tablero de distribución.
-Zonas afectadas: Bolognesi San Martin de Porras, Calle San Martin, Calle Fray Martin, Av. Unión, Av. Amazonas, Av. Arequipa, Av. Ramon Castilla, Av. Francisco Bolognesi, Av. Chachani, Av. Aviación (Distrito de Cayma).
-
-====================================================================================================
-ID: 5879
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5879&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 24/06/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Alto Libertad: Av. Alfonso Ugarte, Av. Nicolas de Piérola con Av. Tumbes, Calle Abancay (Distrito de Cerro Colorado).
-Motivo: Cambio de transformador a 100KVA
-Ubicación: Circuito : SED 3186.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIERCOLES, 24 DE JUNIO DE 2026.
-Circuito : SED 3186.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador a 100KVA
-Zonas afectadas: Alto Libertad: Av. Alfonso Ugarte, Av. Nicolas de Piérola con Av. Tumbes, Calle Abancay (Distrito de Cerro Colorado).
 
 ====================================================================================================
 ID: 5874
@@ -149,6 +105,29 @@ Hora : 07:30 a 15:00 Hrs.
 Motivo : Mantenimiento de redes de media tensión.
 Zonas afectadas: Villa Continental zona 3 y 4, Cesar Vallejo, José Carlos Mariátegui, Urbanización Casimiro Cuadros, Av. Héroes del Cenepa, (Distrito de Cayma).
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5194, 1765, 1722, 2842, 1875.
+
+====================================================================================================
+ID: 5882
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5882&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 27/06/2026
+Hora inicio: 10:00
+Hora fin: 14:00
+Distrito: Andaray, Yanaquihua, de Andaray, de Yanaquihua
+Zona afectada: Urbanizaciones del distrito de Andaray: Alto Peru, Andaray, Callalli, Casillo, Chilachila, Huaranguil, Huecche. Urbanizaciones del distrito de Yanaquihua: 4 de Agosto, Alpacay, Charco, Charco Quiroz, Huaquillo, Ispacas, La Barrera, Lucmani, Pachaiza, Vallecito, Yanaquihua.
+Motivo: Reubicación de línea de media tensión.
+Ubicación: Circuito : Ispacas desde REC - 600209.
+Título: MANTENIMIENTO DE REDES
+Subestaciones: 6317, 6318, 6319, 7263, 7264, 7265, 7266, 7267, 7268, 7269, 7270, 7272, 7275, 7276, 7277, 7278, 7435, 7436, 7439, 7781, 7782, 7783, 7784, 7785, 7786, 7980, 7982, 7983, 7986, 7987, 8620, 10197, 10242.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+SÁBADO, 27 DE JUNIO DE 2026:
+Circuito : Ispacas desde REC - 600209.
+Hora : 10:00 a 14:00 Hrs.
+Motivo : Reubicación de línea de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Andaray: Alto Peru, Andaray, Callalli, Casillo, Chilachila, Huaranguil, Huecche. Urbanizaciones del distrito de Yanaquihua: 4 de Agosto, Alpacay, Charco, Charco Quiroz, Huaquillo, Ispacas, La Barrera, Lucmani, Pachaiza, Vallecito, Yanaquihua.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6317, 6318, 6319, 7263, 7264, 7265, 7266, 7267, 7268, 7269, 7270, 7272, 7275, 7276, 7277, 7278, 7435, 7436, 7439, 7781, 7782, 7783, 7784, 7785, 7786, 7980, 7982, 7983, 7986, 7987, 8620, 10197, 10242.
 
 ====================================================================================================
 ID: 5881
