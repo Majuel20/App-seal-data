@@ -1,18 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5876,26/06/2026,07:00,15:00,"La Joya, de La Joya","Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.",Mantenimiento de redes de media tensión.,Circuito : Panamericana desde REC - 200137.,MANTENIMIENTO DE REDES,"6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.","MANTENIMIENTO DE REDES.
-VIERNES, 26 DE JUNIO DE 2026:
-Circuito : Panamericana desde REC - 200137.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.",,,,,Evento,el 22/06/2026 9:29 por Cuenta del sistema,22/06/2026 9:29,Cuenta del sistema,Cuenta del sistema,26/06/2026 7:00,26/06/2026 15:00,2026-06-26T07:00:00,2026-06-26T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5876&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,c1e87dd416faefd531af72cbde75c07a7541bbd2c287c2702fa0951ad12048e9
-5875,26/06/2026,07:30,15:00,"Cayma, de Cayma","Villa Continental zona 3 y 4, Cesar Vallejo, José Carlos Mariátegui, Urbanización Casimiro Cuadros, Av. Héroes del Cenepa, (Distrito de Cayma).",Mantenimiento de redes de media tensión.,Circuito : Zamacola desde EMT 15481.,MANTENIMIENTO DE REDES.,"5194, 1765, 1722, 2842, 1875.","MANTENIMIENTO DE REDES.
-VIERNES, 26 DE JUNIO DE 2026.
-Circuito : Zamacola desde EMT 15481.
-Hora : 07:30 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión.
-Zonas afectadas: Villa Continental zona 3 y 4, Cesar Vallejo, José Carlos Mariátegui, Urbanización Casimiro Cuadros, Av. Héroes del Cenepa, (Distrito de Cayma).
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5194, 1765, 1722, 2842, 1875.",,,,,Evento,el 22/06/2026 9:28 por Cuenta del sistema,22/06/2026 9:28,Cuenta del sistema,Cuenta del sistema,26/06/2026 7:30,26/06/2026 15:00,2026-06-26T07:30:00,2026-06-26T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5875&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,9c07490ae1b813717ac2cf735ca6c9c2e68dfa68b528a7e2fffe221c149b7929
 5882,27/06/2026,10:00,14:00,"Andaray, Yanaquihua, de Andaray, de Yanaquihua","Urbanizaciones del distrito de Andaray: Alto Peru, Andaray, Callalli, Casillo, Chilachila, Huaranguil, Huecche. Urbanizaciones del distrito de Yanaquihua: 4 de Agosto, Alpacay, Charco, Charco Quiroz, Huaquillo, Ispacas, La Barrera, Lucmani, Pachaiza, Vallecito, Yanaquihua.",Reubicación de línea de media tensión.,Circuito : Ispacas desde REC - 600209.,MANTENIMIENTO DE REDES,"6317, 6318, 6319, 7263, 7264, 7265, 7266, 7267, 7268, 7269, 7270, 7272, 7275, 7276, 7277, 7278, 7435, 7436, 7439, 7781, 7782, 7783, 7784, 7785, 7786, 7980, 7982, 7983, 7986, 7987, 8620, 10197, 10242.","MANTENIMIENTO DE REDES.
 SÁBADO, 27 DE JUNIO DE 2026:
 Circuito : Ispacas desde REC - 600209.
