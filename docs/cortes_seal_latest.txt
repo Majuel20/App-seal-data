@@ -1,41 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-06-29 14:30:28
+fecha_ejecucion: 2026-06-30 12:25:56
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-06-29
-fecha_inicio: 2026-06-28
-fecha_fin: 2026-07-29
+fecha_base: 2026-06-30
+fecha_inicio: 2026-06-29
+fecha_fin: 2026-07-30
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 55
 eventos_totales_extraidos: 55
-eventos_guardados_en_rango: 8
+eventos_guardados_en_rango: 7
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5881
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5881&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 28/06/2026
-Hora inicio: 06:00
-Hora fin: 14:00
-Distrito: Cayma, Cerro Colorado, de Cayma, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cayma: Advidge, Bello Amanecer, Bello Horizonte, Bello Monte, Boulevard Los Arces, Cerrito San Jacinto, Colegio de Ingenieros, Conjunto Multifamiliar Edifica Inversiones del Sur S.A.C, El Arroyo de Cayma, El Mirador, Emperatriz, Entel II, Jorge Basadre, La Campiña, La Puerta del Sol, La Romero, La Tomilla Zona A, Las Condes, Las Efigies, Las Terrazas de Cayma, Los Andenes, Los Ángeles de Cayma, Los Girasoles, Los Portales, Los Ruiseñores, Macondo, Mirasol de Cayma, Quinta Los Andenes de Cayma, Quinta Residencial Mediterráneo, Quinta Samay, Residencial Los Arces, Residencial Los Delfines, Residencial Monte Rosa, Residencial Santa Elisa, San Antonio, San Doria de Cayma, Santa Elisa, Un Rincón en la Chacrita, Valle Escondido, Villa Cayma. Urbanizaciones del distrito de Cerro Colorado: Camargo, Casaparq, Cerro Colorado (Pueblo Viejo), El Rosario II, La Alborada, Las Terrazas del Rosario, Quinta El Sol, Virgen del Rosario I.
-Motivo: Mantenimiento de redes de media tensión (cambio de poste, cambio de conductor a 120 mm2).
-Ubicación: Circuito : [307] ALTO CAYMA.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-DOMINGO, 28 DE JUNIO DE 2026:
-Circuito : [307] ALTO CAYMA.
-Hora : 06:00 a 14:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de poste, cambio de conductor a 120 mm2).
-Zonas afectadas: Urbanizaciones del distrito de Cayma: Advidge, Bello Amanecer, Bello Horizonte, Bello Monte, Boulevard Los Arces, Cerrito San Jacinto, Colegio de Ingenieros, Conjunto Multifamiliar Edifica Inversiones del Sur S.A.C, El Arroyo de Cayma, El Mirador, Emperatriz, Entel II, Jorge Basadre, La Campiña, La Puerta del Sol, La Romero, La Tomilla Zona A, Las Condes, Las Efigies, Las Terrazas de Cayma, Los Andenes, Los Ángeles de Cayma, Los Girasoles, Los Portales, Los Ruiseñores, Macondo, Mirasol de Cayma, Quinta Los Andenes de Cayma, Quinta Residencial Mediterráneo, Quinta Samay, Residencial Los Arces, Residencial Los Delfines, Residencial Monte Rosa, Residencial Santa Elisa, San Antonio, San Doria de Cayma, Santa Elisa, Un Rincón en la Chacrita, Valle Escondido, Villa Cayma. Urbanizaciones del distrito de Cerro Colorado: Camargo, Casaparq, Cerro Colorado (Pueblo Viejo), El Rosario II, La Alborada, Las Terrazas del Rosario, Quinta El Sol, Virgen del Rosario I.
-Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 3937, 3961, 2073, 1637, 2974, 3579, 3760, 1021, 1443, 1807, 2901, 2900, 2899, 1833, 1037, 2658, 2249, 3311, 4307, 3471, 2798, 3831, 1934, 3472, 3576, 1828, 1499, 1519, 1645, 3578, 3518, 1350, 1307, 3173, 1844, 2637, 1235, 1446, 2426, 2973, 1274, 2427, 3129, 2629, 3139, 1663, 1810, 3793, 3792, 3799, 3800, 3870, 2424, 4099, 4101, 4170, 3962, 4209, 4242, 4248, 4365, 4374, 4371, 4411, 4458, 4502, 4586, 4584, 4632, 4629, 4675, 4681, 4691, 4709, 4739, 4856, 4914, 4636, 4582, 5024, 4999, 5016, 4913, 5252, 5018, 5279, 5297, 5249, 5290, 5413, 5617, 5676, 5759, 5621, 5417, 5830, 5823, 5800, 5882, 3238, 4942, 10239, 10132, 5959, 10190, 5967.
 
 ====================================================================================================
 ID: 5885
