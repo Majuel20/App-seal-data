@@ -1,23 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5886,02/07/2026,07:30,12:30,"Cayma, de Cayma","Jr. Chorrillos, Av. Pumacahua, Calle América, Calle Ilo, Calle General Ollantay, Av. José Carlos Mariátegui (Distrito de Cayma).",Cambio de transformador a 100 KVA,Circuito : SED 2846,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-JUEVES, 02 DE JULIO DE 2026.
-Circuito : SED 2846.
-Hora : 07:30 a 12:30 Hrs.
-Motivo : Cambio de transformador a 100 KVA
-Zonas afectadas: Jr. Chorrillos, Av. Pumacahua, Calle América, Calle Ilo, Calle General Ollantay, Av. José Carlos Mariátegui (Distrito de Cayma).",,,,,Evento,el 29/06/2026 6:04 por Cuenta del sistema,29/06/2026 6:04,Cuenta del sistema,Cuenta del sistema,02/07/2026 7:30,02/07/2026 12:30,2026-07-02T07:30:00,2026-07-02T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5886&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,7b3229bb6939a8a92208bfc0f84717a9064571dd4dcefbf0ce35716f0ff847a2
-5887,02/07/2026,07:30,12:30,"Cerro Colorado, de Cerro Colorado","Av. Puno, Calle Loreto, Calle Carabaya, Calle Lambayeque (Distrito de Cerro Colorado).",Cambio de transformador a 100 KVA,Circuito : SED 3183,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-JUEVES, 02 DE JULIO DE 2026.
-Circuito : SED 3183.
-Hora : 07:30 a 12:30 Hrs.
-Motivo : Cambio de transformador a 100 KVA
-Zonas afectadas: Av. Puno, Calle Loreto, Calle Carabaya, Calle Lambayeque (Distrito de Cerro Colorado).",,,,,Evento,el 29/06/2026 6:05 por Cuenta del sistema,29/06/2026 6:05,Cuenta del sistema,Cuenta del sistema,02/07/2026 7:30,02/07/2026 12:30,2026-07-02T07:30:00,2026-07-02T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5887&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,23c408d2a1c979d8f1b70c1a84c1dce5b2732adebe5d57a93985d37a7f00ad15
-5888,02/07/2026,08:00,16:00,"Uraca, de Uraca","Urbanizaciones del distrito de Uraca: Cantas, El Pedregal, La Mezana, Pitis, Villa Hermosa.",Subsanación de deficiencias en atención al Procedimiento N° 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.,Circuito : Torán desde CC - 810123.,MANTENIMIENTO DE REDES.,"7156, 7129, 7128, 7127, 7126, 7151, 7124, 7131, 7946, 7130, 7471, 7125, 7176, 7486, 7132, 7994, 8538.","MANTENIMIENTO DE REDES.
-JUEVES, 02 DE JULIO DE 2026:
-Circuito : Torán desde CC - 810123.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento N° 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Uraca: Cantas, El Pedregal, La Mezana, Pitis, Villa Hermosa.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7156, 7129, 7128, 7127, 7126, 7151, 7124, 7131, 7946, 7130, 7471, 7125, 7176, 7486, 7132, 7994, 8538.",,,,,Evento,el 29/06/2026 6:06 por Cuenta del sistema,29/06/2026 6:06,Cuenta del sistema,Cuenta del sistema,02/07/2026 8:00,02/07/2026 16:00,2026-07-02T08:00:00,2026-07-02T16:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5888&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,0d16357bc8d9fc30ac2585399135fb3bcac675a58e1552cafc7f2afe2dd855fc
 5889,03/07/2026,07:00,15:00,"Majes, de Majes","Urbanizaciones del distrito de Majes: Avg Aspein, Avg Los Olivos, Futuros Forjadores de Majes - Aspein Sector 1Y6, La Nueva Arequipa de Majes Zona A, La Nueva Arequipa de Majes Zona B, La Nueva Arequipa de Majes Zona C, Rafael Hoyos Rubio.","Mantenimiento de redes en media tensión (cambio de poste, limpieza de aisladores y podado de árboles cercanos a la línea de media tensión)",Circuito : Pionero I desde REC - 200538.,MANTENIMIENTO DE REDES,"6154, 6963, 6412, 6413, 6438, 7867, 7660, 8912, 8988, 8986, 8987, 8715, 8716, 8973, 8992, 8993, 8994, 8995, 8996, 8997, 8999, 8998, 8965, 8959, 6411, 8718, 8719, 8717, 8721, 8720.","MANTENIMIENTO DE REDES.
 VIERNES, 03 DE JULIO DE 2026:
 Circuito : Pionero I desde REC - 200538.

@@ -1,85 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-03 12:21:08
+fecha_ejecucion: 2026-07-04 11:48:02
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-03
-fecha_inicio: 2026-07-02
-fecha_fin: 2026-08-02
+fecha_base: 2026-07-04
+fecha_inicio: 2026-07-03
+fecha_fin: 2026-08-03
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 12
 eventos_totales_extraidos: 12
-eventos_guardados_en_rango: 11
+eventos_guardados_en_rango: 8
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5886
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5886&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 02/07/2026
-Hora inicio: 07:30
-Hora fin: 12:30
-Distrito: Cayma, de Cayma
-Zona afectada: Jr. Chorrillos, Av. Pumacahua, Calle América, Calle Ilo, Calle General Ollantay, Av. José Carlos Mariátegui (Distrito de Cayma).
-Motivo: Cambio de transformador a 100 KVA
-Ubicación: Circuito : SED 2846
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 02 DE JULIO DE 2026.
-Circuito : SED 2846.
-Hora : 07:30 a 12:30 Hrs.
-Motivo : Cambio de transformador a 100 KVA
-Zonas afectadas: Jr. Chorrillos, Av. Pumacahua, Calle América, Calle Ilo, Calle General Ollantay, Av. José Carlos Mariátegui (Distrito de Cayma).
-
-====================================================================================================
-ID: 5887
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5887&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 02/07/2026
-Hora inicio: 07:30
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Av. Puno, Calle Loreto, Calle Carabaya, Calle Lambayeque (Distrito de Cerro Colorado).
-Motivo: Cambio de transformador a 100 KVA
-Ubicación: Circuito : SED 3183
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 02 DE JULIO DE 2026.
-Circuito : SED 3183.
-Hora : 07:30 a 12:30 Hrs.
-Motivo : Cambio de transformador a 100 KVA
-Zonas afectadas: Av. Puno, Calle Loreto, Calle Carabaya, Calle Lambayeque (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 5888
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5888&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 02/07/2026
-Hora inicio: 08:00
-Hora fin: 16:00
-Distrito: Uraca, de Uraca
-Zona afectada: Urbanizaciones del distrito de Uraca: Cantas, El Pedregal, La Mezana, Pitis, Villa Hermosa.
-Motivo: Subsanación de deficiencias en atención al Procedimiento N° 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : Torán desde CC - 810123.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 7156, 7129, 7128, 7127, 7126, 7151, 7124, 7131, 7946, 7130, 7471, 7125, 7176, 7486, 7132, 7994, 8538.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 02 DE JULIO DE 2026:
-Circuito : Torán desde CC - 810123.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento N° 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Uraca: Cantas, El Pedregal, La Mezana, Pitis, Villa Hermosa.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7156, 7129, 7128, 7127, 7126, 7151, 7124, 7131, 7946, 7130, 7471, 7125, 7176, 7486, 7132, 7994, 8538.
 
 ====================================================================================================
 ID: 5889
