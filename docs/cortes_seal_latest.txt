@@ -1,85 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-04 11:48:02
+fecha_ejecucion: 2026-07-05 11:49:06
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-04
-fecha_inicio: 2026-07-03
-fecha_fin: 2026-08-03
+fecha_base: 2026-07-05
+fecha_inicio: 2026-07-04
+fecha_fin: 2026-08-04
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 12
 eventos_totales_extraidos: 12
-eventos_guardados_en_rango: 8
+eventos_guardados_en_rango: 5
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5889
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5889&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 03/07/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Majes, de Majes
-Zona afectada: Urbanizaciones del distrito de Majes: Avg Aspein, Avg Los Olivos, Futuros Forjadores de Majes - Aspein Sector 1Y6, La Nueva Arequipa de Majes Zona A, La Nueva Arequipa de Majes Zona B, La Nueva Arequipa de Majes Zona C, Rafael Hoyos Rubio.
-Motivo: Mantenimiento de redes en media tensión (cambio de poste, limpieza de aisladores y podado de árboles cercanos a la línea de media tensión)
-Ubicación: Circuito : Pionero I desde REC - 200538.
-Título: MANTENIMIENTO DE REDES
-Subestaciones: 6154, 6963, 6412, 6413, 6438, 7867, 7660, 8912, 8988, 8986, 8987, 8715, 8716, 8973, 8992, 8993, 8994, 8995, 8996, 8997, 8999, 8998, 8965, 8959, 6411, 8718, 8719, 8717, 8721, 8720.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 03 DE JULIO DE 2026:
-Circuito : Pionero I desde REC - 200538.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (cambio de poste, limpieza de aisladores y podado de árboles cercanos a la línea de media tensión)
-Zonas afectadas: Urbanizaciones del distrito de Majes: Avg Aspein, Avg Los Olivos, Futuros Forjadores de Majes - Aspein Sector 1Y6, La Nueva Arequipa de Majes Zona A, La Nueva Arequipa de Majes Zona B, La Nueva Arequipa de Majes Zona C, Rafael Hoyos Rubio.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6154, 6963, 6412, 6413, 6438, 7867, 7660, 8912, 8988, 8986, 8987, 8715, 8716, 8973, 8992, 8993, 8994, 8995, 8996, 8997, 8999, 8998, 8965, 8959, 6411, 8718, 8719, 8717, 8721, 8720.
-
-====================================================================================================
-ID: 5883
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5883&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 03/07/2026
-Hora inicio: 07:30
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanización Teresa de Jesús (Distrito de Cerro Colorado).
-Motivo: Cambio de transformador a mayor potencia
-Ubicación: Circuito : SED 4056
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 03 DE JULIO DE 2026.
-Circuito : SED 4056.
-Hora : 07:30 a 12:30 Hrs.
-Motivo : Cambio de transformador a mayor potencia
-Zonas afectadas: Urbanización Teresa de Jesús (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 5884
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5884&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 03/07/2026
-Hora inicio: 07:30
-Hora fin: 12:30
-Distrito: Yura, de Yura
-Zona afectada: Ciudad de Dios (Distrito de Yura).
-Motivo: Cambio de transformador a mayor potencia.
-Ubicación: Circuito : SED 10292.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 03 DE JULIO DE 2026.
-Circuito : SED 10292.
-Hora : 07:30 a 12:30 Hrs.
-Motivo : Cambio de transformador a mayor potencia.
-Zonas afectadas: Ciudad de Dios (Distrito de Yura).
 
 ====================================================================================================
 ID: 5893
