@@ -1,10 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5905,06/07/2026,07:30,15:30,"Cayma, de Cayma","Urbanización Heresi, Calle Los Manzanos (Distrito de Cayma).",Cambio de transformador a 200 KVA,Circuito : SED 4916.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-LUNES, 06 DE JULIO DE 2026.
-Circuito : SED 4916.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Cambio de transformador a 200 KVA
-Zonas afectadas: Urbanización Heresi, Calle Los Manzanos (Distrito de Cayma).",,,,,Evento,el 06/07/2026 8:08 por Cuenta del sistema,06/07/2026 8:08,Cuenta del sistema,Cuenta del sistema,06/07/2026 7:30,06/07/2026 15:30,2026-07-06T07:30:00,2026-07-06T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5905&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,e75fce447214779e1a768be17ed363c4a108ba1db4f36ad3dfafcf8607198ea5
 5907,07/07/2026,07:30,10:30,"Acari, Bella Unión, de Acari, de Bella Unión","Urbanización del Distrito de Acari: Amato, Ampliación El Molino, Anexo Ampliacion Huaroto, Anexo de Chocavento, Anexo El Molino, Anexo Huaroto, Anexo La Joya, Cruz Pata, Humarote, Machaynioc, Mallco, Otapara, Pueblo Nuevo de Acari, Pueblo Viejo de Acari, Santa Teresa, Sector Alto Chocavento, Sector Portachuelos, Upis Miraflores. Urbanización del Distrito de Bella Unión: Bella Unión, Fundo Incahuasi.",Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.,Circuito : [5601] ACARI.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
 MARTES, 07 DE JULIO DE 2026:
 Circuito : [5601] ACARI.

@@ -1,40 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-07 12:40:06
+fecha_ejecucion: 2026-07-08 11:59:11
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-07
-fecha_inicio: 2026-07-06
-fecha_fin: 2026-08-06
+fecha_base: 2026-07-08
+fecha_inicio: 2026-07-07
+fecha_fin: 2026-08-07
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 26
 eventos_totales_extraidos: 26
-eventos_guardados_en_rango: 14
+eventos_guardados_en_rango: 13
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5905
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5905&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 06/07/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Cayma, de Cayma
-Zona afectada: Urbanización Heresi, Calle Los Manzanos (Distrito de Cayma).
-Motivo: Cambio de transformador a 200 KVA
-Ubicación: Circuito : SED 4916.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 06 DE JULIO DE 2026.
-Circuito : SED 4916.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Cambio de transformador a 200 KVA
-Zonas afectadas: Urbanización Heresi, Calle Los Manzanos (Distrito de Cayma).
 
 ====================================================================================================
 ID: 5907
