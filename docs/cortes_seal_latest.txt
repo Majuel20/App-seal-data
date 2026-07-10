@@ -1,200 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-08 11:59:11
+fecha_ejecucion: 2026-07-10 12:38:18
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-08
-fecha_inicio: 2026-07-07
-fecha_fin: 2026-08-07
+fecha_base: 2026-07-10
+fecha_inicio: 2026-07-09
+fecha_fin: 2026-08-09
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 26
-eventos_totales_extraidos: 26
+ids_detectados: 34
+eventos_totales_extraidos: 34
 eventos_guardados_en_rango: 13
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5907
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5907&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 07/07/2026
-Hora inicio: 07:30
-Hora fin: 10:30
-Distrito: Acari, Bella Unión, de Acari, de Bella Unión
-Zona afectada: Urbanización del Distrito de Acari: Amato, Ampliación El Molino, Anexo Ampliacion Huaroto, Anexo de Chocavento, Anexo El Molino, Anexo Huaroto, Anexo La Joya, Cruz Pata, Humarote, Machaynioc, Mallco, Otapara, Pueblo Nuevo de Acari, Pueblo Viejo de Acari, Santa Teresa, Sector Alto Chocavento, Sector Portachuelos, Upis Miraflores. Urbanización del Distrito de Bella Unión: Bella Unión, Fundo Incahuasi.
-Motivo: Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : [5601] ACARI.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 07 DE JULIO DE 2026:
-Circuito : [5601] ACARI.
-Hora : 07:30 a 10:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas Afectadas: Urbanización del Distrito de Acari: Amato, Ampliación El Molino, Anexo Ampliacion Huaroto, Anexo de Chocavento, Anexo El Molino, Anexo Huaroto, Anexo La Joya, Cruz Pata, Humarote, Machaynioc, Mallco, Otapara, Pueblo Nuevo de Acari, Pueblo Viejo de Acari, Santa Teresa, Sector Alto Chocavento, Sector Portachuelos, Upis Miraflores. Urbanización del Distrito de Bella Unión: Bella Unión, Fundo Incahuasi.
-Subestaciones de Distribución (SED) involucradas según zonas afectadas líneas arriba: 9666, 9667, 9673, 9671, 9672, 9610, 9620, 9660, 9662, 9611, 9613, 9615, 9618, 9617, 9616, 9814, 9815, 9693, 9696, 9612, 9614, 9661, 9669, 9807, 9810, 9811, 9816, 9817, 9813, 9812, 9852, 9857, 9842, 9843, 9844, 9839, 9840, 9841, 9860, 9872, 9878, 9879, 7989, 9883, 9884, 9885, 9952, 9966, 9959, 9973, 9970, 9971, 9794, 9997, 9571, 9587, 9364, 9363, 9372, 9391, 9397, 9393, 10250, 9969, 9413, 9416, 9445, 10201, 9670, 9619, 9967.
-
-====================================================================================================
-ID: 5908
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5908&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 07/07/2026
-Hora inicio: 07:30
-Hora fin: 14:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del Distrito de Cerro Colorado: Semi-Rural Pachacutec Grupo 15, Semi-Rural Pachacutec Grupo 25.
-Motivo: Mantenimiento de redes de media tensión (podado de ramas de árboles cercanos a línea de media tensión).
-Ubicación: Circuito : [707] COMERCIO.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 3972, 2806, 3381, 4009, 4035, 4198, 4204, 4232, 4317, 4945, 5045, 5010, 5511, 5694, 5695, 5795, 5808.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 07 DE JULIO DE 2026:
-Circuito : [707] COMERCIO.
-Hora : 07:30 a 14:30 Hrs.
-Motivo : Mantenimiento de redes de media tensión (podado de ramas de árboles cercanos a línea de media tensión).
-Zonas afectadas: Urbanizaciones del Distrito de Cerro Colorado: Semi-Rural Pachacutec Grupo 15, Semi-Rural Pachacutec Grupo 25.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3972, 2806, 3381, 4009, 4035, 4198, 4204, 4232, 4317, 4945, 5045, 5010, 5511, 5694, 5695, 5795, 5808.
-
-====================================================================================================
-ID: 5906
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5906&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 07/07/2026
-Hora inicio: 13:30
-Hora fin: 17:30
-Distrito: Bella Unión, de Bella Unión
-Zona afectada: Urbanizaciones del distrito de Bella Unión: Fundo Santa Julia, Sector Coquito, Fundo Los Olivos, Fundo Santa Sofía, Empresa Minera Los Molles.
-Motivo: Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : Platinos desde REC - 560307.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 07 DE JULIO DE 2026:
-Circuito : Platinos desde REC - 560307.
-Hora : 13:30 a 17:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Bella Unión: Fundo Santa Julia, Sector Coquito, Fundo Los Olivos, Fundo Santa Sofía, Empresa Minera Los Molles.
-Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 9555, 9556, 9557, 9558, 9559, 9560, 9561, 7988.
-
-====================================================================================================
-ID: 5899
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5899&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 08/07/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Majes, de Majes
-Zona afectada: Urbanizaciones del distrito de Majes: D1, D3, D4, D-4 Juan Velazco Alvarado, El Alto.
-Motivo: Mantenimiento de redes de media tensión (cambio e intermediación de postes, limpieza de aisladores y podado de ramas de árboles cercanos a la línea de media tensión).
-Ubicación: Circuito : Pedregal desde BC - 950215.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 6095, 6227, 6094, 6247, 6097, 6096, 6291, 6292, 6118, 6117, 6958, 6116, 6115, 7825, 6108, 6107, 6106, 6086, 6099, 8812, 6098, 6103, 6113, 6092, 6091, 6089, 6090, 6105, 6104, 6102, 8673, 6101, 6112, 6628, 6111, 6110, 6109, 10231, 7677, 6093, 8655, 6406, 7681, 7682, 7683, 7684, 7918, 8905, 8672, 8666, 6119, 6100, 6114.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 08 DE JULIO DE 2026:
-Circuito : Pedregal desde BC - 950215.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio e intermediación de postes, limpieza de aisladores y podado de ramas de árboles cercanos a la línea de media tensión).
-Zonas afectadas: Urbanizaciones del distrito de Majes: D1, D3, D4, D-4 Juan Velazco Alvarado, El Alto.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6095, 6227, 6094, 6247, 6097, 6096, 6291, 6292, 6118, 6117, 6958, 6116, 6115, 7825, 6108, 6107, 6106, 6086, 6099, 8812, 6098, 6103, 6113, 6092, 6091, 6089, 6090, 6105, 6104, 6102, 8673, 6101, 6112, 6628, 6111, 6110, 6109, 10231, 7677, 6093, 8655, 6406, 7681, 7682, 7683, 7684, 7918, 8905, 8672, 8666, 6119, 6100, 6114.
-
-====================================================================================================
-ID: 5895
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5895&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 08/07/2026
-Hora inicio: 07:30
-Hora fin: 11:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Parque industrial Rio Seco, Manzana C (Distrito de Cerro Colorado).
-Motivo: Mantenimiento de subestación tipo caseta.
-Ubicación: Circuito : SED 1548.
-Título: MANTENIMIENTO DE REDES
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 08 DE JULIO DE 2026.
-Circuito : SED 1548.
-Hora : 07:30 a 11:30 Hrs.
-Motivo : Mantenimiento de subestación tipo caseta.
-Zonas afectadas: Parque industrial Rio Seco, Manzana C (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 5896
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5896&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 08/07/2026
-Hora inicio: 07:30
-Hora fin: 11:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Parque industrial Rio Seco APTASA (Distrito de Cerro Colorado).
-Motivo: Mantenimiento de subestación tipo caseta.
-Ubicación: Circuito : SED 4488
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 08 DE JULIO DE 2026.
-Circuito : SED 4488.
-Hora : 07:30 a 11:30 Hrs.
-Motivo : Mantenimiento de subestación tipo caseta.
-Zonas afectadas: Parque industrial Rio Seco APTASA (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 5897
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5897&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 08/07/2026
-Hora inicio: 07:30
-Hora fin: 12:30
-Distrito: Acari, de Acari
-Zona afectada: Urbanizaciones del distrito de Acari: Amato, Ampliación El Molino, Anexo Ampliación Huaroto, Anexo Huaroto, Anexo La Joya, Humarote, Otapara, Upis Miraflores, Machaynioc, Sector Mallco.
-Motivo: Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : Acarí desde REC - 560105.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 08 DE JULIO DE 2026:
-Circuito : Acarí desde REC - 560105.
-Hora : 07:30 a 12:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas Afectadas: Urbanizaciones del distrito de Acari: Amato, Ampliación El Molino, Anexo Ampliación Huaroto, Anexo Huaroto, Anexo La Joya, Humarote, Otapara, Upis Miraflores, Machaynioc, Sector Mallco.
-Subestaciones de Distribución (SED) involucradas según zonas afectadas líneas arriba: 9587, 9814, 9445, 9815, 9693, 9966, 9816, 9817, 9812, 9813, 9883, 9970, 9794, 9997, 9391, 9416, 9884, 9885.
-
-====================================================================================================
-ID: 5898
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5898&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 08/07/2026
-Hora inicio: 14:30
-Hora fin: 16:30
-Distrito: Caraveli, Bella Unión, de Caraveli, de Bella Unión
-Zona afectada: Urbanizaciones del distrito de Caraveli: Fundo Marceliano. Urbanizaciones del distrito de Bella Unión: Fundo San Isidro.
-Motivo: Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : Chala desde SL - 560264.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 9832, 9678.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIERCOLES, 08 DE JULIO DE 2026:
-Circuito : Chala desde SL - 560264.
-Hora : 14:30 a 16:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Caraveli: Fundo Marceliano. Urbanizaciones del distrito de Bella Unión: Fundo San Isidro.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9832, 9678.
 
 ====================================================================================================
 ID: 5901
@@ -309,3 +127,187 @@ Hora : 07:30 a 13:30 Hrs.
 Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
 Zonas afectadas: Urbanizaciones del distrito de Bella Unión: Fundo La Pampita, Lateral 1, Lateral 2, Sector San Pablo. Urbanizaciones del distrito de Jaqui: Jaqui, Lampilla, Mochica, Mochica Baja, Patahuasi. Urbanizaciones del distrito de Yauca: Mochica Baja, Villa El Sol, Yauca.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9675, 9674, 9676, 9677, 9656, 9634, 9633, 9632, 9631, 9628, 9629, 9630, 9687, 9824, 9826, 9829, 9831, 9835, 9838, 9853, 9854, 9855, 9858, 9871, 9877, 9881, 7988, 9891, 9892, 9893, 9890, 9894, 9954, 9956, 9955, 9957, 9961, 9962, 9964, 9992, 9555, 9560, 9561, 9559, 9556, 9557, 9558, 9570, 9965, 9589, 9394, 9389, 9399, 9410, 9418, 10148, 9887.
+
+====================================================================================================
+ID: 5909
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5909&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/07/2026
+Hora inicio: 06:00
+Hora fin: 11:00
+Distrito: Cayarani, Chilcaymarca, Orcopampa, de Cayarani, de Chilcaymarca, de Orcopampa
+Zona afectada: Urbanizaciones del distrito de Cayarani: Cucho Rancho, Palcuyo, Sancomarca, Umachulcco. Urbanizaciones del distrito de Chilcaymarca: Chilcaymarca, Huilluco. Urbanizaciones del distrito de Orcopampa: Allhuire, Cercado, Condorhuayco, Huancarama, Huinpilca, La Calera, La Laguna, Las Tejas, Lontojoya, Misahuanca, Misapuquio, Panahua, Piscina Huancarama, Rumihuasi, Rupaspucro, San Gregorio, San Lazaro, Sarpane, Sausa, Tintaymarca, Vista Alegre, Zarpane.
+Motivo: Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Ubicación: SET : [87] ORCOPAMPA.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7447, 7445, 7446, 7450, 7442, 7441, 7449, 7448, 7443, 7440, 7456, 7464, 7461, 7465, 7455, 7457, 7458, 7454, 7460, 7459, 7462, 7467, 7468, 7469, 7470, 7474, 7352, 7353, 7354, 7359, 7704, 7961, 7962, 7963, 7960, 7764, 7760, 7759, 7758, 7756, 7763, 7762, 7761, 7791, 7792, 7757, 7968, 8793, 8792, 8787, 8794, 8790, 8786, 8788, 8789, 8791, 10189, 7453.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 12 DE JULIO DE 2026:
+SET : [87] ORCOPAMPA.
+Hora : 06:00 a 11:00 Hrs.
+Motivo : Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Zonas afectadas: Urbanizaciones del distrito de Cayarani: Cucho Rancho, Palcuyo, Sancomarca, Umachulcco. Urbanizaciones del distrito de Chilcaymarca: Chilcaymarca, Huilluco. Urbanizaciones del distrito de Orcopampa: Allhuire, Cercado, Condorhuayco, Huancarama, Huinpilca, La Calera, La Laguna, Las Tejas, Lontojoya, Misahuanca, Misapuquio, Panahua, Piscina Huancarama, Rumihuasi, Rupaspucro, San Gregorio, San Lazaro, Sarpane, Sausa, Tintaymarca, Vista Alegre, Zarpane.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7447, 7445, 7446, 7450, 7442, 7441, 7449, 7448, 7443, 7440, 7456, 7464, 7461, 7465, 7455, 7457, 7458, 7454, 7460, 7459, 7462, 7467, 7468, 7469, 7470, 7474, 7352, 7353, 7354, 7359, 7704, 7961, 7962, 7963, 7960, 7764, 7760, 7759, 7758, 7756, 7763, 7762, 7761, 7791, 7792, 7757, 7968, 8793, 8792, 8787, 8794, 8790, 8786, 8788, 8789, 8791, 10189, 7453.
+
+====================================================================================================
+ID: 5910
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5910&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/07/2026
+Hora inicio: 06:00
+Hora fin: 11:00
+Distrito: Alca, Cotahuasi, Huaynacotas, Pampamarca, Tomepampa, Puyca, de Alca, de Cotahuasi, de Huaynacotas, de Pampamarca, de Tomepampa, de Puyca
+Zona afectada: Urbanizaciones del distrito de Alca: La Lucha, Yumasca, Alca, Ayahuasi, Cahuana, Huillac, Ticnay. Urbanizaciones del distrito de Cotahuasi: Acobamba, Ccanchapata 2, Cuno Cuno, Villa Chacaylla. Urbanizaciones del distrito de Huaynacotas: Anexo Chaclla, Huaynacotas, Luicho Chico, Luicho Grande, Taurisma, Visve, Anatabamba, Chincayllapa, Huacay, Piramarca, Sarasara, Tarhuara, Yurac. Urbanizaciones del distrito de Pampamarca: Cochapampa, Mungui, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca. Urbanizaciones del distrito de Tomepampa: Achambi, Huayhuanca, Locrahuanca, Tomepampa. Distrito de Puyca: Ccalla, Churca, Cuspa, Huactapa, Lauripampa, Maghuanca, Meclla, Petcce, Puica, Sayparara, Sayroso, Soncco, Suni.
+Motivo: Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Ubicación: SET : [70] COTAHUASI.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7292, 7291, 7290, 7289, 7288, 7285, 7284, 7283, 7297, 7320, 7317, 7318, 7319, 7296, 7295, 7294, 7293, 7287, 7286, 7336, 7332, 7321, 7302, 7322, 7338, 7343, 7752, 7749, 7750, 7751, 7719, 7972, 9795, 9358, 9360, 9359, 9365, 9395, 10173, 7282, 7280, 7303, 7304, 7307, 7311, 7281, 7316, 7315, 7313, 7314, 7312, 7305, 7306, 7308, 7309, 7310, 7731, 7732, 7730, 7729, 7734, 7735, 7733, 7728, 7746, 7747, 7727, 7725, 7726, 7724, 8644, 9423, 10286.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 12 DE JULIO DE 2026:
+SET : [70] COTAHUASI.
+Hora : 06:00 a 11:00 Hrs.
+Motivo : Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Zonas afectadas: Urbanizaciones del distrito de Alca: La Lucha, Yumasca, Alca, Ayahuasi, Cahuana, Huillac, Ticnay. Urbanizaciones del distrito de Cotahuasi: Acobamba, Ccanchapata 2, Cuno Cuno, Villa Chacaylla. Urbanizaciones del distrito de Huaynacotas: Anexo Chaclla, Huaynacotas, Luicho Chico, Luicho Grande, Taurisma, Visve, Anatabamba, Chincayllapa, Huacay, Piramarca, Sarasara, Tarhuara, Yurac. Urbanizaciones del distrito de Pampamarca: Cochapampa, Mungui, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca. Urbanizaciones del distrito de Tomepampa: Achambi, Huayhuanca, Locrahuanca, Tomepampa. Distrito de Puyca: Ccalla, Churca, Cuspa, Huactapa, Lauripampa, Maghuanca, Meclla, Petcce, Puica, Sayparara, Sayroso, Soncco, Suni.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7292, 7291, 7290, 7289, 7288, 7285, 7284, 7283, 7297, 7320, 7317, 7318, 7319, 7296, 7295, 7294, 7293, 7287, 7286, 7336, 7332, 7321, 7302, 7322, 7338, 7343, 7752, 7749, 7750, 7751, 7719, 7972, 9795, 9358, 9360, 9359, 9365, 9395, 10173, 7282, 7280, 7303, 7304, 7307, 7311, 7281, 7316, 7315, 7313, 7314, 7312, 7305, 7306, 7308, 7309, 7310, 7731, 7732, 7730, 7729, 7734, 7735, 7733, 7728, 7746, 7747, 7727, 7725, 7726, 7724, 8644, 9423, 10286.
+
+====================================================================================================
+ID: 5911
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5911&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/07/2026
+Hora inicio: 06:00
+Hora fin: 11:00
+Distrito: Achoma, Cabanaconde, Callalli, Chivay, Choco, Coporaque, Huambo, Ichupampa, Lari, Maca, Madrigal, San Antonio de Chuca, Sibayo, Tapay, Tisco, Tuti, Yanque, de Achoma, de Cabanaconde, de Callalli, de Chivay, de Choco, de Coporaque, de Huambo, de Ichupampa, de Lari, de Maca, de Madrigal, de San Antonio de Chuca, de Sibayo, de Tapay, de Tisco, de Tuti, de Yanque
+Zona afectada: Urbanizaciones del distrito de Achoma: Achoma. Urbanizaciones del distrito de Cabanaconde: Cabanaconde, Cerro El Mirador, Joyas, Media Luna, Pinchollo, Pirachapampa, Sangalle, Villa El Colca. Urbanizaciones del distrito de Callalli: Callalli, Pulpera, Santa Barbara. Urbanizaciones del distrito de Chivay: Canacota, Chivay, Guillermo Manrique Guzman, Mirador del Colca. Urbanizaciones del distrito de Choco: Choco, Gilla, Humahuato, Llanca, Llatica, Miña, Pachauma, Pallca, Sihuincha, Soro, Ucuchachas. Urbanizaciones del distrito de Coporaque: Coporaque, Nido de Halcon, Sol de Sacsayhuaman. Urbanizaciones del distrito de Huambo: Chinini, Huambo. Urbanizaciones del distrito de Ichupampa: Ichupampa. Urbanizaciones del distrito de Lari: Lari. Urbanizaciones del distrito de Maca: Maca. Urbanizaciones del distrito de Madrigal: Madrigal. Urbanizaciones del distrito de San Antonio de Chuca: Colca, Estación Pillones, Imata. Urbanizaciones del distrito de Sibayo: Sibayo. Urbanizaciones del distrito de Tapay: Anexo El Fure, Anexo San Juan de Chuccho, Barrio Santiago, Belen, Cosñirhua, Malata, Paclla, Puquio, San Juan de Chuccho, Tapay, Tocallo, Turuña. Urbanizaciones del distrito de Tisco: Cotacota, Tisco. Urbanizaciones del distrito de Tuti: Tuti. Urbanizaciones del distrito de Yanque: Chalhuanca, Yanque.
+Motivo: Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Ubicación: SET : [91] CALLALLI.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7546, 7540, 7534, 7549, 7523, 7539, 7508, 7513, 7533, 7532, 7524, 7525, 7522, 7521, 7518, 7519, 7511, 7509, 7512, 7510, 7507, 7506, 7542, 7541, 7548, 7560, 7559, 7561, 7579, 7551, 7552, 7553, 7562, 7569, 7570, 7566, 7567, 7558, 7573, 7574, 7575, 7572, 7571, 7563, 7564, 7577, 7576, 7568, 7550, 7580, 7581, 7582, 7557, 7555, 7547, 7585, 7543, 7556, 7515, 7514, 7526, 7537, 7535, 7536, 7531, 7529, 7527, 7517, 7516, 7503, 7545, 7520, 7544, 7584, 7587, 7502, 7501, 7504, 7505, 7590, 7592, 7591, 7593, 7595, 7597, 7598, 7599, 7589, 7600, 7583, 7601, 7613, 7642, 7652, 7662, 7626, 7686, 7673, 7674, 7711, 7818, 7827, 7702, 7828, 7829, 7833, 7832, 7831, 7834, 7869, 7879, 7874, 7875, 7876, 7877, 7878, 7881, 7880, 7882, 7883, 7884, 7885, 7886, 7835, 7889, 7999, 9796, 9789, 9579, 9580, 7890, 9581, 9582, 9578, 9374, 9375, 9788, 9376, 9377, 9396, 9430, 8795, 7554, 7530, 7578, 7565, 7538, 7612, 7666, 10126, 10339.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 12 DE JULIO DE 2026:
+SET : [91] CALLALLI.
+Hora : 06:00 a 11:00 Hrs.
+Motivo : Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Zonas afectadas : Urbanizaciones del distrito de Achoma: Achoma. Urbanizaciones del distrito de Cabanaconde: Cabanaconde, Cerro El Mirador, Joyas, Media Luna, Pinchollo, Pirachapampa, Sangalle, Villa El Colca. Urbanizaciones del distrito de Callalli: Callalli, Pulpera, Santa Barbara. Urbanizaciones del distrito de Chivay: Canacota, Chivay, Guillermo Manrique Guzman, Mirador del Colca. Urbanizaciones del distrito de Choco: Choco, Gilla, Humahuato, Llanca, Llatica, Miña, Pachauma, Pallca, Sihuincha, Soro, Ucuchachas. Urbanizaciones del distrito de Coporaque: Coporaque, Nido de Halcon, Sol de Sacsayhuaman. Urbanizaciones del distrito de Huambo: Chinini, Huambo. Urbanizaciones del distrito de Ichupampa: Ichupampa. Urbanizaciones del distrito de Lari: Lari. Urbanizaciones del distrito de Maca: Maca. Urbanizaciones del distrito de Madrigal: Madrigal. Urbanizaciones del distrito de San Antonio de Chuca: Colca, Estación Pillones, Imata. Urbanizaciones del distrito de Sibayo: Sibayo. Urbanizaciones del distrito de Tapay: Anexo El Fure, Anexo San Juan de Chuccho, Barrio Santiago, Belen, Cosñirhua, Malata, Paclla, Puquio, San Juan de Chuccho, Tapay, Tocallo, Turuña. Urbanizaciones del distrito de Tisco: Cotacota, Tisco. Urbanizaciones del distrito de Tuti: Tuti. Urbanizaciones del distrito de Yanque: Chalhuanca, Yanque.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7546, 7540, 7534, 7549, 7523, 7539, 7508, 7513, 7533, 7532, 7524, 7525, 7522, 7521, 7518, 7519, 7511, 7509, 7512, 7510, 7507, 7506, 7542, 7541, 7548, 7560, 7559, 7561, 7579, 7551, 7552, 7553, 7562, 7569, 7570, 7566, 7567, 7558, 7573, 7574, 7575, 7572, 7571, 7563, 7564, 7577, 7576, 7568, 7550, 7580, 7581, 7582, 7557, 7555, 7547, 7585, 7543, 7556, 7515, 7514, 7526, 7537, 7535, 7536, 7531, 7529, 7527, 7517, 7516, 7503, 7545, 7520, 7544, 7584, 7587, 7502, 7501, 7504, 7505, 7590, 7592, 7591, 7593, 7595, 7597, 7598, 7599, 7589, 7600, 7583, 7601, 7613, 7642, 7652, 7662, 7626, 7686, 7673, 7674, 7711, 7818, 7827, 7702, 7828, 7829, 7833, 7832, 7831, 7834, 7869, 7879, 7874, 7875, 7876, 7877, 7878, 7881, 7880, 7882, 7883, 7884, 7885, 7886, 7835, 7889, 7999, 9796, 9789, 9579, 9580, 7890, 9581, 9582, 9578, 9374, 9375, 9788, 9376, 9377, 9396, 9430, 8795, 7554, 7530, 7578, 7565, 7538, 7612, 7666, 10126, 10339.
+
+====================================================================================================
+ID: 5912
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5912&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/07/2026
+Hora inicio: 06:00
+Hora fin: 11:00
+Distrito: Caylloma, Sibayo, Tisco, de Caylloma, de Sibayo, de Tisco
+Zona afectada: Urbanizaciones del distrito de Caylloma: Coraza, Cuchocapilla, Jachaña, Pusa Pusa, Santa Rosa, Sotocaya. Urbanizaciones del distrito de Sibayo: Condorcuyo. Urbanizaciones del distrito de Tisco: Ccascas, Tarucamarca.
+Motivo: Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Ubicación: SET : [93] SAN ANTONIO.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7603, 7611, 7608, 7609, 7604, 7610, 7607, 7606, 7605, 7602.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 12 DE JULIO DE 2026:
+SET : [93] SAN ANTONIO.
+Hora : 06:00 a 11:00 Hrs.
+Motivo : Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Zonas afectadas: Urbanizaciones del distrito de Caylloma: Coraza, Cuchocapilla, Jachaña, Pusa Pusa, Santa Rosa, Sotocaya. Urbanizaciones del distrito de Sibayo: Condorcuyo. Urbanizaciones del distrito de Tisco: Ccascas, Tarucamarca.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7603, 7611, 7608, 7609, 7604, 7610, 7607, 7606, 7605, 7602.
+
+====================================================================================================
+ID: 5913
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5913&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/07/2026
+Hora inicio: 06:00
+Hora fin: 11:00
+Distrito: Caylloma, de Caylloma
+Zona afectada: Urbanizaciones del distrito de Caylloma: MUNICIPALIDAD DISTRITAL DE CAYLLOMA (SUMINISTRO EN BLOQUE).
+Motivo: Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Ubicación: Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 12 DE JULIO DE 2026:
+Hora : 06:00 a 11:00 Hrs.
+Motivo : Afectado por corte programado de REP ‘Red de Energía del Perú’ para Mantenimiento Correctivo, reposición del SA-4259 fase “R” L-1020
+Zonas afectadas: Urbanizaciones del distrito de Caylloma: MUNICIPALIDAD DISTRITAL DE CAYLLOMA (SUMINISTRO EN BLOQUE).
+
+====================================================================================================
+ID: 5915
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5915&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/07/2026
+Hora inicio: 06:00
+Hora fin: 14:00
+Distrito: La Joya, Mollendo, Vitor, de La Joya, de Mollendo, de Vitor
+Zona afectada: Urbanizaciones del distrito de La Joya: A.H. Santa Rosa, Asentamiento 6, Avpi Señales de Esperanza, Cristo Rey Zona 1, Cristo Rey Zona 2, Irrigación San Isidro, Progreso Km48, San José, Sector Gloria Irrigación La Joya, Sor Ana de Los Ángeles Monteagudo, Villa Esperanza San Jose II, Villa Hermosa, Cerrito Buena Vista, Cesar Garrido Lecca Soto, El Ramal, El Triunfo II, El Triunfo Zona "A", El Triunfo Zona "B", El Triunfo Zona "C", Héroes Anónimos, La Curva, La Florida, La Joya Antigua Sector 1, La Joya Antigua Sector 3, La Pradera del Lago, La Victoria, Las Casuarinas, Las Dunas, Leche Gloria, Los Girasoles de La Joya, Los Laureles, Los Médanos Zona A, Los Médanos Zona B, Los Milagros, Los Patriotas, Los Rosales, Marko Jara Schenone, Mirador La Victoria, Mirador La Victoria II, P.J. El Paraíso, Palca, primavera, San Francisco, Villa San Juan. Urbanizaciones del distrito de Mollendo: A.H. Villa Panamericana, Asentamiento 5, Asentamiento 7, Centro de Servicios Estrellita de Oro, Colonización La Joya - Asentamiento 5, La Cruz del Cerrito San Camilo, Nuevo Amanecer Irrigación San Camilo, Urbanizaciones del distrito de Vitor: Alto La Cano, Asoc de Viv Centro de Servicios San Isidro Valle Encantado, Casa Huerta - San Isidro, Esmeralda, Irrigación La Cano, Irrigación San Isidro, Joia Morena, La Cano II, Las Fincas, San Luis La Cano, 9 de febrero, Barrio Nuevo Zona "A", Cuarta Pampa, El Pacay, Irrigación Benito Lazo Sector L71-1A-3, La Caleta, Primera Pampa, San Luis, Segunda Pampa, Sotillo, Tercera Pampa, Valencia Chico, Valencia Grande, Virgen de Chapi.
+Motivo: Mantenimiento de Subestación y Pruebas a transformador de Potencia.
+Ubicación: Circuito : [26] REPARTICION, [27] EL CRUCE.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 6790, 6795, 6794, 6793, 6930, 6927, 6872, 6873, 6874, 6863, 6880, 6866, 6876, 6871, 6865, 6862, 6870, 6869, 6875, 6878, 6879, 6868, 6864, 6877, 6936, 6857, 6858, 6861, 6928, 6796, 6818, 6931, 6910, 6913, 6907, 6922, 6917, 6916, 6912, 6911, 6903, 6904, 6797, 6798, 6867, 6860, 6859, 6943, 6938, 6929, 6919, 6926, 6906, 6918, 6914, 6915, 6902, 6909, 6908, 6900, 6901, 6799, 6699, 6920, 6937, 6855, 6887, 6848, 6898, 6984, 6825, 6987, 6992, 6993, 6952, 6630, 6650, 6651, 6652, 6653, 6654, 6655, 6656, 6657, 6658, 6659, 6642, 6644, 6643, 6666, 6667, 6665, 6669, 6664, 6668, 6925, 6634, 6633, 6631, 6632, 6635, 6639, 6660, 6663, 6662, 6661, 6636, 6637, 6638, 6640, 6641, 6671, 6672, 6670, 6645, 6646, 6648, 6647, 6649, 6526, 6529, 6692, 6693, 6694, 6695, 6698, 6696, 6697, 6686, 6687, 6688, 6689, 6690, 6691, 6680, 6681, 6682, 6683, 6684, 6685, 6674, 6675, 6676, 6677, 6678, 6679, 6516, 6517, 6518, 6519, 6520, 6521, 6522, 6523, 6673, 6530, 6531, 6543, 6544, 6548, 6547, 6541, 6550, 6551, 6558, 6566, 6580, 6585, 6588, 6592, 6612, 7629, 7616, 7618, 7617, 7646, 7659, 7675, 7680, 7685, 7696, 7699, 7819, 7708, 7929, 7932, 7931, 7893, 7894, 7895, 7896, 7898, 7899, 7900, 7901, 7902, 7897, 7904, 7903, 7905, 4784, 4782, 4783, 4787, 4785, 4786, 7914, 7913, 7927, 7948, 7934, 7935, 7920, 7873, 7844, 7868, 7842, 8804, 8803, 8805, 8802, 8801, 7991, 8813, 7870, 7871, 8815, 7839, 8828, 8834, 8826, 7841, 8860, 8865, 8870, 8872, 8879, 8878, 8876, 8864, 8863, 8862, 8874, 8819, 8869, 8915, 8916, 8917, 8537, 8549, 8550, 8551, 8922, 8921, 8923, 8928, 8924, 8926, 8925, 8927, 8936, 8933, 8931, 8940, 8941, 8937, 8938, 8935, 8929, 8930, 8939, 8583, 8567, 8946, 8945, 8595, 8602, 8555, 8683, 8684, 8691, 8724, 8596, 8597, 8867, 8868, 7639, 7679, 7678, 7693, 7694, 7695, 7813, 7814, 7812, 7815, 10127, 10025, 9438, 9439, 9441, 9440, 8780, 8779, 8778, 9442, 10024, 8800, 8798, 8799, 10206, 10205, 8732, 8733, 8730, 8731, 10255, 10160, 10278, 10300, 10313, 10314, 6932, 6956, 6981, 6546, 6560, 7658, 4780, 4781, 8806, 8934, 8932. 6739, 6738, 6732, 6721, 6722, 6723, 6791, 6775, 6773, 6771, 6769, 6766, 6774, 6761, 6760, 6786, 6784, 6782, 6749, 6748, 6747, 6753, 6752, 6745, 6746, 6742, 6755, 6754, 6756, 6724, 6720, 8900, 6715, 6707, 6737, 6731, 6730, 6725, 6716, 6706, 6702, 6822, 6821, 6826, 6827, 6828, 6824, 6851, 6852, 6853, 6854, 6831, 6807, 6819, 6893, 6816, 6817, 6813, 6808, 6804, 6806, 6802, 6965, 6889, 6883, 6884, 6856, 6839, 6841, 6842, 6843, 6844, 6845, 6846, 6847, 6840, 6850, 6832, 6833, 6834, 6835, 6838, 6836, 6934, 6933, 6967, 6966, 6939, 6942, 6734, 6733, 6728, 6777, 6764, 6763, 6762, 6759, 6758, 6757, 6787, 6789, 6788, 6785, 6783, 6751, 6750, 6741, 6740, 6743, 6744, 6735, 6729, 6719, 6718, 6708, 6705, 6810, 6533, 6812, 6815, 6803, 6801, 6886, 6935, 6972, 7500, 6954, 6897, 6977, 6978, 6979, 6892, 6823, 6894, 6895, 6896, 6767, 6792, 6881, 6891, 6982, 6983, 6800, 6849, 6985, 6986, 6990, 6994, 6991, 6953, 6811, 6701, 6995, 6944, 6946, 6999, 6947, 6525, 6528, 6524, 6538, 6540, 6534, 6537, 6542, 6545, 6809, 6549, 6562, 6563, 6564, 6565, 6568, 6572, 6573, 6574, 6561, 6570, 6571, 6575, 6584, 6583, 6586, 6576, 6577, 6578, 6579, 6589, 6594, 6593, 6598, 6599, 6596, 7615, 7627, 7632, 7633, 7634, 7346, 7635, 7981, 7636, 7619, 7637, 7657, 7667, 7670, 7703, 7709, 8642, 7823, 7822, 7922, 7930, 7925, 7926, 4790, 4804, 7924, 9523, 9525, 9527, 9522, 9519, 7938, 7947, 7939, 7933, 7992, 7845, 7846, 7847, 7848, 7849, 7865, 7866, 7851, 7855, 7850, 7854, 7853, 7852, 7856, 7857, 7858, 7859, 7860, 7861, 7863, 7862, 7864, 7872, 7888, 8833, 8861, 7976, 8871, 8814, 8825, 8877, 8875, 8880, 8888, 8893, 6717, 8907, 8903, 8909, 8910, 8944, 8914, 8531, 8527, 8530, 8529, 8528, 8554, 8854, 8570, 8569, 8548, 8568, 8896, 8897, 8621, 8616, 8615, 8617, 6704, 8645, 8651, 8663, 8681, 8661, 8584, 8675, 8677, 8676, 8742, 10049, 10116, 8782, 8783, 10202, 9437, 10230, 10282, 6726, 6712, 6713, 6714, 6820, 6736, 6772, 6770, 6709, 6710, 6711, 6973, 6765, 6527, 6590, 4788, 4789, 8918, 8919, 8920, 8634, 8713, 8781.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 12 DE JULIO DE 2026:
+Circuito : [26] REPARTICION, [27] EL CRUCE.
+Hora : 06:00 a 14:00 Hrs.
+Motivo : Mantenimiento de Subestación y Pruebas a transformador de Potencia.
+Zonas afectadas: Urbanizaciones del distrito de La Joya: A.H. Santa Rosa, Asentamiento 6, Avpi Señales de Esperanza, Cristo Rey Zona 1, Cristo Rey Zona 2, Irrigación San Isidro, Progreso Km48, San José, Sector Gloria Irrigación La Joya, Sor Ana de Los Ángeles Monteagudo, Villa Esperanza San Jose II, Villa Hermosa, Cerrito Buena Vista, Cesar Garrido Lecca Soto, El Ramal, El Triunfo II, El Triunfo Zona "A", El Triunfo Zona "B", El Triunfo Zona "C", Héroes Anónimos, La Curva, La Florida, La Joya Antigua Sector 1, La Joya Antigua Sector 3, La Pradera del Lago, La Victoria, Las Casuarinas, Las Dunas, Leche Gloria, Los Girasoles de La Joya, Los Laureles, Los Médanos Zona A, Los Médanos Zona B, Los Milagros, Los Patriotas, Los Rosales, Marko Jara Schenone, Mirador La Victoria, Mirador La Victoria II, P.J. El Paraíso, Palca, primavera, San Francisco, Villa San Juan.
+Urbanizaciones del distrito de Mollendo: A.H. Villa Panamericana, Asentamiento 5, Asentamiento 7, Centro de Servicios Estrellita de Oro, Colonización La Joya - Asentamiento 5, La Cruz del Cerrito San Camilo, Nuevo Amanecer Irrigación San Camilo,
+Urbanizaciones del distrito de Vitor: Alto La Cano, Asoc de Viv Centro de Servicios San Isidro Valle Encantado, Casa Huerta - San Isidro, Esmeralda, Irrigación La Cano, Irrigación San Isidro, Joia Morena, La Cano II, Las Fincas, San Luis La Cano, 9 de febrero, Barrio Nuevo Zona "A", Cuarta Pampa, El Pacay, Irrigación Benito Lazo Sector L71-1A-3, La Caleta, Primera Pampa, San Luis, Segunda Pampa, Sotillo, Tercera Pampa, Valencia Chico, Valencia Grande, Virgen de Chapi.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6790, 6795, 6794, 6793, 6930, 6927, 6872, 6873, 6874, 6863, 6880, 6866, 6876, 6871, 6865, 6862, 6870, 6869, 6875, 6878, 6879, 6868, 6864, 6877, 6936, 6857, 6858, 6861, 6928, 6796, 6818, 6931, 6910, 6913, 6907, 6922, 6917, 6916, 6912, 6911, 6903, 6904, 6797, 6798, 6867, 6860, 6859, 6943, 6938, 6929, 6919, 6926, 6906, 6918, 6914, 6915, 6902, 6909, 6908, 6900, 6901, 6799, 6699, 6920, 6937, 6855, 6887, 6848, 6898, 6984, 6825, 6987, 6992, 6993, 6952, 6630, 6650, 6651, 6652, 6653, 6654, 6655, 6656, 6657, 6658, 6659, 6642, 6644, 6643, 6666, 6667, 6665, 6669, 6664, 6668, 6925, 6634, 6633, 6631, 6632, 6635, 6639, 6660, 6663, 6662, 6661, 6636, 6637, 6638, 6640, 6641, 6671, 6672, 6670, 6645, 6646, 6648, 6647, 6649, 6526, 6529, 6692, 6693, 6694, 6695, 6698, 6696, 6697, 6686, 6687, 6688, 6689, 6690, 6691, 6680, 6681, 6682, 6683, 6684, 6685, 6674, 6675, 6676, 6677, 6678, 6679, 6516, 6517, 6518, 6519, 6520, 6521, 6522, 6523, 6673, 6530, 6531, 6543, 6544, 6548, 6547, 6541, 6550, 6551, 6558, 6566, 6580, 6585, 6588, 6592, 6612, 7629, 7616, 7618, 7617, 7646, 7659, 7675, 7680, 7685, 7696, 7699, 7819, 7708, 7929, 7932, 7931, 7893, 7894, 7895, 7896, 7898, 7899, 7900, 7901, 7902, 7897, 7904, 7903, 7905, 4784, 4782, 4783, 4787, 4785, 4786, 7914, 7913, 7927, 7948, 7934, 7935, 7920, 7873, 7844, 7868, 7842, 8804, 8803, 8805, 8802, 8801, 7991, 8813, 7870, 7871, 8815, 7839, 8828, 8834, 8826, 7841, 8860, 8865, 8870, 8872, 8879, 8878, 8876, 8864, 8863, 8862, 8874, 8819, 8869, 8915, 8916, 8917, 8537, 8549, 8550, 8551, 8922, 8921, 8923, 8928, 8924, 8926, 8925, 8927, 8936, 8933, 8931, 8940, 8941, 8937, 8938, 8935, 8929, 8930, 8939, 8583, 8567, 8946, 8945, 8595, 8602, 8555, 8683, 8684, 8691, 8724, 8596, 8597, 8867, 8868, 7639, 7679, 7678, 7693, 7694, 7695, 7813, 7814, 7812, 7815, 10127, 10025, 9438, 9439, 9441, 9440, 8780, 8779, 8778, 9442, 10024, 8800, 8798, 8799, 10206, 10205, 8732, 8733, 8730, 8731, 10255, 10160, 10278, 10300, 10313, 10314, 6932, 6956, 6981, 6546, 6560, 7658, 4780, 4781, 8806, 8934, 8932. 6739, 6738, 6732, 6721, 6722, 6723, 6791, 6775, 6773, 6771, 6769, 6766, 6774, 6761, 6760, 6786, 6784, 6782, 6749, 6748, 6747, 6753, 6752, 6745, 6746, 6742, 6755, 6754, 6756, 6724, 6720, 8900, 6715, 6707, 6737, 6731, 6730, 6725, 6716, 6706, 6702, 6822, 6821, 6826, 6827, 6828, 6824, 6851, 6852, 6853, 6854, 6831, 6807, 6819, 6893, 6816, 6817, 6813, 6808, 6804, 6806, 6802, 6965, 6889, 6883, 6884, 6856, 6839, 6841, 6842, 6843, 6844, 6845, 6846, 6847, 6840, 6850, 6832, 6833, 6834, 6835, 6838, 6836, 6934, 6933, 6967, 6966, 6939, 6942, 6734, 6733, 6728, 6777, 6764, 6763, 6762, 6759, 6758, 6757, 6787, 6789, 6788, 6785, 6783, 6751, 6750, 6741, 6740, 6743, 6744, 6735, 6729, 6719, 6718, 6708, 6705, 6810, 6533, 6812, 6815, 6803, 6801, 6886, 6935, 6972, 7500, 6954, 6897, 6977, 6978, 6979, 6892, 6823, 6894, 6895, 6896, 6767, 6792, 6881, 6891, 6982, 6983, 6800, 6849, 6985, 6986, 6990, 6994, 6991, 6953, 6811, 6701, 6995, 6944, 6946, 6999, 6947, 6525, 6528, 6524, 6538, 6540, 6534, 6537, 6542, 6545, 6809, 6549, 6562, 6563, 6564, 6565, 6568, 6572, 6573, 6574, 6561, 6570, 6571, 6575, 6584, 6583, 6586, 6576, 6577, 6578, 6579, 6589, 6594, 6593, 6598, 6599, 6596, 7615, 7627, 7632, 7633, 7634, 7346, 7635, 7981, 7636, 7619, 7637, 7657, 7667, 7670, 7703, 7709, 8642, 7823, 7822, 7922, 7930, 7925, 7926, 4790, 4804, 7924, 9523, 9525, 9527, 9522, 9519, 7938, 7947, 7939, 7933, 7992, 7845, 7846, 7847, 7848, 7849, 7865, 7866, 7851, 7855, 7850, 7854, 7853, 7852, 7856, 7857, 7858, 7859, 7860, 7861, 7863, 7862, 7864, 7872, 7888, 8833, 8861, 7976, 8871, 8814, 8825, 8877, 8875, 8880, 8888, 8893, 6717, 8907, 8903, 8909, 8910, 8944, 8914, 8531, 8527, 8530, 8529, 8528, 8554, 8854, 8570, 8569, 8548, 8568, 8896, 8897, 8621, 8616, 8615, 8617, 6704, 8645, 8651, 8663, 8681, 8661, 8584, 8675, 8677, 8676, 8742, 10049, 10116, 8782, 8783, 10202, 9437, 10230, 10282, 6726, 6712, 6713, 6714, 6820, 6736, 6772, 6770, 6709, 6710, 6711, 6973, 6765, 6527, 6590, 4788, 4789, 8918, 8919, 8920, 8634, 8713, 8781.
+
+====================================================================================================
+ID: 5916
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5916&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/07/2026
+Hora inicio: 06:00
+Hora fin: 13:00
+Distrito: Arequipa, Yanahuara, de Arequipa, de Yanahuara
+Zona afectada: Urbanizaciones de distrito de Arequipa: Club Internacional. Urbanizaciones del distrito de Yanahuara: Quinta Santa Luiza, Yanahuara.
+Motivo: Inserción de subestación de distribución y otros mantenimientos de redes en media tensión.
+Ubicación: Circuito : [207] SAGA.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 1218, 1217, 3312, 3269, 3003, 2401, 3004, 1694, 3272, 3271, 2535, 3541, 3268, 1820, 1236, 2612, 2977, 3005, 3026, 1213, 1062, 3388, 1214, 1348, 3006, 3256, 3795, 2430, 4651, 3265, 4698, 4901, 4754, 4806, 5062, 5647, 5846, 5848, 5817, 10130.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 12 DE JULIO DE 2026:
+Circuito : [207] SAGA.
+Hora : 06:00 a 13:00 Hrs.
+Motivo : Inserción de subestación de distribución y otros mantenimientos de redes en media tensión.
+Zonas afectadas: Urbanizaciones de distrito de Arequipa: Club Internacional. Urbanizaciones del distrito de Yanahuara: Quinta Santa Luiza, Yanahuara.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1218, 1217, 3312, 3269, 3003, 2401, 3004, 1694, 3272, 3271, 2535, 3541, 3268, 1820, 1236, 2612, 2977, 3005, 3026, 1213, 1062, 3388, 1214, 1348, 3006, 3256, 3795, 2430, 4651, 3265, 4698, 4901, 4754, 4806, 5062, 5647, 5846, 5848, 5817, 10130.
+
+====================================================================================================
+ID: 5914
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5914&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/07/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Islay, Mollendo, de Islay, de Mollendo
+Zona afectada: Urbanización del Distrito de Islay: Centro poblado de Islay, Matarani, Carretera al Faro Tisur. Urbanización del Distrito de Mollendo: Ceticos Matarani.
+Motivo: Mantenimiento de redes de media tensión (cambio e instalación de postes, cambio de armado, cambio de conductor a 120 mm2).
+Ubicación: Circuito : [3502] TISUR.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 12 DE JULIO DE 2026:
+Circuito : [3502] TISUR.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Mantenimiento de redes de media tensión (cambio e instalación de postes, cambio de armado, cambio de conductor a 120 mm2).
+Zonas Afectadas: Urbanización del Distrito de Islay: Centro poblado de Islay, Matarani, Carretera al Faro Tisur. Urbanización del Distrito de Mollendo: Ceticos Matarani.
+Subestaciones de Distribución (SED) involucradas según zonas afectadas líneas arriba: 8130, 8630, 8629, 8418.
