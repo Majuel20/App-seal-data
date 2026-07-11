@@ -1,87 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-10 12:38:18
+fecha_ejecucion: 2026-07-11 11:27:09
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-10
-fecha_inicio: 2026-07-09
-fecha_fin: 2026-08-09
+fecha_base: 2026-07-11
+fecha_inicio: 2026-07-10
+fecha_fin: 2026-08-10
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 34
 eventos_totales_extraidos: 34
-eventos_guardados_en_rango: 13
+eventos_guardados_en_rango: 10
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5901
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5901&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 09/07/2026
-Hora inicio: 07:30
-Hora fin: 14:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Semi Rural Pachacutec Grupo 10, Grupo 16, Grupo 18, Grupo 19.
-Motivo: Subsanación de deficiencias de acuerdo al Proc. 228-2009-OS/CD Osinergmin y otros mantenimientos de redes de media tensión.
-Ubicación: Circuito : Valle Blanco desde BC - 200577.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 1123, 1366, 1626, 2346, 2979, 3371, 3697, 4484, 4656, 5610, 5732, 5936.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 09 DE JULIO DE 2026:
-Circuito : Valle Blanco desde BC - 200577.
-Hora : 07:30 a 14:30 Hrs.
-Motivo : Subsanación de deficiencias de acuerdo al Proc. 228-2009-OS/CD Osinergmin y otros mantenimientos de redes de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Semi Rural Pachacutec Grupo 10, Grupo 16, Grupo 18, Grupo 19.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1123, 1366, 1626, 2346, 2979, 3371, 3697, 4484, 4656, 5610, 5732, 5936.
-
-====================================================================================================
-ID: 5902
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5902&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 09/07/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Lomas, de Lomas
-Zona afectada: Urbanizaciones del distrito de Lomas: Costa Azul, Los Jazmines, Puerto Lomas.
-Motivo: Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : Chala desde REC - 200157.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 9655, 9882, 9654, 9626, 9349, 9827, 9847.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 09 DE JULIO DE 2026:
-Circuito : Chala desde REC - 200157.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Lomas: Costa Azul, Los Jazmines, Puerto Lomas.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9655, 9882, 9654, 9626, 9349, 9827, 9847.
-
-====================================================================================================
-ID: 5900
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5900&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 09/07/2026
-Hora inicio: 08:00
-Hora fin: 16:00
-Distrito: Cocachacra
-Zona afectada: Urbanizaciones del distrito Cocachacra: El Fiscal.
-Motivo: Mantenimiento de redes de media tensión (cambio de transformador y limpieza de aisladores).
-Ubicación: Circuito : Fiscal desde CC - 200243.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 8222 8223 8512 8224 8513.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 09 DE JULIO DE 2026:
-Circuito : Fiscal desde CC - 200243.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de transformador y limpieza de aisladores).
-Zonas afectadas: Urbanizaciones del distrito Cocachacra: El Fiscal.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8222 8223 8512 8224 8513.
 
 ====================================================================================================
 ID: 5903

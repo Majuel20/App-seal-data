@@ -1,25 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5901,09/07/2026,07:30,14:30,"Cerro Colorado, de Cerro Colorado","Urbanizaciones del distrito de Cerro Colorado: Semi Rural Pachacutec Grupo 10, Grupo 16, Grupo 18, Grupo 19.",Subsanación de deficiencias de acuerdo al Proc. 228-2009-OS/CD Osinergmin y otros mantenimientos de redes de media tensión.,Circuito : Valle Blanco desde BC - 200577.,MANTENIMIENTO DE REDES.,"1123, 1366, 1626, 2346, 2979, 3371, 3697, 4484, 4656, 5610, 5732, 5936.","MANTENIMIENTO DE REDES.
-JUEVES, 09 DE JULIO DE 2026:
-Circuito : Valle Blanco desde BC - 200577.
-Hora : 07:30 a 14:30 Hrs.
-Motivo : Subsanación de deficiencias de acuerdo al Proc. 228-2009-OS/CD Osinergmin y otros mantenimientos de redes de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Semi Rural Pachacutec Grupo 10, Grupo 16, Grupo 18, Grupo 19.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1123, 1366, 1626, 2346, 2979, 3371, 3697, 4484, 4656, 5610, 5732, 5936.",,,,,Evento,el 06/07/2026 8:05 por Cuenta del sistema,06/07/2026 8:05,Cuenta del sistema,Cuenta del sistema,09/07/2026 7:30,09/07/2026 14:30,2026-07-09T07:30:00,2026-07-09T14:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5901&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,eec06c9e26677b0d6945206bf673da94dc85413acbd5c05c83a93e08fd578b53
-5902,09/07/2026,07:30,15:30,"Lomas, de Lomas","Urbanizaciones del distrito de Lomas: Costa Azul, Los Jazmines, Puerto Lomas.",Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.,Circuito : Chala desde REC - 200157.,MANTENIMIENTO DE REDES.,"9655, 9882, 9654, 9626, 9349, 9827, 9847.","MANTENIMIENTO DE REDES.
-JUEVES, 09 DE JULIO DE 2026:
-Circuito : Chala desde REC - 200157.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Lomas: Costa Azul, Los Jazmines, Puerto Lomas.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9655, 9882, 9654, 9626, 9349, 9827, 9847.",,,,,Evento,el 06/07/2026 8:06 por Cuenta del sistema,06/07/2026 8:06,Cuenta del sistema,Cuenta del sistema,09/07/2026 7:30,09/07/2026 15:30,2026-07-09T07:30:00,2026-07-09T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5902&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,3a3feafd29901401df7aed9c45921fcc59d37fb98ad972591efa5d166db4dfac
-5900,09/07/2026,08:00,16:00,Cocachacra,Urbanizaciones del distrito Cocachacra: El Fiscal.,Mantenimiento de redes de media tensión (cambio de transformador y limpieza de aisladores).,Circuito : Fiscal desde CC - 200243.,MANTENIMIENTO DE REDES.,8222 8223 8512 8224 8513.,"MANTENIMIENTO DE REDES.
-JUEVES, 09 DE JULIO DE 2026:
-Circuito : Fiscal desde CC - 200243.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de transformador y limpieza de aisladores).
-Zonas afectadas: Urbanizaciones del distrito Cocachacra: El Fiscal.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8222 8223 8512 8224 8513.",,,,,Evento,el 06/07/2026 8:04 por Cuenta del sistema,06/07/2026 8:04,Cuenta del sistema,Cuenta del sistema,09/07/2026 8:00,09/07/2026 16:00,2026-07-09T08:00:00,2026-07-09T16:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5900&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,74a48a1e37cadf8f292836fb6f4ea66db71a266cf5d7511741e0d825f76963f3
 5903,10/07/2026,07:30,15:30,"José Luis Bustamante, Rivero, de José Luis Bustamante","Bancarios, Calle Los Cedros, Calle Los Pinos (Distrito de José Luis Bustamante y Rivero).",Cambio de transformador a 160 KVA,Circuito : SED 3245.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
 VIERNES, 10 DE JULIO DE 2026.
 Circuito : SED 3245.
