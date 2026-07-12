@@ -1,63 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-11 11:27:09
+fecha_ejecucion: 2026-07-12 11:33:36
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-11
-fecha_inicio: 2026-07-10
-fecha_fin: 2026-08-10
+fecha_base: 2026-07-12
+fecha_inicio: 2026-07-11
+fecha_fin: 2026-08-11
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 34
 eventos_totales_extraidos: 34
-eventos_guardados_en_rango: 10
+eventos_guardados_en_rango: 8
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5903
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5903&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 10/07/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: José Luis Bustamante, Rivero, de José Luis Bustamante
-Zona afectada: Bancarios, Calle Los Cedros, Calle Los Pinos (Distrito de José Luis Bustamante y Rivero).
-Motivo: Cambio de transformador a 160 KVA
-Ubicación: Circuito : SED 3245.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 10 DE JULIO DE 2026.
-Circuito : SED 3245.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Cambio de transformador a 160 KVA
-Zonas afectadas: Bancarios, Calle Los Cedros, Calle Los Pinos (Distrito de José Luis Bustamante y Rivero).
-
-====================================================================================================
-ID: 5904
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5904&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 10/07/2026
-Hora inicio: 07:30
-Hora fin: 13:30
-Distrito: Bella Unión, Jaqui, Yauca, de Bella Unión, de Jaqui, de Yauca
-Zona afectada: Urbanizaciones del distrito de Bella Unión: Fundo La Pampita, Lateral 1, Lateral 2, Sector San Pablo. Urbanizaciones del distrito de Jaqui: Jaqui, Lampilla, Mochica, Mochica Baja, Patahuasi. Urbanizaciones del distrito de Yauca: Mochica Baja, Villa El Sol, Yauca.
-Motivo: Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : [5603] PLATINOS.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 9675, 9674, 9676, 9677, 9656, 9634, 9633, 9632, 9631, 9628, 9629, 9630, 9687, 9824, 9826, 9829, 9831, 9835, 9838, 9853, 9854, 9855, 9858, 9871, 9877, 9881, 7988, 9891, 9892, 9893, 9890, 9894, 9954, 9956, 9955, 9957, 9961, 9962, 9964, 9992, 9555, 9560, 9561, 9559, 9556, 9557, 9558, 9570, 9965, 9589, 9394, 9389, 9399, 9410, 9418, 10148, 9887.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 10 DE JULIO DE 2026:
-Circuito : [5603] PLATINOS.
-Hora : 07:30 a 13:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Bella Unión: Fundo La Pampita, Lateral 1, Lateral 2, Sector San Pablo. Urbanizaciones del distrito de Jaqui: Jaqui, Lampilla, Mochica, Mochica Baja, Patahuasi. Urbanizaciones del distrito de Yauca: Mochica Baja, Villa El Sol, Yauca.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9675, 9674, 9676, 9677, 9656, 9634, 9633, 9632, 9631, 9628, 9629, 9630, 9687, 9824, 9826, 9829, 9831, 9835, 9838, 9853, 9854, 9855, 9858, 9871, 9877, 9881, 7988, 9891, 9892, 9893, 9890, 9894, 9954, 9956, 9955, 9957, 9961, 9962, 9964, 9992, 9555, 9560, 9561, 9559, 9556, 9557, 9558, 9570, 9965, 9589, 9394, 9389, 9399, 9410, 9418, 10148, 9887.
 
 ====================================================================================================
 ID: 5909
