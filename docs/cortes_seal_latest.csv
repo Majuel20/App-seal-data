@@ -1,41 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5922,13/07/2026,08:00,08:30,"Cerro Colorado, de Cerro Colorado","Cerro viejo, Calle comandante Canga, Calle Inca, Calle Arequipa, Calle Intendente Salamanca, Calle General Moran, Psj. Lozada (Distrito de Cerro Colorado).",Cambio de posición de conmutador.,Circuito : SED 1241.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-LUNES, 13 DE JULIO DE 2026.
-Circuito : SED 1241.
-Hora : 08:00 a 08:30 Hrs.
-Motivo : Cambio de posición de conmutador.
-Zonas afectadas: Cerro viejo, Calle comandante Canga, Calle Inca, Calle Arequipa, Calle Intendente Salamanca, Calle General Moran, Psj. Lozada (Distrito de Cerro Colorado).",,,,,Evento,el 13/07/2026 8:03 por Cuenta del sistema,13/07/2026 8:03,Cuenta del sistema,Cuenta del sistema,13/07/2026 8:00,13/07/2026 8:30,2026-07-13T08:00:00,2026-07-13T08:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5922&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,78dd6d58f577469f88dcb67a4eecb2857db477551ba246e3048e92befcc499b0
-5927,13/07/2026,08:00,13:00,"Cerro Colorado, de Cerro Colorado","Asociación Casa Granja Villa Arapa, Peruarbo Zona II, Zona III (Distrito de Cerro Colorado).",Mantenimientos de redes en media tensión.,Circuito : Autopista desde EMT 17567.,MANTENIMIENTO DE REDES.,"4233, 5408.","MANTENIMIENTO DE REDES.
-LUNES, 13 DE JULIO DE 2026.
-Circuito : Autopista desde EMT 17567.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Mantenimientos de redes en media tensión.
-Zonas afectadas: Asociación Casa Granja Villa Arapa, Peruarbo Zona II, Zona III (Distrito de Cerro Colorado).
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4233, 5408.",,,,,Evento,el 13/07/2026 8:06 por Cuenta del sistema,13/07/2026 8:06,Cuenta del sistema,Cuenta del sistema,13/07/2026 8:00,13/07/2026 13:00,2026-07-13T08:00:00,2026-07-13T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5927&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,7f73a60178252127f05fbcfd0b2aa8c3c59e41033307bd6271fbaf329dbf26cd
-5923,13/07/2026,09:30,10:00,"Cayma, de Cayma","Av. José Carlos Mariátegui, Av. Manco Cápac, Calle General Ollantay, Calle 30 de Agosto, Calle 28 de Julio, Calle Chiclayo, Calle Unión (Distrito de Cayma).",Cambio de posición de conmutador.,Circuito : SED 2845.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-LUNES, 13 DE JULIO DE 2026.
-Circuito : SED 2845.
-Hora : 09:30 a 10:00 Hrs.
-Motivo : Cambio de posición de conmutador.
-Zonas afectadas: Av. José Carlos Mariátegui, Av. Manco Cápac, Calle General Ollantay, Calle 30 de Agosto, Calle 28 de Julio, Calle Chiclayo, Calle Unión (Distrito de Cayma).",,,,,Evento,el 13/07/2026 8:03 por Cuenta del sistema,13/07/2026 8:03,Cuenta del sistema,Cuenta del sistema,13/07/2026 9:30,13/07/2026 10:00,2026-07-13T09:30:00,2026-07-13T10:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5923&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,2a8561e2e5446c89e738db3b1c45e13972727e99513a458a3cbc769d10d4972e
-5924,13/07/2026,10:30,11:00,"Cayma, de Cayma","Av. Alto Cayma, Calle José Santos Chocano, Calle José Abelardo Quiñones (Distrito de Cayma).",Cambio de posición de conmutador.,Circuito : SED 1902.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-LUNES, 13 DE JULIO DE 2026.
-Circuito : SED 1902.
-Hora : 10:30 a 11:00 Hrs.
-Motivo : Cambio de posición de conmutador.
-Zonas afectadas: Av. Alto Cayma, Calle José Santos Chocano, Calle José Abelardo Quiñones (Distrito de Cayma).",,,,,Evento,el 13/07/2026 8:04 por Cuenta del sistema,13/07/2026 8:04,Cuenta del sistema,Cuenta del sistema,13/07/2026 10:30,13/07/2026 11:00,2026-07-13T10:30:00,2026-07-13T11:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5924&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,53ee606488201bb1b361d691940735a46c458dc522cb31b17bb32987b640208c
-5925,13/07/2026,11:30,12:00,"Cerro Colorado, de Cerro Colorado","Calle tres volcanes, Jr. Víctor Andrés Belaunde, Jr. Tacna, Jr. 7 de junio, Jr. Misti, Jr. Abancay, Jr. Progreso, Jr. Simón Bolívar, Jr. Independencia, Jr. Zela, Av. Arequipa (Distrito de Cerro Colorado).",Cambio de posición de conmutador.,Circuito : SED 1661.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-LUNES, 13 DE JULIO DE 2026.
-Circuito : SED 1661.
-Hora : 11:30 a 12:00 Hrs.
-Motivo : Cambio de posición de conmutador.
-Zonas afectadas: Calle tres volcanes, Jr. Víctor Andrés Belaunde, Jr. Tacna, Jr. 7 de junio, Jr. Misti, Jr. Abancay, Jr. Progreso, Jr. Simón Bolívar, Jr. Independencia, Jr. Zela, Av. Arequipa (Distrito de Cerro Colorado).",,,,,Evento,el 13/07/2026 8:05 por Cuenta del sistema,13/07/2026 8:05,Cuenta del sistema,Cuenta del sistema,13/07/2026 11:30,13/07/2026 12:00,2026-07-13T11:30:00,2026-07-13T12:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5925&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,1a1f26c0e73f288abca8e9ba622dd79772d0609b174edef444a69a3d1aa2b65a
-5926,13/07/2026,12:30,13:00,"Cayma, de Cayma","Calle Prolongación Amazonas, Av. Amazonas, Calle Garcilaso de la Vega, Calle Copacabana, Jr. Begazo, Psj. Reynoso, Psj. Begazo, Psj. Trujillo, Calle Zoraida Montes Revilla (Distrito de Cayma).",Cambio de posición de conmutador.,Circuito : SED 1735.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-LUNES, 13 DE JULIO DE 2026.
-Circuito : SED 1735.
-Hora : 12:30 a 13:00 Hrs.
-Motivo : Cambio de posición de conmutador.
-Zonas afectadas: Calle Prolongación Amazonas, Av. Amazonas, Calle Garcilaso de la Vega, Calle Copacabana, Jr. Begazo, Psj. Reynoso, Psj. Begazo, Psj. Trujillo, Calle Zoraida Montes Revilla (Distrito de Cayma).",,,,,Evento,el 13/07/2026 8:05 por Cuenta del sistema,13/07/2026 8:05,Cuenta del sistema,Cuenta del sistema,13/07/2026 12:30,13/07/2026 13:00,2026-07-13T12:30:00,2026-07-13T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5926&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,68b7f1f8856d44296872c9e777fce48b1f9f513f36616e57e1d329278591aa3b
 5928,14/07/2026,07:30,15:00,"Cerro Colorado, de Cerro Colorado","Asoc.Urb. José Luis Bustamante y Rivero Sector VII, Sector IV, Asociación Apipa Sector IX (Distrito de Cerro Colorado).",Reubicación de Subestación de Distribución y otros mantenimientos de línea en media tensión.,Circuito : P. Yura desde EMT 19786.,MANTENIMIENTO DE REDES.,"4517, 4516, 4513, 4514, 5012.","MANTENIMIENTO DE REDES.
 MARTES, 14 DE JULIO DE 2026.
 Circuito : P. Yura desde EMT 19786.
@@ -103,3 +66,10 @@ Hora : 07:30 a 15:30 Hrs.
 Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
 Zonas afectadas: Urbanizaciones del Distrito de Chala: Chala, Imperial Aguada, Imperial La Aguadita, Las Brisas, Las Flores de Chala, Los Jardines Chala Tradicional, Magisterial Chala, Manuel Prado, Nueva Juventud, Pueblo Tradicional de Chala, Sector Casuarinas, Virgen del Carmen.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9658, 9643, 9640, 9652, 9686, 9685, 9641, 9680, 9679, 9665, 9644, 9830, 9869, 9896, 9983, 9980, 9984, 9322, 9798, 9575, 9576, 9574, 9573, 9348, 9599, 9346, 9382, 9402, 9404, 9414, 9645, 10166, 10236, 10257.",,,,,Evento,el 13/07/2026 8:02 por Cuenta del sistema,13/07/2026 8:02,Cuenta del sistema,Cuenta del sistema,17/07/2026 7:30,17/07/2026 15:30,2026-07-17T07:30:00,2026-07-17T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5921&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,9029df95dd84199925b660d57a1c2e7e39c6a4f69441ab5195af465ad8d0f30a
+5933,17/07/2026,08:00,15:00,"Deán Valdivia, de Deán Valdivia",Urbanizaciones del distrito de Deán Valdivia: Quebrada de Quelaque.,"Mantenimiento de redes de media tensión (limpieza de aisladores, mantenimiento de",Circuito : Mejía desde BC - 360102.,MANTENIMIENTO DE REDES.,"8227, 8229, 8230, 8535, 8587.","MANTENIMIENTO DE REDES.
+VIERNES, 17 DE JULIO DE 2026:
+Circuito : Mejía desde BC - 360102.
+Hora : 08:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, mantenimiento de subestaciones).
+Zonas afectadas: Urbanizaciones del distrito de Deán Valdivia: Quebrada de Quelaque.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8227, 8229, 8230, 8535, 8587.",,,,,Evento,el 14/07/2026 18:15 por Cuenta del sistema,14/07/2026 18:15,Cuenta del sistema,Cuenta del sistema,17/07/2026 8:00,17/07/2026 15:00,2026-07-17T08:00:00,2026-07-17T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5933&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,30aa7d9c22f44f0528ce10e1e4708f7d9a8ffe86c54798d192152ec546df2ac5
