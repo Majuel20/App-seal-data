@@ -1,41 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-15 11:51:14
+fecha_ejecucion: 2026-07-16 11:55:19
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-15
-fecha_inicio: 2026-07-14
-fecha_fin: 2026-08-14
+fecha_base: 2026-07-16
+fecha_inicio: 2026-07-15
+fecha_fin: 2026-08-15
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 51
 eventos_totales_extraidos: 51
-eventos_guardados_en_rango: 11
+eventos_guardados_en_rango: 10
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5928
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5928&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 14/07/2026
-Hora inicio: 07:30
-Hora fin: 15:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Asoc.Urb. José Luis Bustamante y Rivero Sector VII, Sector IV, Asociación Apipa Sector IX (Distrito de Cerro Colorado).
-Motivo: Reubicación de Subestación de Distribución y otros mantenimientos de línea en media tensión.
-Ubicación: Circuito : P. Yura desde EMT 19786.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 4517, 4516, 4513, 4514, 5012.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 14 DE JULIO DE 2026.
-Circuito : P. Yura desde EMT 19786.
-Hora : 07:30 a 15:00 Hrs.
-Motivo : Reubicación de Subestación de Distribución y otros mantenimientos de línea en media tensión.
-Zonas afectadas: Asoc.Urb. José Luis Bustamante y Rivero Sector VII, Sector IV, Asociación Apipa Sector IX (Distrito de Cerro Colorado).
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4517, 4516, 4513, 4514, 5012.
 
 ====================================================================================================
 ID: 5917

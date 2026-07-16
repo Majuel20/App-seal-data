@@ -1,11 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5928,14/07/2026,07:30,15:00,"Cerro Colorado, de Cerro Colorado","Asoc.Urb. José Luis Bustamante y Rivero Sector VII, Sector IV, Asociación Apipa Sector IX (Distrito de Cerro Colorado).",Reubicación de Subestación de Distribución y otros mantenimientos de línea en media tensión.,Circuito : P. Yura desde EMT 19786.,MANTENIMIENTO DE REDES.,"4517, 4516, 4513, 4514, 5012.","MANTENIMIENTO DE REDES.
-MARTES, 14 DE JULIO DE 2026.
-Circuito : P. Yura desde EMT 19786.
-Hora : 07:30 a 15:00 Hrs.
-Motivo : Reubicación de Subestación de Distribución y otros mantenimientos de línea en media tensión.
-Zonas afectadas: Asoc.Urb. José Luis Bustamante y Rivero Sector VII, Sector IV, Asociación Apipa Sector IX (Distrito de Cerro Colorado).
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4517, 4516, 4513, 4514, 5012.",,,,,Evento,el 13/07/2026 8:07 por Cuenta del sistema,13/07/2026 8:07,Cuenta del sistema,Cuenta del sistema,14/07/2026 7:30,14/07/2026 15:00,2026-07-14T07:30:00,2026-07-14T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5928&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,bccbaefdcd58a0070d9e059a78293fbf2639e346ab742cddda051c75092c189a
 5917,15/07/2026,07:00,13:00,"Cocachacra, de Cocachacra",Urbanizaciones del distrito de Cocachacra: Pampa Blanca.,"Mantenimiento de redes de media tensión (cambio de transformador, instalación de poste, limpieza de aisladores, podado de ramas de árboles cercanas a la línea).",Circuito : [3801] PAMPA BLANCA,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
 MIÉRCOLES, 15 DE JULIO DE 2026:
 Circuito : [3801] PAMPA BLANCA.
