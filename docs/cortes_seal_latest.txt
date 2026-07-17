@@ -1,130 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-16 11:55:19
+fecha_ejecucion: 2026-07-17 11:43:20
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-16
-fecha_inicio: 2026-07-15
-fecha_fin: 2026-08-15
+fecha_base: 2026-07-17
+fecha_inicio: 2026-07-16
+fecha_fin: 2026-08-16
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 51
-eventos_totales_extraidos: 51
-eventos_guardados_en_rango: 10
+ids_detectados: 55
+eventos_totales_extraidos: 55
+eventos_guardados_en_rango: 9
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5917
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5917&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/07/2026
-Hora inicio: 07:00
-Hora fin: 13:00
-Distrito: Cocachacra, de Cocachacra
-Zona afectada: Urbanizaciones del distrito de Cocachacra: Pampa Blanca.
-Motivo: Mantenimiento de redes de media tensión (cambio de transformador, instalación de poste, limpieza de aisladores, podado de ramas de árboles cercanas a la línea).
-Ubicación: Circuito : [3801] PAMPA BLANCA
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 15 DE JULIO DE 2026:
-Circuito : [3801] PAMPA BLANCA.
-Hora : 07:00 a 13:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de transformador, instalación de poste, limpieza de aisladores, podado de ramas de árboles cercanas a la línea).
-Zonas afectadas : Urbanizaciones del distrito de Cocachacra: Pampa Blanca.
-Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 8215, 8658, 8657.
-
-====================================================================================================
-ID: 5929
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5929&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/07/2026
-Hora inicio: 07:30
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Alto Libertad Av. Lima, Calle 28 de julio, Calle Manco Capac, Calle 15 de agosto, Calle Jorge Chávez y Jr. Ancash (Distrito de Cerro Colorado).
-Motivo: Cambio de transformador a 200KVA.
-Ubicación: Circuito : SED 1420.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIERCOLES, 15 DE JULIO DE 2026.
-Circuito : SED 1420.
-Hora : 07:30 a 12:30 Hrs.
-Motivo : Cambio de transformador a 200KVA.
-Zonas afectadas: Alto Libertad Av. Lima, Calle 28 de julio, Calle Manco Capac, Calle 15 de agosto, Calle Jorge Chávez y Jr. Ancash (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 5930
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5930&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/07/2026
-Hora inicio: 07:30
-Hora fin: 12:30
-Distrito: Cayma, de Cayma
-Zona afectada: Urbanización Mirasol de Cayma (Distrito de Cayma).
-Motivo: Cambio de transformador de distribución.
-Ubicación: Circuito : SED 5024.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIERCOLES, 15 DE JULIO DE 2026.
-Circuito : SED 5024.
-Hora : 07:30 a 12:30 Hrs.
-Motivo : Cambio de transformador de distribución.
-Zonas afectadas: Urbanización Mirasol de Cayma (Distrito de Cayma).
-
-====================================================================================================
-ID: 5931
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5931&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/07/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Arequipa, de Arequipa
-Zona afectada: La Isla (Distrito de Arequipa).
-Motivo: Cambio de transformador y tablero de distribución.
-Ubicación: Circuito : SED 5938.
-Título: MANTENIMIENTO DE REDES
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIERCOLES, 15 DE JULIO DE 2026.
-Circuito : SED 5938.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Cambio de transformador y tablero de distribución.
-Zonas afectadas: La Isla (Distrito de Arequipa).
-
-====================================================================================================
-ID: 5932
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5932&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/07/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Atiquipa, Chala, Yauca, de Atiquipa, de Chala, de Yauca
-Zona afectada: Urbanizaciones del distrito de Atiquipa: Agua Salada, Atiquipa, Santa Rosa. Urbanizaciones del distrito de Chala: Imperial Aguada. Urbanizaciones del distrito de Yauca: Tanaka.
-Motivo: Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : [5801] AGUA SALADA
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIERCOLES, 15 DE JULIO DE 2026:
-Circuito : [5801] AGUA SALADA.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas : Urbanizaciones del distrito de Atiquipa: Agua Salada, Atiquipa, Santa Rosa. Urbanizaciones del distrito de Chala: Imperial Aguada. Urbanizaciones del distrito de Yauca: Tanaka.
-Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 9960, 9805, 9828, 9681, 9989, 9819, 9664, 9689, 9820, 9821, 9836, 9415, 9647, 9650, 9639, 10159, 9379, 9976, 9875, 9637, 9876, 9638, 9649, 9636, 9818.
 
 ====================================================================================================
 ID: 5918
@@ -182,7 +70,7 @@ Distrito: Majes, de Majes
 Zona afectada: Urbanizaciones del Distrito de Majes: Futuro Majes, Las Malvinas, Pedregal, Pedregal Norte.
 Motivo: Mantenimiento de redes de media tensión.
 Ubicación: Circuito : Pedregal 2 desde REC-200555.
-Título: MANTENIMIENTO DE REDES
+Título: MANTENIMIENTO DE REDES. SUSPENDIDO
 Subestaciones: 
 Fuente extracción: DISPFORM_REQUESTS
 
@@ -240,3 +128,96 @@ Hora : 08:00 a 15:00 Hrs.
 Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, mantenimiento de subestaciones).
 Zonas afectadas: Urbanizaciones del distrito de Deán Valdivia: Quebrada de Quelaque.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8227, 8229, 8230, 8535, 8587.
+
+====================================================================================================
+ID: 5935
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5935&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 18/07/2026
+Hora inicio: 07:00
+Hora fin: 11:00
+Distrito: Islay, Mollendo, de Islay, de Mollendo
+Zona afectada: Urbanización del Distrito de Islay: Centro poblado de Islay, Matarani, Carretera al Faro Tisur. Urbanización del Distrito de Mollendo: Ceticos Matarani.
+Motivo: Mantenimiento de redes de media tensión.
+Ubicación: Circuito : [3502] TISUR.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+SABADO, 18 DE JULIO DE 2026:
+Circuito : [3502] TISUR.
+Hora : 07:00 a 11:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión.
+Zonas Afectadas: Urbanización del Distrito de Islay: Centro poblado de Islay, Matarani, Carretera al Faro Tisur. Urbanización del Distrito de Mollendo: Ceticos Matarani.
+Subestaciones de Distribución (SED) involucradas según zonas afectadas líneas arriba: 8130, 8630, 8629, 8418.
+
+====================================================================================================
+ID: 5936
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5936&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 18/07/2026
+Hora inicio: 07:00
+Hora fin: 11:00
+Distrito: Islay, de Islay
+Zona afectada: Urbanización del Distrito de Islay: Asoc.Viv.Tall.Villa El Pescador.
+Motivo: Afectado por corte de Alimentador Tisur.
+Ubicación: Circuito : Matarani desde REC - 350105.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+SABADO, 18 DE JULIO DE 2026:
+Circuito : Matarani desde REC - 350105.
+Hora : 07:00 a 11:00 Hrs.
+Motivo : Afectado por corte de Alimentador Tisur.
+Zonas Afectadas: Urbanización del Distrito de Islay: Asoc.Viv.Tall.Villa El Pescador.
+Subestaciones de Distribución (SED) involucradas según zonas afectadas líneas arriba: 8266, 8124, 8123, 8290, 8291, 8332, 8394, 8471, 8475, 8125, 8257, 8601, 8668, 8331.
+
+====================================================================================================
+ID: 5934
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5934&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 19/07/2026
+Hora inicio: 06:00
+Hora fin: 13:00
+Distrito: Atico, Mariano Nicolas Valcarcel, Ocoña, Rio Grande, Yanaquihua, de Atico, de Mariano Nicolas Valcarcel, de Ocoña, de Rio Grande, de Yanaquihua
+Zona afectada: Urbanizaciones del distrito de Atico: Cerro de Arena. Urbanizaciones del distrito de Mariano Nicolas Valcarcel: Alto Mirador, Anchalo-Huacan, Carlos Portocarrero Dongo, Cerro Barroso, Jayhuiche, La Tranca Platanal, Mina Posco Misky, Misky II, Piuca, San Martin, Santa Rosa, Secocha, Surita, Urasqui. Urbanizaciones del distrito de Ocoña: Alto Pueblo Viejo, Alto Pumacoto, Ceniceros, Centro Poblado Pueblo Viejo, El Puente, Hualla, Huantay, La Planchada, Mollebamba, Nuevo Chiguay, Ocoña, Pescadores, Pueblo de Chule, Santa Rita. Urbanizaciones del distrito de Rio Grande: Alto Molino, Avispa, Callanga, Chorunga, Huaca, Iquipi, Ispana, La Capilla, La Culata, Piuca, San Jose, San Juan de Churunga. Urbanizaciones del distrito de Yanaquihua: Base Rey, Cerro Rico, Chococa, Potreros, Quiscayoc, Yause.
+Motivo: Mantenimiento de la línea de transmisión (Cambio de retenida, cambio de aisladores, podado) y Mantenimiento de transformador de potencia, cambio de seccionadores en patio de 33KV y pruebas de Recloser.
+Ubicación: LÍNEA : L-3094 JAHUAY - OCOÑA. SET : [45] OCOÑA
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 9507, 9506, 9505, 9502, 9501, 9500, 9510, 9509, 9508, 9511, 9513, 9512, 9514, 9515, 9516, 9517, 9518, 9923, 9950, 9949, 9948, 9946, 9947, 9945, 9922, 9941, 9939, 9968, 9917, 9918, 9920, 9937, 9921, 9935, 9934, 9933, 9916, 9932, 9931, 9929, 9928, 9926, 9925, 9924, 9944, 9943, 9942, 9940, 9919, 7984, 7985, 9528, 9530, 9532, 9534, 9535, 9533, 9536, 9529, 9542, 9543, 9546, 9545, 9990, 9551, 9548, 9549, 9553, 9552, 9550, 9544, 9577, 9584, 9588, 9540, 9547, 9366, 9591, 9592, 9593, 9383, 9594, 9595, 9411, 5771, 9409, 9562, 9563, 10075, 9433, 9434, 10280, 9504, 9503, 9936, 9930, 9927, 9590, 9531, 9953, 10074.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 19 DE JULIO DE 2026:
+LÍNEA : L-3094 JAHUAY - OCOÑA.
+SET : [45] OCOÑA
+Hora : 06:00 a 13:00 Hrs.
+Motivo : Mantenimiento de la línea de transmisión (Cambio de retenida, cambio de aisladores, podado) y Mantenimiento de transformador de potencia, cambio de seccionadores en patio de 33KV y pruebas de Recloser.
+Zonas afectadas: Urbanizaciones del distrito de Atico: Cerro de Arena. Urbanizaciones del distrito de Mariano Nicolas Valcarcel: Alto Mirador, Anchalo-Huacan, Carlos Portocarrero Dongo, Cerro Barroso, Jayhuiche, La Tranca Platanal, Mina Posco Misky, Misky II, Piuca, San Martin, Santa Rosa, Secocha, Surita, Urasqui. Urbanizaciones del distrito de Ocoña: Alto Pueblo Viejo, Alto Pumacoto, Ceniceros, Centro Poblado Pueblo Viejo, El Puente, Hualla, Huantay, La Planchada, Mollebamba, Nuevo Chiguay, Ocoña, Pescadores, Pueblo de Chule, Santa Rita. Urbanizaciones del distrito de Rio Grande: Alto Molino, Avispa, Callanga, Chorunga, Huaca, Iquipi, Ispana, La Capilla, La Culata, Piuca, San Jose, San Juan de Churunga. Urbanizaciones del distrito de Yanaquihua: Base Rey, Cerro Rico, Chococa, Potreros, Quiscayoc, Yause.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9507, 9506, 9505, 9502, 9501, 9500, 9510, 9509, 9508, 9511, 9513, 9512, 9514, 9515, 9516, 9517, 9518, 9923, 9950, 9949, 9948, 9946, 9947, 9945, 9922, 9941, 9939, 9968, 9917, 9918, 9920, 9937, 9921, 9935, 9934, 9933, 9916, 9932, 9931, 9929, 9928, 9926, 9925, 9924, 9944, 9943, 9942, 9940, 9919, 7984, 7985, 9528, 9530, 9532, 9534, 9535, 9533, 9536, 9529, 9542, 9543, 9546, 9545, 9990, 9551, 9548, 9549, 9553, 9552, 9550, 9544, 9577, 9584, 9588, 9540, 9547, 9366, 9591, 9592, 9593, 9383, 9594, 9595, 9411, 5771, 9409, 9562, 9563, 10075, 9433, 9434, 10280, 9504, 9503, 9936, 9930, 9927, 9590, 9531, 9953, 10074.
+
+====================================================================================================
+ID: 5937
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5937&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 19/07/2026
+Hora inicio: 06:00
+Hora fin: 13:00
+Distrito: Arequipa, de Arequipa
+Zona afectada: Urbanizaciones del distrito de Arequipa: Centro Histórico Arequipa.
+Motivo: Subsanación de deficiencias en atención al Procedimiento 228-2009-OS/CD Osinergmin y otros mantenimientos de media tensión.
+Ubicación: Circuito : La Marina desde REC - 200529.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 4932, 2348, 1583, 2922, 2923, 2924, 2677, 2676, 1064, 5360, 1065, 10105, 1089, 2235, 3928, 2236, 5876, 1063, 2132, 3394, 4941, 1501, 4334, 4716, 4912, 4869, 5351, 3148, 5815.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 19 DE JULIO DE 2026:
+Circuito : La Marina desde REC - 200529.
+Hora : 06:00 a 13:00 Hrs.
+Motivo : Subsanación de deficiencias en atención al Procedimiento 228-2009-OS/CD Osinergmin y otros mantenimientos de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Arequipa: Centro Histórico Arequipa.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4932, 2348, 1583, 2922, 2923, 2924, 2677, 2676, 1064, 5360, 1065, 10105, 1089, 2235, 3928, 2236, 5876, 1063, 2132, 3394, 4941, 1501, 4334, 4716, 4912, 4869, 5351, 3148, 5815.
