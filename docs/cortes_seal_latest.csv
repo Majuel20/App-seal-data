@@ -1,18 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5918,16/07/2026,07:30,15:00,"Cerro Colorado, de Cerro Colorado","Urbanizaciones del distrito de Cerro Colorado: Peruano-Argentino-Boliviano Sector Bolivia I, Peruano-Argentino-Boliviano Zona III.","Transferencia de carga del Alimentador Ciudad Municipal, conexión de red de media tensión y otros mantenimientos de media tensión.",Circuito : [802] CIUDAD DE DIOS.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-JUEVES, 16 DE JULIO DE 2026:
-Circuito : [802] CIUDAD DE DIOS.
-Hora : 07:30 a 15:00 Hrs.
-Motivo : Transferencia de carga del Alimentador Ciudad Municipal, conexión de red de media tensión y otros mantenimientos de media tensión.
-Zonas afectadas : Urbanizaciones del distrito de Cerro Colorado: Peruano-Argentino-Boliviano Sector Bolivia I, Peruano-Argentino-Boliviano Zona III.
-Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 3839, 4357, 4358, 5063.",,,,,Evento,el 13/07/2026 8:00 por Cuenta del sistema,13/07/2026 8:00,Cuenta del sistema,Cuenta del sistema,16/07/2026 7:30,16/07/2026 15:00,2026-07-16T07:30:00,2026-07-16T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5918&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,85e1dd63a41bf4c9ceb0bc0de88ea6b5e6d49b77009ddbec9fbe381260fe86ab
-5919,16/07/2026,07:30,15:00,"Cerro Colorado, de Cerro Colorado","Peruarbo zona III, Peruarbo Sector II, Av. 20 de marzo Asoc. José Luis Bustamante y Rivero (Distrito de Cerro Colorado).",Transferencia de carga al Alimentador Ciudad de Dios,Circuito : Ciudad Municipal desde EMT 28361.,MANTENIMIENTO DE REDES.,"4478, 3840, 3384, 4766, 2279.","MANTENIMIENTO DE REDES.
-JUEVES, 16 DE JULIO DE 2026.
-Circuito : Ciudad Municipal desde EMT 28361.
-Hora : 07:30 a 15:00 Hrs.
-Motivo : Transferencia de carga al Alimentador Ciudad de Dios
-Zonas afectadas: Peruarbo zona III, Peruarbo Sector II, Av. 20 de marzo Asoc. José Luis Bustamante y Rivero (Distrito de Cerro Colorado).
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4478, 3840, 3384, 4766, 2279.",,,,,Evento,el 13/07/2026 8:00 por Cuenta del sistema,13/07/2026 8:00,Cuenta del sistema,Cuenta del sistema,16/07/2026 7:30,16/07/2026 15:00,2026-07-16T07:30:00,2026-07-16T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5919&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,4db1a5f5383004e74207d0935782370f1b0d6a36b6ca7d677a77831330c97976
 5920,17/07/2026,07:00,15:00,"Majes, de Majes","Urbanizaciones del Distrito de Majes: Futuro Majes, Las Malvinas, Pedregal, Pedregal Norte.",Mantenimiento de redes de media tensión.,Circuito : Pedregal 2 desde REC-200555.,MANTENIMIENTO DE REDES. SUSPENDIDO,,"MANTENIMIENTO DE REDES.
 VIERNES, 17 DE JULIO DE 2026:
 Circuito : Pedregal 2 desde REC-200555.
