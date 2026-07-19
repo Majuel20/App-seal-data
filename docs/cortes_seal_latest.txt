@@ -1,87 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-18 11:19:29
+fecha_ejecucion: 2026-07-19 11:32:43
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-18
-fecha_inicio: 2026-07-17
-fecha_fin: 2026-08-17
+fecha_base: 2026-07-19
+fecha_inicio: 2026-07-18
+fecha_fin: 2026-08-18
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 55
 eventos_totales_extraidos: 55
-eventos_guardados_en_rango: 7
+eventos_guardados_en_rango: 4
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5920
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5920&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 17/07/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Majes, de Majes
-Zona afectada: Urbanizaciones del Distrito de Majes: Futuro Majes, Las Malvinas, Pedregal, Pedregal Norte.
-Motivo: Mantenimiento de redes de media tensión.
-Ubicación: Circuito : Pedregal 2 desde REC-200555.
-Título: MANTENIMIENTO DE REDES. SUSPENDIDO
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 17 DE JULIO DE 2026:
-Circuito : Pedregal 2 desde REC-200555.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión.
-Zonas afectadas : Urbanizaciones del Distrito de Majes: Futuro Majes, Las Malvinas, Pedregal, Pedregal Norte.
-Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 6018, 6020, 6023, 6024, 6232, 7887, 8821, 6017, 6016, 6960, 6021, 6022, 6015
-
-====================================================================================================
-ID: 5921
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5921&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 17/07/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Chala, de Chala
-Zona afectada: Urbanizaciones del Distrito de Chala: Chala, Imperial Aguada, Imperial La Aguadita, Las Brisas, Las Flores de Chala, Los Jardines Chala Tradicional, Magisterial Chala, Manuel Prado, Nueva Juventud, Pueblo Tradicional de Chala, Sector Casuarinas, Virgen del Carmen.
-Motivo: Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : [5804] MANUEL PRADO.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 9658, 9643, 9640, 9652, 9686, 9685, 9641, 9680, 9679, 9665, 9644, 9830, 9869, 9896, 9983, 9980, 9984, 9322, 9798, 9575, 9576, 9574, 9573, 9348, 9599, 9346, 9382, 9402, 9404, 9414, 9645, 10166, 10236, 10257.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 17 DE JULIO DE 2026:
-Circuito : [5804] MANUEL PRADO.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del Distrito de Chala: Chala, Imperial Aguada, Imperial La Aguadita, Las Brisas, Las Flores de Chala, Los Jardines Chala Tradicional, Magisterial Chala, Manuel Prado, Nueva Juventud, Pueblo Tradicional de Chala, Sector Casuarinas, Virgen del Carmen.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9658, 9643, 9640, 9652, 9686, 9685, 9641, 9680, 9679, 9665, 9644, 9830, 9869, 9896, 9983, 9980, 9984, 9322, 9798, 9575, 9576, 9574, 9573, 9348, 9599, 9346, 9382, 9402, 9404, 9414, 9645, 10166, 10236, 10257.
-
-====================================================================================================
-ID: 5933
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5933&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 17/07/2026
-Hora inicio: 08:00
-Hora fin: 15:00
-Distrito: Deán Valdivia, de Deán Valdivia
-Zona afectada: Urbanizaciones del distrito de Deán Valdivia: Quebrada de Quelaque.
-Motivo: Mantenimiento de redes de media tensión (limpieza de aisladores, mantenimiento de
-Ubicación: Circuito : Mejía desde BC - 360102.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 8227, 8229, 8230, 8535, 8587.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 17 DE JULIO DE 2026:
-Circuito : Mejía desde BC - 360102.
-Hora : 08:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, mantenimiento de subestaciones).
-Zonas afectadas: Urbanizaciones del distrito de Deán Valdivia: Quebrada de Quelaque.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8227, 8229, 8230, 8535, 8587.
 
 ====================================================================================================
 ID: 5935

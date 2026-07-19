@@ -1,25 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5920,17/07/2026,07:00,15:00,"Majes, de Majes","Urbanizaciones del Distrito de Majes: Futuro Majes, Las Malvinas, Pedregal, Pedregal Norte.",Mantenimiento de redes de media tensión.,Circuito : Pedregal 2 desde REC-200555.,MANTENIMIENTO DE REDES. SUSPENDIDO,,"MANTENIMIENTO DE REDES.
-VIERNES, 17 DE JULIO DE 2026:
-Circuito : Pedregal 2 desde REC-200555.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión.
-Zonas afectadas : Urbanizaciones del Distrito de Majes: Futuro Majes, Las Malvinas, Pedregal, Pedregal Norte.
-Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 6018, 6020, 6023, 6024, 6232, 7887, 8821, 6017, 6016, 6960, 6021, 6022, 6015",,,,,Evento,el 13/07/2026 8:01 por Cuenta del sistema,16/07/2026 17:53,Cuenta del sistema,Cuenta del sistema,17/07/2026 7:00,17/07/2026 15:00,2026-07-17T07:00:00,2026-07-17T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5920&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,8af5ff496d7647701974e5c9cf7032eda975a10b52aa455091d361ebdd35f2f3
-5921,17/07/2026,07:30,15:30,"Chala, de Chala","Urbanizaciones del Distrito de Chala: Chala, Imperial Aguada, Imperial La Aguadita, Las Brisas, Las Flores de Chala, Los Jardines Chala Tradicional, Magisterial Chala, Manuel Prado, Nueva Juventud, Pueblo Tradicional de Chala, Sector Casuarinas, Virgen del Carmen.",Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.,Circuito : [5804] MANUEL PRADO.,MANTENIMIENTO DE REDES.,"9658, 9643, 9640, 9652, 9686, 9685, 9641, 9680, 9679, 9665, 9644, 9830, 9869, 9896, 9983, 9980, 9984, 9322, 9798, 9575, 9576, 9574, 9573, 9348, 9599, 9346, 9382, 9402, 9404, 9414, 9645, 10166, 10236, 10257.","MANTENIMIENTO DE REDES.
-VIERNES, 17 DE JULIO DE 2026:
-Circuito : [5804] MANUEL PRADO.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al Procedimiento 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del Distrito de Chala: Chala, Imperial Aguada, Imperial La Aguadita, Las Brisas, Las Flores de Chala, Los Jardines Chala Tradicional, Magisterial Chala, Manuel Prado, Nueva Juventud, Pueblo Tradicional de Chala, Sector Casuarinas, Virgen del Carmen.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9658, 9643, 9640, 9652, 9686, 9685, 9641, 9680, 9679, 9665, 9644, 9830, 9869, 9896, 9983, 9980, 9984, 9322, 9798, 9575, 9576, 9574, 9573, 9348, 9599, 9346, 9382, 9402, 9404, 9414, 9645, 10166, 10236, 10257.",,,,,Evento,el 13/07/2026 8:02 por Cuenta del sistema,13/07/2026 8:02,Cuenta del sistema,Cuenta del sistema,17/07/2026 7:30,17/07/2026 15:30,2026-07-17T07:30:00,2026-07-17T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5921&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,9029df95dd84199925b660d57a1c2e7e39c6a4f69441ab5195af465ad8d0f30a
-5933,17/07/2026,08:00,15:00,"Deán Valdivia, de Deán Valdivia",Urbanizaciones del distrito de Deán Valdivia: Quebrada de Quelaque.,"Mantenimiento de redes de media tensión (limpieza de aisladores, mantenimiento de",Circuito : Mejía desde BC - 360102.,MANTENIMIENTO DE REDES.,"8227, 8229, 8230, 8535, 8587.","MANTENIMIENTO DE REDES.
-VIERNES, 17 DE JULIO DE 2026:
-Circuito : Mejía desde BC - 360102.
-Hora : 08:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, mantenimiento de subestaciones).
-Zonas afectadas: Urbanizaciones del distrito de Deán Valdivia: Quebrada de Quelaque.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8227, 8229, 8230, 8535, 8587.",,,,,Evento,el 14/07/2026 18:15 por Cuenta del sistema,14/07/2026 18:15,Cuenta del sistema,Cuenta del sistema,17/07/2026 8:00,17/07/2026 15:00,2026-07-17T08:00:00,2026-07-17T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5933&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,30aa7d9c22f44f0528ce10e1e4708f7d9a8ffe86c54798d192152ec546df2ac5
 5935,18/07/2026,07:00,11:00,"Islay, Mollendo, de Islay, de Mollendo","Urbanización del Distrito de Islay: Centro poblado de Islay, Matarani, Carretera al Faro Tisur. Urbanización del Distrito de Mollendo: Ceticos Matarani.",Mantenimiento de redes de media tensión.,Circuito : [3502] TISUR.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
 SABADO, 18 DE JULIO DE 2026:
 Circuito : [3502] TISUR.
