@@ -1,64 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-19 11:32:43
+fecha_ejecucion: 2026-07-20 12:26:58
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-19
-fecha_inicio: 2026-07-18
-fecha_fin: 2026-08-18
+fecha_base: 2026-07-20
+fecha_inicio: 2026-07-19
+fecha_fin: 2026-08-19
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 55
 eventos_totales_extraidos: 55
-eventos_guardados_en_rango: 4
+eventos_guardados_en_rango: 2
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5935
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5935&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 18/07/2026
-Hora inicio: 07:00
-Hora fin: 11:00
-Distrito: Islay, Mollendo, de Islay, de Mollendo
-Zona afectada: Urbanización del Distrito de Islay: Centro poblado de Islay, Matarani, Carretera al Faro Tisur. Urbanización del Distrito de Mollendo: Ceticos Matarani.
-Motivo: Mantenimiento de redes de media tensión.
-Ubicación: Circuito : [3502] TISUR.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-SABADO, 18 DE JULIO DE 2026:
-Circuito : [3502] TISUR.
-Hora : 07:00 a 11:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión.
-Zonas Afectadas: Urbanización del Distrito de Islay: Centro poblado de Islay, Matarani, Carretera al Faro Tisur. Urbanización del Distrito de Mollendo: Ceticos Matarani.
-Subestaciones de Distribución (SED) involucradas según zonas afectadas líneas arriba: 8130, 8630, 8629, 8418.
-
-====================================================================================================
-ID: 5936
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5936&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 18/07/2026
-Hora inicio: 07:00
-Hora fin: 11:00
-Distrito: Islay, de Islay
-Zona afectada: Urbanización del Distrito de Islay: Asoc.Viv.Tall.Villa El Pescador.
-Motivo: Afectado por corte de Alimentador Tisur.
-Ubicación: Circuito : Matarani desde REC - 350105.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-SABADO, 18 DE JULIO DE 2026:
-Circuito : Matarani desde REC - 350105.
-Hora : 07:00 a 11:00 Hrs.
-Motivo : Afectado por corte de Alimentador Tisur.
-Zonas Afectadas: Urbanización del Distrito de Islay: Asoc.Viv.Tall.Villa El Pescador.
-Subestaciones de Distribución (SED) involucradas según zonas afectadas líneas arriba: 8266, 8124, 8123, 8290, 8291, 8332, 8394, 8471, 8475, 8125, 8257, 8601, 8668, 8331.
 
 ====================================================================================================
 ID: 5934
