@@ -1,64 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-22 12:05:37
+fecha_ejecucion: 2026-07-23 12:04:14
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-22
-fecha_inicio: 2026-07-21
-fecha_fin: 2026-08-21
+fecha_base: 2026-07-23
+fecha_inicio: 2026-07-22
+fecha_fin: 2026-08-22
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 66
 eventos_totales_extraidos: 66
-eventos_guardados_en_rango: 10
+eventos_guardados_en_rango: 8
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5941
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5941&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 21/07/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Alca, Cotahuasi, Huaynacotas, Pampamarca, Tomepampa, distrito de Puyca, de Alca, de Cotahuasi, de Huaynacotas, de Pampamarca, de Tomepampa, de distrito de Puyca
-Zona afectada: Urbanizaciones del distrito de Alca: La Lucha, Yumasca, Alca, Ayahuasi, Cahuana, Huillac, Ticnay. Urbanizaciones del distrito de Cotahuasi: Acobamba, Ccanchapata 2, Cuno Cuno, Villa Chacaylla. Urbanizaciones del distrito de Huaynacotas: Anexo Chaclla, Huaynacotas, Luicho Chico, Luicho Grande, Taurisma, Visve, Anatabamba, Chincayllapa, Huacay, Piramarca, Sarasara, Tarhuara, Yurac. Urbanizaciones del distrito de Pampamarca: Cochapampa, Mungui, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca. Urbanizaciones del distrito de Tomepampa: Achambi, Huayhuanca, Locrahuanca, Tomepampa. Urbanizaciones del distrito de distrito de Puyca: Ccalla, Churca, Cuspa, Huactapa, Lauripampa, Maghuanca, Meclla, Petcce, Puica, Sayparara, Sayroso, Soncco, Suni.
-Motivo: Subsanación de deficiencias en atención al procedimiento N° 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Ubicación: Circuito : [70] COTAHUASI.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 21 DE JULIO DE 2026:
-Circuito : [70] COTAHUASI.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Subsanación de deficiencias en atención al procedimiento N° 014-2022-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas : Urbanizaciones del distrito de Alca: La Lucha, Yumasca, Alca, Ayahuasi, Cahuana, Huillac, Ticnay. Urbanizaciones del distrito de Cotahuasi: Acobamba, Ccanchapata 2, Cuno Cuno, Villa Chacaylla. Urbanizaciones del distrito de Huaynacotas: Anexo Chaclla, Huaynacotas, Luicho Chico, Luicho Grande, Taurisma, Visve, Anatabamba, Chincayllapa, Huacay, Piramarca, Sarasara, Tarhuara, Yurac. Urbanizaciones del distrito de Pampamarca: Cochapampa, Mungui, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca. Urbanizaciones del distrito de Tomepampa: Achambi, Huayhuanca, Locrahuanca, Tomepampa. Urbanizaciones del distrito de distrito de Puyca: Ccalla, Churca, Cuspa, Huactapa, Lauripampa, Maghuanca, Meclla, Petcce, Puica, Sayparara, Sayroso, Soncco, Suni.
-Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 7292, 7291, 7290, 7289, 7288, 7285, 7284, 7283, 7297, 7320, 7317, 7318, 7319, 7296, 7295, 7294, 7293, 7287, 7286, 7336, 7332, 7321, 7302, 7322, 7338, 7343, 7752, 7749, 7750, 7751, 7719, 7972, 9795, 9358, 9360, 9359, 9365, 9395, 10173, 7282, 7280, 7303, 7304, 7307, 7311, 7281, 7316, 7315, 7313, 7314, 7312, 7305, 7306, 7308, 7309, 7310, 7731, 7732, 7730, 7729, 7734, 7735, 7733, 7728, 7746, 7747, 7727, 7725, 7726, 7724, 8644, 9423, 10286.
-
-====================================================================================================
-ID: 5940
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5940&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 21/07/2026
-Hora inicio: 07:30
-Hora fin: 14:30
-Distrito: Mariano Melgar, de Mariano Melgar
-Zona afectada: AAHH Berlín, Asoc. de Vivienda Pequeños talleres Sr. De los Milagros, P.J. El Mirador Zona I, P.J. El Mirador Zona II, AA.HH. Pueblo Libre, Los Ángeles, PP.JJ. Cerrito Belén (Distrito de Mariano Melgar).
-Motivo: Subsanación de deficiencias en atención al procedimiento N° 228-2009-OS/CD Osinergmin y otros mantenimientos de redes de media tensión.
-Ubicación: Circuito : Galaxia desde EMT 16413.
-Título: MANTENIMIENTO DE REDES
-Subestaciones: 4049, 4772, 3641, 3642, 3375, 3376, 3643, 3354.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 21 DE JULIO DE 2026.
-Circuito : Galaxia desde EMT 16413.
-Hora : 07:30 a 14:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al procedimiento N° 228-2009-OS/CD Osinergmin y otros mantenimientos de redes de media tensión.
-Zonas afectadas: AAHH Berlín, Asoc. de Vivienda Pequeños talleres Sr. De los Milagros, P.J. El Mirador Zona I, P.J. El Mirador Zona II, AA.HH. Pueblo Libre, Los Ángeles, PP.JJ. Cerrito Belén (Distrito de Mariano Melgar).
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4049, 4772, 3641, 3642, 3375, 3376, 3643, 3354.
 
 ====================================================================================================
 ID: 5945
