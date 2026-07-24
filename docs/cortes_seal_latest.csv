@@ -1,44 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5945,22/07/2026,07:00,15:00,"Majes, de Majes",Urbanizaciones del distrito de Majes: El Pedregal - Los Molles.,"Mantenimiento de redes de media tensión (cambio de postes, cambio de retenida y podado de ramas de árboles cercanas a línea de media tensión).",Circuito : Laive desde CC - 200497.,MANTENIMIENTO DE REDES.,"6007, 6032, 6031, 6030.","MANTENIMIENTO DE REDES.
-MIÉRCOLES, 22 DE JULIO DE 2026:
-Circuito : Laive desde CC - 200497.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de postes, cambio de retenida y podado de ramas de árboles cercanas a línea de media tensión).
-Zonas afectadas: Urbanizaciones del distrito de Majes: El Pedregal - Los Molles.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6007, 6032, 6031, 6030.",,,,,Evento,el 20/07/2026 8:24 por Cuenta del sistema,20/07/2026 8:24,Cuenta del sistema,Cuenta del sistema,22/07/2026 7:00,22/07/2026 15:00,2026-07-22T07:00:00,2026-07-22T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5945&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,ab2a4dcb3320cd2828c53623653f4f08580b31965fd0b56634a413e2e7d1dfec
-5943,22/07/2026,07:30,15:30,"Quilca, Samuel Pastor, de Quilca, de Samuel Pastor","Urbanizaciones del distrito de Quilca: Ampliación La Caleta, El Mirador, La Caleta de Quilca, Las Higueritas, Playa San Marino, Pueblo de Quilca. Urbanizaciones del distrito de Samuel Pastor: Las Cuevas, Los Cerrillos Zona III.",Subsanación de deficiencias en atención al procedimiento N°228-2009-OS/CD Osinergmin y otros mantenimientos de media tensión.,Circuito : Costanera desde SF6 - 200527.,MANTENIMIENTO DE REDES.,"10112, 9145, 9256, 9201, 9338, 9300, 9294, 9351, 9239, 10026, 10027, 9241, 9242, 9243, 9244, 9245, 9240, 9091, 9136, 9309, 9254, 9132, 9093, 9367, 9133.","MANTENIMIENTO DE REDES.
-MIÉRCOLES, 22 DE JULIO DE 2026:
-Circuito : Costanera desde SF6 - 200527.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Subsanación de deficiencias en atención al procedimiento N°228-2009-OS/CD Osinergmin y otros mantenimientos de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Quilca: Ampliación La Caleta, El Mirador, La Caleta de Quilca, Las Higueritas, Playa San Marino, Pueblo de Quilca. Urbanizaciones del distrito de Samuel Pastor: Las Cuevas, Los Cerrillos Zona III.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 10112, 9145, 9256, 9201, 9338, 9300, 9294, 9351, 9239, 10026, 10027, 9241, 9242, 9243, 9244, 9245, 9240, 9091, 9136, 9309, 9254, 9132, 9093, 9367, 9133.",,,,,Evento,el 20/07/2026 8:22 por Cuenta del sistema,20/07/2026 8:22,Cuenta del sistema,Cuenta del sistema,22/07/2026 7:30,22/07/2026 15:30,2026-07-22T07:30:00,2026-07-22T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5943&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,07c7447fc49fb30b7c52bd38145adb1948a3043fd65a5f3f78ab4dd5fad59c83
-5946,22/07/2026,07:30,12:00,"Cerro Colorado, de Cerro Colorado",Parque Industrial Rio Seco (Distrito de Cerro Colorado).,Mantenimiento de subestación de distribución.,Circuito : SED 1835,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MIÉRCOLES, 22 DE JULIO DE 2026.
-Circuito : SED 1835.
-Hora : 07:30 a 12:00 Hrs.
-Motivo : Mantenimiento de subestación de distribución.
-Zonas afectadas: Parque Industrial Rio Seco (Distrito de Cerro Colorado).",,,,,Evento,el 20/07/2026 8:29 por Cuenta del sistema,20/07/2026 8:29,Cuenta del sistema,Cuenta del sistema,22/07/2026 7:30,22/07/2026 12:00,2026-07-22T07:30:00,2026-07-22T12:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5946&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,9145cf8c249f86ef6270e01e56a12f1b3a2188eb8cf38b372c1998c2fd2f1962
-5947,22/07/2026,07:30,12:00,"Cerro Colorado, de Cerro Colorado","Asoc. Eptasa, Av. Italia (Distrito de Cerro Colorado).",Mantenimiento de subestación de distribución.,Circuito : SED 4486.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MIÉRCOLES, 22 DE JULIO DE 2026.
-Circuito : SED 4486.
-Hora : 07:30 a 12:00 Hrs.
-Motivo : Mantenimiento de subestación de distribución.
-Zonas afectadas: Asoc. Eptasa, Av. Italia (Distrito de Cerro Colorado).",,,,,Evento,el 20/07/2026 8:30 por Cuenta del sistema,20/07/2026 8:30,Cuenta del sistema,Cuenta del sistema,22/07/2026 7:30,22/07/2026 12:00,2026-07-22T07:30:00,2026-07-22T12:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5947&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,1d74dec2587e738ad1efe57ee4a5c0196ee6c5dde91c0c3892fe0e662d89a53f
-5942,22/07/2026,08:00,11:00,"Arequipa, de Arequipa, Jacobo Hunter","Urbanizaciones del Distrito de Arequipa: Casa Lago San José, Parque Industrial. Urbanizaciones del Distrito Jacobo Hunter: Cooperativa Riego Chili, Parque Industrial.",Subsanación de punto caliente a salida del alimentador.,Circuito : [410] LARA.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MIÉRCOLES, 22 DE JULIO DE 2026:
-Circuito : [410] LARA.
-Hora : 08:00 a 11:00 Hrs.
-Motivo : Subsanación de punto caliente a salida del alimentador.
-Zonas : Urbanizaciones del Distrito de Arequipa: Casa Lago San José, Parque Industrial. Urbanizaciones del Distrito Jacobo Hunter: Cooperativa Riego Chili, Parque Industrial.
-Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 2343, 2969, 2533, 3701, 1880, 1622, 1369, 1497, 3446, 4044, 4173, 4468, 2375, 4665, 4682, 5180, 5272, 5037, 5397, 5396, 5395, 5398, 5399, 5629, 5299, 10323, 1553.",,,,,Evento,el 20/07/2026 8:22 por Cuenta del sistema,20/07/2026 8:22,Cuenta del sistema,Cuenta del sistema,22/07/2026 8:00,22/07/2026 11:00,2026-07-22T08:00:00,2026-07-22T11:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5942&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,66c9cd56cbce74366860a7a36ea0d8086cc1e8e1406f5344535eaeff414239b6
-5944,22/07/2026,08:00,16:00,Cocachacra,"Urbanizaciones del distrito Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Desamparados, El Toro, La Pascana, Portal del Valle.","Mantenimiento de redes de media tensión (cambio de transformador, conductor, crucetas, aisladores y podado de ramas de árboles cercanas a línea de media tensión).",Circuito : El Fiscal desde BC - 380303.,MANTENIMIENTO DE REDES.,"8283, 8263, 8436, 8276, 8264, 8303, 8304, 8305, 8542, 8324, 8306, 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339, 8372, 8378.","MANTENIMIENTO DE REDES.
-MIÉRCOLES, 22 DE JULIO DE 2026:
-Circuito : El Fiscal desde BC - 380303.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de transformador, conductor, crucetas, aisladores y podado de ramas de árboles cercanas a línea de media tensión).
-Zonas afectadas: Urbanizaciones del distrito Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Desamparados, El Toro, La Pascana, Portal del Valle.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8283, 8263, 8436, 8276, 8264, 8303, 8304, 8305, 8542, 8324, 8306, 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339, 8372, 8378.",,,,,Evento,el 20/07/2026 8:23 por Cuenta del sistema,20/07/2026 8:23,Cuenta del sistema,Cuenta del sistema,22/07/2026 8:00,22/07/2026 16:00,2026-07-22T08:00:00,2026-07-22T16:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5944&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,be92ab824efff26e78993d4203683b0b8c1b44d818b0ed8294fc1671f59d5668
 5938,24/07/2026,07:30,15:30,"Mariscal Cáceres, de Mariscal Cáceres","Urbanizaciones del distrito de Mariscal Cáceres: A.H. Jahuay, San Isidro, Santa Elizabeth, Villa Hermosa.",Subsanación de deficiencias en atención al procedimiento 228-2009-OS/CD Osinergmin y otros mantenimientos de media tensión.,Circuito : Jahuay desde REC - 200452.,MANTENIMIENTO DE REDES.,"9269, 9268, 5271, 9327, 9321, 9324, 9215, 9335, 9211, 9345, 9378, 9280, 9384, 9392, 9405, 9237, 9236, 9235, 9248, 9247, 9203, 9202, 10281, 10291.","MANTENIMIENTO DE REDES.
 VIERNES, 24 DE JULIO DE 2026:
 Circuito : Jahuay desde REC - 200452.
