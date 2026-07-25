@@ -1,16 +1,16 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-07-24 11:57:11
+fecha_ejecucion: 2026-07-25 11:38:20
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-07-24
-fecha_inicio: 2026-07-23
-fecha_fin: 2026-08-23
+fecha_base: 2026-07-25
+fecha_inicio: 2026-07-24
+fecha_fin: 2026-08-24
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 66
-eventos_totales_extraidos: 66
-eventos_guardados_en_rango: 2
+ids_detectados: 68
+eventos_totales_extraidos: 68
+eventos_guardados_en_rango: 4
 output_dir: docs
 ====================================================================================================
 
@@ -59,3 +59,53 @@ Hora : 07:30 a 14:30 Hrs.
 Motivo : Subsanación de deficiencias en atención al procedimiento 228-2009-OS/CD Osinergmin y otros mantenimientos de media tensión.
 Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Alto Libertad, Colegio de Ingenieros, Docentes de La Católica, El Solar de Challapampa, La Libertad, Micaela Bastidas, Quinta Azores, Semi-Rural Pachacutec Grupo 14, 15, 16, 19, 23, 24, 25, 6, Tupac Amaru Zona B.
 Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 3743, 3742, 2908, 1623, 3430, 1671, 1773, 2893, 2972, 3610, 3611, 3631, 3912, 1560, 1700, 3822, 1624, 1531, 3600, 3202, 3200, 2812, 2486, 3207, 3400, 2422, 3726, 3201, 4149, 4293, 4545, 4568, 4577, 4825, 5058, 5184, 5289, 5291, 5004, 5504, 5510, 5576, 5588, 5565, 5956, 10191, 10194, 2978.
+
+====================================================================================================
+ID: 5949
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5949&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 26/07/2026
+Hora inicio: 06:00
+Hora fin: 13:00
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Arqueta, Asociación Policial Campo Verde, La Libertad, Residencial Monte Bello, Urbanización Quinta Luisa, Veracruz, Vía Evitamiento.
+Motivo: Mantenimiento de redes de media tensión (reubicación de línea de media tensión).
+Ubicación: Circuito : Cerro Colorado desde REC - 070206.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 3965, 3924, 3964, 3966, 3967, 1672, 3909, 1515, 3908, 3741, 2957, 3109, 4012, 3776, 2956, 1929, 1248, 2085, 2984, 3323, 2106, 2048, 2789, 1467, 1251, 3710, 4624, 5066, 2155, 4868, 1973, 4663, 3971, 10223, 4017, 4546, 3132, 3126, 1799, 4008, 3753, 4305, 4326, 4395, 5966, 4394, 4578, 5296, 5074, 4915, 5505, 5425, 5196, 5631, 5416, 5675, 5713, 5884, 5891, 10050, 10262.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 26 DE JULIO DE 2026:
+Circuito : Cerro Colorado desde REC - 070206.
+Hora : 06:00 a 13:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión (reubicación de línea de media tensión).
+Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Arqueta, Asociación Policial Campo Verde, La Libertad, Residencial Monte Bello, Urbanización Quinta Luisa, Veracruz, Vía Evitamiento.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3965, 3924, 3964, 3966, 3967, 1672, 3909, 1515, 3908, 3741, 2957, 3109, 4012, 3776, 2956, 1929, 1248, 2085, 2984, 3323, 2106, 2048, 2789, 1467, 1251, 3710, 4624, 5066, 2155, 4868, 1973, 4663, 3971, 10223, 4017, 4546, 3132, 3126, 1799, 4008, 3753, 4305, 4326, 4395, 5966, 4394, 4578, 5296, 5074, 4915, 5505, 5425, 5196, 5631, 5416, 5675, 5713, 5884, 5891, 10050, 10262.
+
+====================================================================================================
+ID: 5950
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5950&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 02/08/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Corire- Aplao (la capital), Huancarqui, Machaguay, Pampacolca, Tipán, Uñón, Uraca, Viraco, Majes, Lluclla PROVINCIA DE CONDESUYOS Distritos de Iray, Chuquibamba, Andaray, Yanaquihua, Chichas, Salamanca, Santa Rita de Siguas, San Juan de Siguas, Santa Isabel de Siguas
+Zona afectada: PROVINCIA DE CASTILLA: Distritos de Corire- Aplao (la capital), Huancarqui, Machaguay, Pampacolca, Tipán, Uñón, Uraca, y Viraco. PROVINCIA DE CAYLLOMA: Distritos de Majes, Lluclla PROVINCIA DE CONDESUYOS Distritos de Iray, Chuquibamba, Andaray, Yanaquihua, Chichas y Salamanca. PROVINCIA DE AREQUIPA: Distritos de Santa Rita de Siguas, San Juan de Siguas, Santa Isabel de Siguas.
+Motivo: Pruebas a transformador de potencia, mantenimiento de patio de llaves y mantenimiento en pórtico en 60KV
+Ubicación: SET MAJES CON SUS SALIDAS EN 22KV, SET PIONERO CON SUS SALIDAS EN 22KV, CELDA DE SALIDAD DE LINEA L-6550, LÍNEA 60KV L-6550 MAJES-CORIRE-CHUQUIBAMBA, SET CORIRE (PUNTA COLORADA) CON SUS SALIDAS EN 13.2KV, SET CHUQUIBAMBA CON SUS SALIDAS EN 22.9KV
+Título: CORTE PROGRAMADO
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+SOCIEDAD ELECTRICA DEL SUR OESTE S. A., comunica a sus usuarios y público en general que debido al CORTE PROGRAMADO POR MANTENIMIENTO DE REDES EN: SET MAJES CON SUS SALIDAS EN 22KV, SET PIONERO CON SUS SALIDAS EN 22KV, CELDA DE SALIDAD DE LINEA L-6550, LÍNEA 60KV L-6550 MAJES-CORIRE-CHUQUIBAMBA, SET CORIRE (PUNTA COLORADA) CON SUS SALIDAS EN 13.2KV, SET CHUQUIBAMBA CON SUS SALIDAS EN 22.9KV, se verá obligada a efectuar la suspensión temporal del suministro eléctrico el día domingo 02 de agosto de 2026, en el horario de 07:30 a 15:30 horas.
+MOTIVO: Pruebas a transformador de potencia, mantenimiento de patio de llaves y mantenimiento en pórtico en 60KV
+Las zonas afectadas por el corte efectuado por SEAL serán:
+PROVINCIA DE CASTILLA:
+Distritos de Corire- Aplao (la capital), Huancarqui, Machaguay, Pampacolca, Tipán, Uñón, Uraca, y Viraco.
+PROVINCIA DE CAYLLOMA:
+Distritos de Majes, Lluclla
+PROVINCIA DE CONDESUYOS
+Distritos de Iray, Chuquibamba, Andaray, Yanaquihua, Chichas y Salamanca.
+PROVINCIA DE AREQUIPA:
+Distritos de Santa Rita de Siguas, San Juan de Siguas, Santa Isabel de Siguas.
