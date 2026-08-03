@@ -1,16 +1,16 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-02 11:36:06
+fecha_ejecucion: 2026-08-03 13:21:31
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-02
-fecha_inicio: 2026-08-01
-fecha_fin: 2026-09-01
+fecha_base: 2026-08-03
+fecha_inicio: 2026-08-02
+fecha_fin: 2026-09-02
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 1
-eventos_totales_extraidos: 1
-eventos_guardados_en_rango: 1
+ids_detectados: 6
+eventos_totales_extraidos: 6
+eventos_guardados_en_rango: 6
 output_dir: docs
 ====================================================================================================
 
@@ -40,3 +40,116 @@ PROVINCIA DE CONDESUYOS
 Distritos de Iray, Chuquibamba, Andaray, Yanaquihua, Chichas y Salamanca.
 PROVINCIA DE AREQUIPA:
 Distritos de Santa Rita de Siguas, San Juan de Siguas, Santa Isabel de Siguas.
+
+====================================================================================================
+ID: 5954
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5954&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/08/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Mz. A-B de Urb. Asociación APTASA (Distrito de Cerro Colorado).
+Motivo: Mantenimiento y limpieza de la Subestación.
+Ubicación: Circuito : SED 4489.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 04 DE AGOSTO DE 2026.
+Circuito : SED 4489.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de la Subestación.
+Zonas afectadas: Mz. A-B de Urb. Asociación APTASA (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5955
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5955&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/08/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Mz. B-C-I-J de Urb. Asociación APTASA (Distrito de Cerro Colorado).
+Motivo: Mantenimiento y limpieza de la Subestación.
+Ubicación: Circuito : SED 4175.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 04 DE AGOSTO DE 2026.
+Circuito : SED 4175.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de la Subestación.
+Zonas afectadas: Mz. B-C-I-J de Urb. Asociación APTASA (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5953
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5953&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 05/08/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Alca, Huaynacotas, Puyca, Cotahuasi, Pampamarca, Tomepampa, de Alca, de Huaynacotas, de Puyca, de Cotahuasi, de Pampamarca, de Tomepampa
+Zona afectada: Urbanizaciones del Distrito de Alca: Alca, Ayahuasi, Cahuana, Huillac, Ticnay, La Lucha, Yumasca, Urbanizaciones Distrito de Huaynacotas: Anatabamba, Chincayllapa, Huacay, Piramarca, Sarasara, Tarhuara, Yurac, Anexo Chaclla, Huaynacotas, Luicho Chico, Luicho Grande, Taurisma, Visve, Urbanizaciones Distrito de Puyca: Ccalla, Churca, Cuspa, Huactapa, Lauripampa, Maghuanca, Meclla, Petcce, Puica, Sayparara, Sayroso, Soncco, Suni, Urbanizaciones del distrito de Cotahuasi: Acobamba, Ccanchapata 2, Cuno Cuno, Villa Chacaylla. Urbanizaciones del distrito de Pampamarca: Cochapampa, Mungui, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca. Urbanizaciones del distrito de Tomepampa: Achambi, Huayhuanca, Locrahuanca, Tomepampa.
+Motivo: Mantenimiento de redes de media tensión (instalación de pararrayos, cambio de aisladores, podado de árboles).
+Ubicación: SET : [70] COTAHUASI.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7282, 7280, 7303, 7304, 7307, 7311, 7281, 7316, 7315, 7313, 7314, 7312, 7305, 7306, 7310, 7731, 7732, 7730, 7729, 7734, 7735, 7746, 7747, 7727, 7725, 7726, 7724, 8644, 9423, 10286, 7308, 7309, 7733, 7728, 7292, 7291, 7290, 7289, 7288, 7285, 7284, 7283, 7297, 7320, 7317, 7318, 7319, 7296, 7295, 7294, 7293, 7287, 7286, 7336, 7332, 7321, 7302, 7322, 7338, 7343, 7752, 7749, 7750, 7751, 7719, 7972, 9795, 9358, 9360, 9359, 9365, 9395, 10173.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 05 DE AGOSTO DE 2026:
+SET : [70] COTAHUASI.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión (instalación de pararrayos, cambio de aisladores, podado de árboles).
+Zonas afectadas: Urbanizaciones del Distrito de Alca: Alca, Ayahuasi, Cahuana, Huillac, Ticnay, La Lucha, Yumasca, Urbanizaciones Distrito de Huaynacotas: Anatabamba, Chincayllapa, Huacay, Piramarca, Sarasara, Tarhuara, Yurac, Anexo Chaclla, Huaynacotas, Luicho Chico, Luicho Grande, Taurisma, Visve, Urbanizaciones Distrito de Puyca: Ccalla, Churca, Cuspa, Huactapa, Lauripampa, Maghuanca, Meclla, Petcce, Puica, Sayparara, Sayroso, Soncco, Suni, Urbanizaciones del distrito de Cotahuasi: Acobamba, Ccanchapata 2, Cuno Cuno, Villa Chacaylla. Urbanizaciones del distrito de Pampamarca: Cochapampa, Mungui, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca. Urbanizaciones del distrito de Tomepampa: Achambi, Huayhuanca, Locrahuanca, Tomepampa.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7282, 7280, 7303, 7304, 7307, 7311, 7281, 7316, 7315, 7313, 7314, 7312, 7305, 7306, 7310, 7731, 7732, 7730, 7729, 7734, 7735, 7746, 7747, 7727, 7725, 7726, 7724, 8644, 9423, 10286, 7308, 7309, 7733, 7728, 7292, 7291, 7290, 7289, 7288, 7285, 7284, 7283, 7297, 7320, 7317, 7318, 7319, 7296, 7295, 7294, 7293, 7287, 7286, 7336, 7332, 7321, 7302, 7322, 7338, 7343, 7752, 7749, 7750, 7751, 7719, 7972, 9795, 9358, 9360, 9359, 9365, 9395, 10173.
+
+====================================================================================================
+ID: 5951
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5951&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 05/08/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: 
+Zona afectada: Urbanizaciones: Ampliación la Negrita, La Victoria, El Carmen, Cesar Vallejo.
+Motivo: Instalación de poste y nueva subestación de distribución.
+Ubicación: Circuito : La Isla desde la celda salida de la SED N° 4797.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+MIÉRCOLES, 05 DE AGOSTO DE 2026:
+Circuito : La Isla desde la celda salida de la SED N° 4797.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Instalación de poste y nueva subestación de distribución.
+Zonas afectadas: Urbanizaciones: Ampliación la Negrita, La Victoria, El Carmen, Cesar Vallejo.
+Subestaciones de Distribución S.E. involucradas según zonas afectadas líneas arriba: 4751, 4797, 2374, 1139, 2373, 2371, 2357, 3387, 2369, 4309, 1141, 4297, 1140, 2368, 2367, 10154, 5932, 5683.
+
+====================================================================================================
+ID: 5952
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5952&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 05/08/2026
+Hora inicio: 08:00
+Hora fin: 12:00
+Distrito: Jacobo Hunter, Socabaya, de Jacobo Hunter, de Socabaya
+Zona afectada: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
+Motivo: Cambio de estructura de media tensión, subsanación de deficiencias.
+Ubicación: Circuito : Las Peñas desde BC - 041005.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 05 DE AGOSTO DE 2026:
+Circuito : Las Peñas desde BC - 041005.
+Hora : 08:00 a 12:00 Hrs.
+Motivo : Cambio de estructura de media tensión, subsanación de deficiencias.
+Zonas afectadas: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
