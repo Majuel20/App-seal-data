@@ -1,16 +1,16 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-04 12:20:38
+fecha_ejecucion: 2026-08-05 12:18:55
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-04
-fecha_inicio: 2026-08-03
-fecha_fin: 2026-09-03
+fecha_base: 2026-08-05
+fecha_inicio: 2026-08-04
+fecha_fin: 2026-09-04
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 6
-eventos_totales_extraidos: 6
-eventos_guardados_en_rango: 5
+ids_detectados: 7
+eventos_totales_extraidos: 7
+eventos_guardados_en_rango: 6
 output_dir: docs
 ====================================================================================================
 
@@ -126,3 +126,26 @@ Hora : 08:00 a 12:00 Hrs.
 Motivo : Cambio de estructura de media tensión, subsanación de deficiencias.
 Zonas afectadas: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
+
+====================================================================================================
+ID: 5956
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5956&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 07/08/2026
+Hora inicio: 07:30
+Hora fin: 14:30
+Distrito: Alto Selva Alegre, de Alto Selva Alegre
+Zona afectada: Urbanizaciones del distrito de Alto Selva Alegre: Chilina, San Lazaro.
+Motivo: Mantenimiento de redes en media tensión (subsanación de deficiencias y desmontaje de red)
+Ubicación: Circuito : Independencia desde CC - 200188.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 2017, 4491, 5905, 4048, 1999, 1279, 5693, 2020
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 07 DE AGOSTO DE 2026:
+Circuito : Independencia desde CC - 200188.
+Hora : 07:30 a 14:30 Hrs.
+Motivo : Mantenimiento de redes en media tensión (subsanación de deficiencias y desmontaje de red)
+Zonas afectadas: Urbanizaciones del distrito de Alto Selva Alegre: Chilina, San Lazaro.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2017, 4491, 5905, 4048, 1999, 1279, 5693, 2020
