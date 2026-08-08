@@ -1,15 +1,1 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5956,07/08/2026,07:30,14:30,"Alto Selva Alegre, de Alto Selva Alegre","Urbanizaciones del distrito de Alto Selva Alegre: Chilina, San Lazaro.",Mantenimiento de redes en media tensión (subsanación de deficiencias y desmontaje de red),Circuito : Independencia desde CC - 200188.,MANTENIMIENTO DE REDES.,"2017, 4491, 5905, 4048, 1999, 1279, 5693, 2020","MANTENIMIENTO DE REDES.
-VIERNES, 07 DE AGOSTO DE 2026:
-Circuito : Independencia desde CC - 200188.
-Hora : 07:30 a 14:30 Hrs.
-Motivo : Mantenimiento de redes en media tensión (subsanación de deficiencias y desmontaje de red)
-Zonas afectadas: Urbanizaciones del distrito de Alto Selva Alegre: Chilina, San Lazaro.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2017, 4491, 5905, 4048, 1999, 1279, 5693, 2020",,,,,Evento,el 04/08/2026 17:36 por Cuenta del sistema,04/08/2026 17:36,Cuenta del sistema,Cuenta del sistema,07/08/2026 7:30,07/08/2026 14:30,2026-08-07T07:30:00,2026-08-07T14:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5956&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,6260ea7f29c9184ca598727d5f011c2569948c3377a0758a714df078063b6b3c
-5957,09/08/2026,06:00,14:00,"Arequipa, de Arequipa","Urbanizaciones del distrito de Arequipa: Centro Histórico Arequipa, Cercado.","Mantenimiento de redes en media tensión (camio de transformador, subsanar deficiencias).",Circuito : Peru desde SF6 - 020603.,MANTENIMIENTO DE REDES.,"4950, 1640, 1486, 1696, 10139, 1712, 1554, 1951, 1052, 2891, 2885, 1955, 1013, 4067, 4849, 4150, 2704, 4236, 1767, 4363, 10275, 4850, 5021, 5873, 4830, 10222.","MANTENIMIENTO DE REDES.
-DOMINGO, 09 DE AGOSTO DE 2026:
-Circuito : Peru desde SF6 - 020603.
-Hora : 06:00 a 14:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (camio de transformador, subsanar deficiencias).
-Zonas afectadas: Urbanizaciones del distrito de Arequipa: Centro Histórico Arequipa, Cercado.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4950, 1640, 1486, 1696, 10139, 1712, 1554, 1951, 1052, 2891, 2885, 1955, 1013, 4067, 4849, 4150, 2704, 4236, 1767, 4363, 10275, 4850, 5021, 5873, 4830, 10222.",,,,,Evento,el 05/08/2026 18:16 por Cuenta del sistema,05/08/2026 18:16,Cuenta del sistema,Cuenta del sistema,09/08/2026 6:00,09/08/2026 14:00,2026-08-09T06:00:00,2026-08-09T14:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5957&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,7c535700357e06709a76dcb086c25cc048b8c27147c2e543711ef616b65416f7

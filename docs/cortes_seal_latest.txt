@@ -1,61 +1,15 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-07 11:09:19
+fecha_ejecucion: 2026-08-08 10:53:17
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-07
-fecha_inicio: 2026-08-06
-fecha_fin: 2026-09-06
+fecha_base: 2026-08-08
+fecha_inicio: 2026-08-07
+fecha_fin: 2026-09-07
 dias_atras: 1
 dias_adelante: 30
-metodo_ids: REQUESTS_STATIC
-ids_detectados: 8
-eventos_totales_extraidos: 8
-eventos_guardados_en_rango: 2
+metodo_ids: 
+ids_detectados: 0
+eventos_totales_extraidos: 0
+eventos_guardados_en_rango: 0
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5956
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5956&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 07/08/2026
-Hora inicio: 07:30
-Hora fin: 14:30
-Distrito: Alto Selva Alegre, de Alto Selva Alegre
-Zona afectada: Urbanizaciones del distrito de Alto Selva Alegre: Chilina, San Lazaro.
-Motivo: Mantenimiento de redes en media tensión (subsanación de deficiencias y desmontaje de red)
-Ubicación: Circuito : Independencia desde CC - 200188.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 2017, 4491, 5905, 4048, 1999, 1279, 5693, 2020
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 07 DE AGOSTO DE 2026:
-Circuito : Independencia desde CC - 200188.
-Hora : 07:30 a 14:30 Hrs.
-Motivo : Mantenimiento de redes en media tensión (subsanación de deficiencias y desmontaje de red)
-Zonas afectadas: Urbanizaciones del distrito de Alto Selva Alegre: Chilina, San Lazaro.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2017, 4491, 5905, 4048, 1999, 1279, 5693, 2020
-
-====================================================================================================
-ID: 5957
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5957&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 09/08/2026
-Hora inicio: 06:00
-Hora fin: 14:00
-Distrito: Arequipa, de Arequipa
-Zona afectada: Urbanizaciones del distrito de Arequipa: Centro Histórico Arequipa, Cercado.
-Motivo: Mantenimiento de redes en media tensión (camio de transformador, subsanar deficiencias).
-Ubicación: Circuito : Peru desde SF6 - 020603.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 4950, 1640, 1486, 1696, 10139, 1712, 1554, 1951, 1052, 2891, 2885, 1955, 1013, 4067, 4849, 4150, 2704, 4236, 1767, 4363, 10275, 4850, 5021, 5873, 4830, 10222.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-DOMINGO, 09 DE AGOSTO DE 2026:
-Circuito : Peru desde SF6 - 020603.
-Hora : 06:00 a 14:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (camio de transformador, subsanar deficiencias).
-Zonas afectadas: Urbanizaciones del distrito de Arequipa: Centro Histórico Arequipa, Cercado.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4950, 1640, 1486, 1696, 10139, 1712, 1554, 1951, 1052, 2891, 2885, 1955, 1013, 4067, 4849, 4150, 2704, 4236, 1767, 4363, 10275, 4850, 5021, 5873, 4830, 10222.
