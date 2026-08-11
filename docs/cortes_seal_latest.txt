@@ -1,38 +1,239 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-10 11:28:00
+fecha_ejecucion: 2026-08-11 11:06:54
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-10
-fecha_inicio: 2026-08-09
-fecha_fin: 2026-09-09
+fecha_base: 2026-08-11
+fecha_inicio: 2026-08-10
+fecha_fin: 2026-09-10
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 8
-eventos_totales_extraidos: 8
-eventos_guardados_en_rango: 1
+ids_detectados: 18
+eventos_totales_extraidos: 18
+eventos_guardados_en_rango: 10
 output_dir: docs
 ====================================================================================================
 
 ====================================================================================================
-ID: 5957
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5957&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 09/08/2026
-Hora inicio: 06:00
-Hora fin: 14:00
-Distrito: Arequipa, de Arequipa
-Zona afectada: Urbanizaciones del distrito de Arequipa: Centro Histórico Arequipa, Cercado.
-Motivo: Mantenimiento de redes en media tensión (camio de transformador, subsanar deficiencias).
-Ubicación: Circuito : Peru desde SF6 - 020603.
+ID: 5959
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5959&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 10/08/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Mz. J-K de Urb. Asociación APTASA (Distrito de Cerro Colorado).
+Motivo: Mantenimiento y limpieza de la Subestación.
+Ubicación: Circuito : SED 4487.
 Título: MANTENIMIENTO DE REDES.
-Subestaciones: 4950, 1640, 1486, 1696, 10139, 1712, 1554, 1951, 1052, 2891, 2885, 1955, 1013, 4067, 4849, 4150, 2704, 4236, 1767, 4363, 10275, 4850, 5021, 5873, 4830, 10222.
+Subestaciones: 
 Fuente extracción: DISPFORM_REQUESTS
 
 Descripción completa:
 MANTENIMIENTO DE REDES.
-DOMINGO, 09 DE AGOSTO DE 2026:
-Circuito : Peru desde SF6 - 020603.
-Hora : 06:00 a 14:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (camio de transformador, subsanar deficiencias).
-Zonas afectadas: Urbanizaciones del distrito de Arequipa: Centro Histórico Arequipa, Cercado.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4950, 1640, 1486, 1696, 10139, 1712, 1554, 1951, 1052, 2891, 2885, 1955, 1013, 4067, 4849, 4150, 2704, 4236, 1767, 4363, 10275, 4850, 5021, 5873, 4830, 10222.
+LUNES, 10 DE AGOSTO DE 2026.
+Circuito : SED 4487.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de la Subestación.
+Zonas afectadas: Mz. J-K de Urb. Asociación APTASA (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5960
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5960&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 10/08/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Mz. K de Urb. Asociación APTASA (Distrito de Cerro Colorado).
+Motivo: Mantenimiento y limpieza de la Subestación.
+Ubicación: Circuito : SED 1940.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+LUNES, 10 DE AGOSTO DE 2026.
+Circuito : SED 1940.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de la Subestación.
+Zonas afectadas: Mz. K de Urb. Asociación APTASA (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5958
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5958&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 11/08/2026
+Hora inicio: 07:30
+Hora fin: 16:30
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: Urb. Bancarios, Urb. Casapia.
+Motivo: Inserción de nueva subestación y cambio de EMT.
+Ubicación: Circuito : Tecsup desde la EMT 12770
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 4987, 3242.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+MARTES, 11 DE AGOSTO DE 2026:
+Circuito : Tecsup desde la EMT 12770
+Hora : 07:30 a 16:30 Hrs.
+Motivo : Inserción de nueva subestación y cambio de EMT.
+Zonas : Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: Urb. Bancarios, Urb. Casapia.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4987, 3242.
+
+====================================================================================================
+ID: 5965
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5965&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 11/08/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Atiquipa, Yauca, de Atiquipa, de Yauca
+Zona afectada: Urbanizaciones del distrito de Atiquipa: Agua Salada, Atiquipa, Santa Rosa. Urbanizaciones del distrito de Yauca: Tanaka.
+Motivo: Mantenimiento de redes de media tensión (Subsanación de deficiencias).
+Ubicación: Circuito : Agua Salada desde REC - 560244.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 9638, 9379, 9637, 9647, 9650, 9649, 9639, 9818, 9875, 9876, 9636, 9976, 10159.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 11 DE AGOSTO DE 2026:
+Circuito : Agua Salada desde REC - 560244.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Mantenimiento de redes de media tensión (Subsanación de deficiencias).
+Zonas afectadas: Urbanizaciones del distrito de Atiquipa: Agua Salada, Atiquipa, Santa Rosa. Urbanizaciones del distrito de Yauca: Tanaka.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9638, 9379, 9637, 9647, 9650, 9649, 9639, 9818, 9875, 9876, 9636, 9976, 10159.
+
+====================================================================================================
+ID: 5967
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5967&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 11/08/2026
+Hora inicio: 07:30
+Hora fin: 16:30
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: Urb. Bancarios, Urb. Casapia.
+Motivo: Inserción de nueva subestación y cambio de EMT.
+Ubicación: Circuito : Tecsup desde la EMT 12770
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 4987, 3242.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+MARTES, 11 DE AGOSTO DE 2026:
+Circuito : Tecsup desde la EMT 12770
+Hora : 07:30 a 16:30 Hrs.
+Motivo : Inserción de nueva subestación y cambio de EMT.
+Zonas : Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: Urb. Bancarios, Urb. Casapia.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4987, 3242.
+
+====================================================================================================
+ID: 5961
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5961&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 11/08/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Centro Comercial Las Malvinas del Sur (Distrito de Cerro Colorado).
+Motivo: Mantenimiento y limpieza de la Subestación.
+Ubicación: Circuito : SED 5035.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 11 DE AGOSTO DE 2026.
+Circuito : SED 5035.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de la Subestación.
+Zonas afectadas: Centro Comercial Las Malvinas del Sur (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5962
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5962&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 11/08/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Km 6.8 de la Vía de evitamiento (Distrito de Cerro Colorado).
+Motivo: Mantenimiento y limpieza de la Subestación.
+Ubicación: Circuito : SED 5343.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 11 DE AGOSTO DE 2026.
+Circuito : SED 5343.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de la Subestación.
+Zonas afectadas: Km 6.8 de la Vía de evitamiento (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5963
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5963&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/08/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Km 6.8 de la Vía de evitamiento (Distrito de Cerro Colorado).
+Motivo: Mantenimiento y limpieza de la Subestación.
+Ubicación: Circuito : SED 5342.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 12 DE AGOSTO DE 2026.
+Circuito : SED 5342.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de la Subestación.
+Zonas afectadas: Km 6.8 de la Vía de evitamiento (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5964
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5964&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/08/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Km 6.8 de la Vía de evitamiento, los desamparados (Distrito de Cerro Colorado).
+Motivo: Mantenimiento y limpieza de la Subestación.
+Ubicación: Circuito : SED 5344.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 12 DE AGOSTO DE 2026.
+Circuito : SED 5344.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de la Subestación.
+Zonas afectadas: Km 6.8 de la Vía de evitamiento, los desamparados (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 5966
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5966&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 13/08/2026
+Hora inicio: 07:30
+Hora fin: 13:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Urbanizaciones del distrito de Cerro Colorado: APIPA sector III, Asoc. Jose Luis Bustamte y Rivero sector 1.
+Motivo: Inserción de nueva subestación de distribución y ampliación de red de media tensión.
+Ubicación: Circuito : Ciudad Municipal desde CC - 200343.
+Título: REFORZAMIENTO DE REDES
+Subestaciones: 5432, 5431, 5144, 5433, 5449, 5642, 5143.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+JUEVES, 13 DE AGOSTO DE 2026:
+Circuito : Ciudad Municipal desde CC - 200343.
+Hora : 07:30 a 13:30 Hrs.
+Motivo : Inserción de nueva subestación de distribución y ampliación de red de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: APIPA sector III, Asoc. Jose Luis Bustamte y Rivero sector 1.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5432, 5431, 5144, 5433, 5449, 5642, 5143.
