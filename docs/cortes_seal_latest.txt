@@ -1,62 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-11 11:06:54
+fecha_ejecucion: 2026-08-12 11:12:32
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-11
-fecha_inicio: 2026-08-10
-fecha_fin: 2026-09-10
+fecha_base: 2026-08-12
+fecha_inicio: 2026-08-11
+fecha_fin: 2026-09-11
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 18
-eventos_totales_extraidos: 18
+ids_detectados: 20
+eventos_totales_extraidos: 20
 eventos_guardados_en_rango: 10
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5959
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5959&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 10/08/2026
-Hora inicio: 08:00
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Mz. J-K de Urb. Asociación APTASA (Distrito de Cerro Colorado).
-Motivo: Mantenimiento y limpieza de la Subestación.
-Ubicación: Circuito : SED 4487.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 10 DE AGOSTO DE 2026.
-Circuito : SED 4487.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento y limpieza de la Subestación.
-Zonas afectadas: Mz. J-K de Urb. Asociación APTASA (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 5960
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5960&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 10/08/2026
-Hora inicio: 08:00
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Mz. K de Urb. Asociación APTASA (Distrito de Cerro Colorado).
-Motivo: Mantenimiento y limpieza de la Subestación.
-Ubicación: Circuito : SED 1940.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 10 DE AGOSTO DE 2026.
-Circuito : SED 1940.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento y limpieza de la Subestación.
-Zonas afectadas: Mz. K de Urb. Asociación APTASA (Distrito de Cerro Colorado).
 
 ====================================================================================================
 ID: 5958
@@ -237,3 +193,49 @@ Hora : 07:30 a 13:30 Hrs.
 Motivo : Inserción de nueva subestación de distribución y ampliación de red de media tensión.
 Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: APIPA sector III, Asoc. Jose Luis Bustamte y Rivero sector 1.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5432, 5431, 5144, 5433, 5449, 5642, 5143.
+
+====================================================================================================
+ID: 5968
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5968&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 14/08/2026
+Hora inicio: 07:30
+Hora fin: 16:30
+Distrito: Mollendo, de Mollendo
+Zona afectada: Urbanizaciones del distrito de Mollendo: Costa Palmeras.
+Motivo: Mantenimiento de redes en media tensión (cambio de postes, mantenimiento conductor y otras actividades de mantenimiento).
+Ubicación: Circuito : Mejia desde BC - 360119.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 14 DE AGOSTO DE 2026:
+Circuito : Mejia desde BC - 360119.
+Hora : 07:30 a 16:30 Hrs.
+Motivo : Mantenimiento de redes en media tensión (cambio de postes, mantenimiento conductor y otras actividades de mantenimiento).
+Zonas afectadas: Urbanizaciones del distrito de Mollendo: Costa Palmeras.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102
+
+====================================================================================================
+ID: 5969
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5969&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 14/08/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Samuel Pastor
+Zona afectada: Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria
+Motivo: Mantenimiento de redes de media tensión (cambio de conductor, manteamiento de
+Ubicación: Circuito : Cristo Rey desde REC - 200533.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 14 DE AGOSTO DE 2026:
+Circuito : Cristo Rey desde REC - 200533.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Mantenimiento de redes de media tensión (cambio de conductor, manteamiento de subestaciones).
+Zonas : Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369.
