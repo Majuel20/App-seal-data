@@ -1,131 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-12 11:12:32
+fecha_ejecucion: 2026-08-13 11:12:25
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-12
-fecha_inicio: 2026-08-11
-fecha_fin: 2026-09-11
+fecha_base: 2026-08-13
+fecha_inicio: 2026-08-12
+fecha_fin: 2026-09-12
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 20
 eventos_totales_extraidos: 20
-eventos_guardados_en_rango: 10
+eventos_guardados_en_rango: 5
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5958
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5958&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 11/08/2026
-Hora inicio: 07:30
-Hora fin: 16:30
-Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
-Zona afectada: Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: Urb. Bancarios, Urb. Casapia.
-Motivo: Inserción de nueva subestación y cambio de EMT.
-Ubicación: Circuito : Tecsup desde la EMT 12770
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 4987, 3242.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-MARTES, 11 DE AGOSTO DE 2026:
-Circuito : Tecsup desde la EMT 12770
-Hora : 07:30 a 16:30 Hrs.
-Motivo : Inserción de nueva subestación y cambio de EMT.
-Zonas : Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: Urb. Bancarios, Urb. Casapia.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4987, 3242.
-
-====================================================================================================
-ID: 5965
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5965&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 11/08/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Atiquipa, Yauca, de Atiquipa, de Yauca
-Zona afectada: Urbanizaciones del distrito de Atiquipa: Agua Salada, Atiquipa, Santa Rosa. Urbanizaciones del distrito de Yauca: Tanaka.
-Motivo: Mantenimiento de redes de media tensión (Subsanación de deficiencias).
-Ubicación: Circuito : Agua Salada desde REC - 560244.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 9638, 9379, 9637, 9647, 9650, 9649, 9639, 9818, 9875, 9876, 9636, 9976, 10159.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 11 DE AGOSTO DE 2026:
-Circuito : Agua Salada desde REC - 560244.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Mantenimiento de redes de media tensión (Subsanación de deficiencias).
-Zonas afectadas: Urbanizaciones del distrito de Atiquipa: Agua Salada, Atiquipa, Santa Rosa. Urbanizaciones del distrito de Yauca: Tanaka.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9638, 9379, 9637, 9647, 9650, 9649, 9639, 9818, 9875, 9876, 9636, 9976, 10159.
-
-====================================================================================================
-ID: 5967
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5967&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 11/08/2026
-Hora inicio: 07:30
-Hora fin: 16:30
-Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
-Zona afectada: Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: Urb. Bancarios, Urb. Casapia.
-Motivo: Inserción de nueva subestación y cambio de EMT.
-Ubicación: Circuito : Tecsup desde la EMT 12770
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 4987, 3242.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-MARTES, 11 DE AGOSTO DE 2026:
-Circuito : Tecsup desde la EMT 12770
-Hora : 07:30 a 16:30 Hrs.
-Motivo : Inserción de nueva subestación y cambio de EMT.
-Zonas : Urbanizaciones del Distrito de Jose Luis Bustamante y Rivero: Urb. Bancarios, Urb. Casapia.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4987, 3242.
-
-====================================================================================================
-ID: 5961
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5961&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 11/08/2026
-Hora inicio: 08:00
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Centro Comercial Las Malvinas del Sur (Distrito de Cerro Colorado).
-Motivo: Mantenimiento y limpieza de la Subestación.
-Ubicación: Circuito : SED 5035.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 11 DE AGOSTO DE 2026.
-Circuito : SED 5035.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento y limpieza de la Subestación.
-Zonas afectadas: Centro Comercial Las Malvinas del Sur (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 5962
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5962&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 11/08/2026
-Hora inicio: 08:00
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Km 6.8 de la Vía de evitamiento (Distrito de Cerro Colorado).
-Motivo: Mantenimiento y limpieza de la Subestación.
-Ubicación: Circuito : SED 5343.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 11 DE AGOSTO DE 2026.
-Circuito : SED 5343.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento y limpieza de la Subestación.
-Zonas afectadas: Km 6.8 de la Vía de evitamiento (Distrito de Cerro Colorado).
 
 ====================================================================================================
 ID: 5963
@@ -204,7 +91,7 @@ Distrito: Mollendo, de Mollendo
 Zona afectada: Urbanizaciones del distrito de Mollendo: Costa Palmeras.
 Motivo: Mantenimiento de redes en media tensión (cambio de postes, mantenimiento conductor y otras actividades de mantenimiento).
 Ubicación: Circuito : Mejia desde BC - 360119.
-Título: MANTENIMIENTO DE REDES.
+Título: MANTENIMIENTO DE REDES. SUSPENDIDO
 Subestaciones: 8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102
 Fuente extracción: DISPFORM_REQUESTS
 
