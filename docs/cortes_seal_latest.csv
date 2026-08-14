@@ -1,16 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5963,12/08/2026,08:00,12:30,"Cerro Colorado, de Cerro Colorado",Km 6.8 de la Vía de evitamiento (Distrito de Cerro Colorado).,Mantenimiento y limpieza de la Subestación.,Circuito : SED 5342.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MIÉRCOLES, 12 DE AGOSTO DE 2026.
-Circuito : SED 5342.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento y limpieza de la Subestación.
-Zonas afectadas: Km 6.8 de la Vía de evitamiento (Distrito de Cerro Colorado).",,,,,Evento,el 10/08/2026 8:00 por Cuenta del sistema,10/08/2026 8:00,Cuenta del sistema,Cuenta del sistema,12/08/2026 8:00,12/08/2026 12:30,2026-08-12T08:00:00,2026-08-12T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5963&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,67282863ff46e0535266a090e83589125074d785300c7035df56ca11b971f1e9
-5964,12/08/2026,08:00,12:30,"Cerro Colorado, de Cerro Colorado","Km 6.8 de la Vía de evitamiento, los desamparados (Distrito de Cerro Colorado).",Mantenimiento y limpieza de la Subestación.,Circuito : SED 5344.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MIÉRCOLES, 12 DE AGOSTO DE 2026.
-Circuito : SED 5344.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento y limpieza de la Subestación.
-Zonas afectadas: Km 6.8 de la Vía de evitamiento, los desamparados (Distrito de Cerro Colorado).",,,,,Evento,el 10/08/2026 8:01 por Cuenta del sistema,10/08/2026 8:01,Cuenta del sistema,Cuenta del sistema,12/08/2026 8:00,12/08/2026 12:30,2026-08-12T08:00:00,2026-08-12T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5964&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,db2ebc8bf0ff61ee7e50494f84e79b52ce2a64e034509974fec3217d71da47f1
 5966,13/08/2026,07:30,13:30,"Cerro Colorado, de Cerro Colorado","Urbanizaciones del distrito de Cerro Colorado: APIPA sector III, Asoc. Jose Luis Bustamte y Rivero sector 1.",Inserción de nueva subestación de distribución y ampliación de red de media tensión.,Circuito : Ciudad Municipal desde CC - 200343.,REFORZAMIENTO DE REDES,"5432, 5431, 5144, 5433, 5449, 5642, 5143.","REFORZAMIENTO DE REDES.
 JUEVES, 13 DE AGOSTO DE 2026:
 Circuito : Ciudad Municipal desde CC - 200343.
@@ -25,10 +13,10 @@ Hora : 07:30 a 16:30 Hrs.
 Motivo : Mantenimiento de redes en media tensión (cambio de postes, mantenimiento conductor y otras actividades de mantenimiento).
 Zonas afectadas: Urbanizaciones del distrito de Mollendo: Costa Palmeras.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102",,,,,Evento,el 11/08/2026 17:25 por Cuenta del sistema,12/08/2026 18:45,Cuenta del sistema,Cuenta del sistema,14/08/2026 7:30,14/08/2026 16:30,2026-08-14T07:30:00,2026-08-14T16:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5968&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,9bf2aa2380aff8706b277fd00c45be23f1b27e8ed5269f6db4fbea3a38f84cfb
-5969,14/08/2026,07:30,15:30,Samuel Pastor,"Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria","Mantenimiento de redes de media tensión (cambio de conductor, manteamiento de",Circuito : Cristo Rey desde REC - 200533.,MANTENIMIENTO DE REDES.,"9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369.","MANTENIMIENTO DE REDES.
+5969,14/08/2026,07:30,15:30,Samuel Pastor,"Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria","Mantenimiento de redes de media tensión (cambio de conductor, manteamiento de",Circuito : Cristo Rey desde REC - 200533.,MANTENIMIENTO DE REDES. SUSPENDIDO,"9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369.","MANTENIMIENTO DE REDES.
 VIERNES, 14 DE AGOSTO DE 2026:
 Circuito : Cristo Rey desde REC - 200533.
 Hora : 07:30 a 15:30 Hrs.
 Motivo : Mantenimiento de redes de media tensión (cambio de conductor, manteamiento de subestaciones).
 Zonas : Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369.",,,,,Evento,el 11/08/2026 17:27 por Cuenta del sistema,11/08/2026 17:27,Cuenta del sistema,Cuenta del sistema,14/08/2026 7:30,14/08/2026 15:30,2026-08-14T07:30:00,2026-08-14T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5969&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,513cc2d7828d7aa136fffcc79f20c25af279b439bd0bffc6c11305501d694b1c
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369.",,,,,Evento,el 11/08/2026 17:27 por Cuenta del sistema,13/08/2026 18:02,Cuenta del sistema,Cuenta del sistema,14/08/2026 7:30,14/08/2026 15:30,2026-08-14T07:30:00,2026-08-14T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5969&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,9bf95da0236394a816ae20382aa6ab457ae8bc6da38aa53e5bb9614cf699ec2e
