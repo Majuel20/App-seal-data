@@ -1,41 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-14 11:10:27
+fecha_ejecucion: 2026-08-15 10:42:09
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-14
-fecha_inicio: 2026-08-13
-fecha_fin: 2026-09-13
+fecha_base: 2026-08-15
+fecha_inicio: 2026-08-14
+fecha_fin: 2026-09-14
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 20
-eventos_totales_extraidos: 20
-eventos_guardados_en_rango: 3
+eventos_totales_extraidos: 19
+eventos_guardados_en_rango: 2
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5966
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5966&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 13/08/2026
-Hora inicio: 07:30
-Hora fin: 13:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cerro Colorado: APIPA sector III, Asoc. Jose Luis Bustamte y Rivero sector 1.
-Motivo: Inserción de nueva subestación de distribución y ampliación de red de media tensión.
-Ubicación: Circuito : Ciudad Municipal desde CC - 200343.
-Título: REFORZAMIENTO DE REDES
-Subestaciones: 5432, 5431, 5144, 5433, 5449, 5642, 5143.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-JUEVES, 13 DE AGOSTO DE 2026:
-Circuito : Ciudad Municipal desde CC - 200343.
-Hora : 07:30 a 13:30 Hrs.
-Motivo : Inserción de nueva subestación de distribución y ampliación de red de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: APIPA sector III, Asoc. Jose Luis Bustamte y Rivero sector 1.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5432, 5431, 5144, 5433, 5449, 5642, 5143.
 
 ====================================================================================================
 ID: 5968
