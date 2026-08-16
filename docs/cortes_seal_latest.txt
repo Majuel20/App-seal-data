@@ -1,61 +1,15 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-15 10:42:09
+fecha_ejecucion: 2026-08-16 10:42:44
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-15
-fecha_inicio: 2026-08-14
-fecha_fin: 2026-09-14
+fecha_base: 2026-08-16
+fecha_inicio: 2026-08-15
+fecha_fin: 2026-09-15
 dias_atras: 1
 dias_adelante: 30
-metodo_ids: REQUESTS_STATIC
-ids_detectados: 20
-eventos_totales_extraidos: 19
-eventos_guardados_en_rango: 2
+metodo_ids: 
+ids_detectados: 0
+eventos_totales_extraidos: 0
+eventos_guardados_en_rango: 0
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5968
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5968&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 14/08/2026
-Hora inicio: 07:30
-Hora fin: 16:30
-Distrito: Mollendo, de Mollendo
-Zona afectada: Urbanizaciones del distrito de Mollendo: Costa Palmeras.
-Motivo: Mantenimiento de redes en media tensión (cambio de postes, mantenimiento conductor y otras actividades de mantenimiento).
-Ubicación: Circuito : Mejia desde BC - 360119.
-Título: MANTENIMIENTO DE REDES. SUSPENDIDO
-Subestaciones: 8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 14 DE AGOSTO DE 2026:
-Circuito : Mejia desde BC - 360119.
-Hora : 07:30 a 16:30 Hrs.
-Motivo : Mantenimiento de redes en media tensión (cambio de postes, mantenimiento conductor y otras actividades de mantenimiento).
-Zonas afectadas: Urbanizaciones del distrito de Mollendo: Costa Palmeras.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102
-
-====================================================================================================
-ID: 5969
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5969&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 14/08/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Samuel Pastor
-Zona afectada: Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria
-Motivo: Mantenimiento de redes de media tensión (cambio de conductor, manteamiento de
-Ubicación: Circuito : Cristo Rey desde REC - 200533.
-Título: MANTENIMIENTO DE REDES. SUSPENDIDO
-Subestaciones: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 14 DE AGOSTO DE 2026:
-Circuito : Cristo Rey desde REC - 200533.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de conductor, manteamiento de subestaciones).
-Zonas : Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369.
