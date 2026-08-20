@@ -1,25 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-5970,18/08/2026,07:30,14:30,"Arequipa, de Arequipa","Urbanizaciones del distrito de Arequipa: Campiña Dorada, Juventud Ferroviaria, Los Ángeles, San Jeronimo.",Mantenimiento de redes de media tensión (subsanación de deficiencia),Circuito : Sacos Del Sur desde BC - 040502.,MANTENIMIENTO DE REDES.,"3467, 5889, 5890, 1823, 1284, 5298, 10180.","MANTENIMIENTO DE REDES.
-MARTES, 18 DE AGOSTO DE 2026:
-Circuito : Sacos Del Sur desde BC - 040502.
-Hora : 07:30 a 14:30 Hrs.
-Motivo : Mantenimiento de redes de media tensión (subsanación de deficiencia)
-Zonas afectadas: Urbanizaciones del distrito de Arequipa: Campiña Dorada, Juventud Ferroviaria, Los Ángeles, San Jeronimo.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3467, 5889, 5890, 1823, 1284, 5298, 10180.",,,,,Evento,el 17/08/2026 7:55 por Cuenta del sistema,17/08/2026 7:55,Cuenta del sistema,Cuenta del sistema,18/08/2026 7:30,18/08/2026 14:30,2026-08-18T07:30:00,2026-08-18T14:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5970&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,04046107a8dc5ef95e3275d0e6675b6e9172e29a3a7620b76ab1750ded162eed
-5972,18/08/2026,07:30,15:30,"Chala, de Chala","Urbanizaciones del distrito de Chala: Chala, Imperial La Aguadita, Las Brisas, Los Jardines Chala Tradicional, Magisterial Chala, Manuel Prado, Nueva Juventud, Pueblo Tradicional de Chala, Sector Casuarinas, Virgen del Carmen.","Mantenimiento de redes en media tensión (Cambio de poste, subsanación de deficiencias).",Circuito : [5804] MANUEL PRADO.,MANTENIMIENTO DE REDES. SUSPENDIDO,"9658, 9643, 9640, 9652, 9686, 9685, 9641, 9680, 9679, 9665, 9644, 9830, 9869, 9896, 9983, 9980, 9984, 9322, 9798, 9575, 9576, 9574, 9573, 9348, 9599, 9346, 9382, 9402, 9404, 9645, 10166, 10236, 10257, 9414.","MANTENIMIENTO DE REDES.
-MARTES, 18 DE AGOSTO DE 2026:
-Circuito : [5804] MANUEL PRADO.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Mantenimiento de redes en media tensión (Cambio de poste, subsanación de deficiencias).
-Zonas afectadas: Urbanizaciones del distrito de Chala: Chala, Imperial La Aguadita, Las Brisas, Los Jardines Chala Tradicional, Magisterial Chala, Manuel Prado, Nueva Juventud, Pueblo Tradicional de Chala, Sector Casuarinas, Virgen del Carmen.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9658, 9643, 9640, 9652, 9686, 9685, 9641, 9680, 9679, 9665, 9644, 9830, 9869, 9896, 9983, 9980, 9984, 9322, 9798, 9575, 9576, 9574, 9573, 9348, 9599, 9346, 9382, 9402, 9404, 9645, 10166, 10236, 10257, 9414.",,,,,Evento,el 17/08/2026 7:57 por Cuenta del sistema,17/08/2026 16:07,Cuenta del sistema,Cuenta del sistema,18/08/2026 7:30,18/08/2026 15:30,2026-08-18T07:30:00,2026-08-18T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5972&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,4ab9093fccbb96e261da95804a979b534b541fc7418c1974894bd86587a7f508
-5971,18/08/2026,08:00,14:00,"Cerro Colorado, de Cerro Colorado",Urbanizaciones del distrito de Cerro Colorado: Apipa Sector XVI.,"Mantenimiento de redes de media tensión (limpieza de aisladores, ajustes de ferretería).",Circuito : P. Yura desde BC - 200324.,MANTENIMIENTO DE REDES.,"5078, 5126, 5127, 5833.","MANTENIMIENTO DE REDES.
-MARTES, 18 DE AGOSTO DE 2026:
-Circuito : P. Yura desde BC - 200324.
-Hora : 08:00 a 14:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, ajustes de ferretería).
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Apipa Sector XVI.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5078, 5126, 5127, 5833.",,,,,Evento,el 17/08/2026 7:56 por Cuenta del sistema,17/08/2026 7:56,Cuenta del sistema,Cuenta del sistema,18/08/2026 8:00,18/08/2026 14:00,2026-08-18T08:00:00,2026-08-18T14:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5971&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,11c2cfc3bd0500edeabcc6fbc7b866d93a5c4262846d701f5c44acb8b19af18c
 5973,19/08/2026,08:00,12:30,"Cayma, de Cayma","Urb. Quinta La Floresta, Quebrada San Jacinto (Distrito de Cayma).",Cambio de transformador a 100 KVA.,Circuito : SED 3958.,MANTENIMIENTO DE REDES,,"MANTENIMIENTO DE REDES.
 MIÉRCOLES, 19 DE AGOSTO DE 2026.
 Circuito : SED 3958.

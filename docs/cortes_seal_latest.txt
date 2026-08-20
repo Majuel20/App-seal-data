@@ -1,87 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-19 11:09:59
+fecha_ejecucion: 2026-08-20 10:49:32
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-19
-fecha_inicio: 2026-08-18
-fecha_fin: 2026-09-18
+fecha_base: 2026-08-20
+fecha_inicio: 2026-08-19
+fecha_fin: 2026-09-19
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 27
 eventos_totales_extraidos: 27
-eventos_guardados_en_rango: 7
+eventos_guardados_en_rango: 4
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5970
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5970&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 18/08/2026
-Hora inicio: 07:30
-Hora fin: 14:30
-Distrito: Arequipa, de Arequipa
-Zona afectada: Urbanizaciones del distrito de Arequipa: Campiña Dorada, Juventud Ferroviaria, Los Ángeles, San Jeronimo.
-Motivo: Mantenimiento de redes de media tensión (subsanación de deficiencia)
-Ubicación: Circuito : Sacos Del Sur desde BC - 040502.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 3467, 5889, 5890, 1823, 1284, 5298, 10180.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 18 DE AGOSTO DE 2026:
-Circuito : Sacos Del Sur desde BC - 040502.
-Hora : 07:30 a 14:30 Hrs.
-Motivo : Mantenimiento de redes de media tensión (subsanación de deficiencia)
-Zonas afectadas: Urbanizaciones del distrito de Arequipa: Campiña Dorada, Juventud Ferroviaria, Los Ángeles, San Jeronimo.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3467, 5889, 5890, 1823, 1284, 5298, 10180.
-
-====================================================================================================
-ID: 5972
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5972&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 18/08/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Chala, de Chala
-Zona afectada: Urbanizaciones del distrito de Chala: Chala, Imperial La Aguadita, Las Brisas, Los Jardines Chala Tradicional, Magisterial Chala, Manuel Prado, Nueva Juventud, Pueblo Tradicional de Chala, Sector Casuarinas, Virgen del Carmen.
-Motivo: Mantenimiento de redes en media tensión (Cambio de poste, subsanación de deficiencias).
-Ubicación: Circuito : [5804] MANUEL PRADO.
-Título: MANTENIMIENTO DE REDES. SUSPENDIDO
-Subestaciones: 9658, 9643, 9640, 9652, 9686, 9685, 9641, 9680, 9679, 9665, 9644, 9830, 9869, 9896, 9983, 9980, 9984, 9322, 9798, 9575, 9576, 9574, 9573, 9348, 9599, 9346, 9382, 9402, 9404, 9645, 10166, 10236, 10257, 9414.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 18 DE AGOSTO DE 2026:
-Circuito : [5804] MANUEL PRADO.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Mantenimiento de redes en media tensión (Cambio de poste, subsanación de deficiencias).
-Zonas afectadas: Urbanizaciones del distrito de Chala: Chala, Imperial La Aguadita, Las Brisas, Los Jardines Chala Tradicional, Magisterial Chala, Manuel Prado, Nueva Juventud, Pueblo Tradicional de Chala, Sector Casuarinas, Virgen del Carmen.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9658, 9643, 9640, 9652, 9686, 9685, 9641, 9680, 9679, 9665, 9644, 9830, 9869, 9896, 9983, 9980, 9984, 9322, 9798, 9575, 9576, 9574, 9573, 9348, 9599, 9346, 9382, 9402, 9404, 9645, 10166, 10236, 10257, 9414.
-
-====================================================================================================
-ID: 5971
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5971&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 18/08/2026
-Hora inicio: 08:00
-Hora fin: 14:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Apipa Sector XVI.
-Motivo: Mantenimiento de redes de media tensión (limpieza de aisladores, ajustes de ferretería).
-Ubicación: Circuito : P. Yura desde BC - 200324.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 5078, 5126, 5127, 5833.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 18 DE AGOSTO DE 2026:
-Circuito : P. Yura desde BC - 200324.
-Hora : 08:00 a 14:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, ajustes de ferretería).
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Apipa Sector XVI.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5078, 5126, 5127, 5833.
 
 ====================================================================================================
 ID: 5973
