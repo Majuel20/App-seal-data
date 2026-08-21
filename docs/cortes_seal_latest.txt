@@ -1,105 +1,15 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-20 10:49:32
+fecha_ejecucion: 2026-08-21 10:50:23
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-20
-fecha_inicio: 2026-08-19
-fecha_fin: 2026-09-19
+fecha_base: 2026-08-21
+fecha_inicio: 2026-08-20
+fecha_fin: 2026-09-20
 dias_atras: 1
 dias_adelante: 30
-metodo_ids: REQUESTS_STATIC
-ids_detectados: 27
-eventos_totales_extraidos: 27
-eventos_guardados_en_rango: 4
+metodo_ids: 
+ids_detectados: 0
+eventos_totales_extraidos: 0
+eventos_guardados_en_rango: 0
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5973
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5973&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 19/08/2026
-Hora inicio: 08:00
-Hora fin: 12:30
-Distrito: Cayma, de Cayma
-Zona afectada: Urb. Quinta La Floresta, Quebrada San Jacinto (Distrito de Cayma).
-Motivo: Cambio de transformador a 100 KVA.
-Ubicación: Circuito : SED 3958.
-Título: MANTENIMIENTO DE REDES
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 19 DE AGOSTO DE 2026.
-Circuito : SED 3958.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Cambio de transformador a 100 KVA.
-Zonas afectadas: Urb. Quinta La Floresta, Quebrada San Jacinto (Distrito de Cayma).
-
-====================================================================================================
-ID: 5974
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5974&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 19/08/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Uchumayo, de Uchumayo
-Zona afectada: Lateral 4 – El Cural (Distrito de Uchumayo).
-Motivo: Cambio de transformador a 50 KVA.
-Ubicación: Circuito : SED 1091.
-Título: MANTENIMIENTO DE REDES. SUSPENDIDO
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 19 DE AGOSTO DE 2026.
-Circuito : SED 1091.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador a 50 KVA.
-Zonas afectadas: Lateral 4 – El Cural (Distrito de Uchumayo).
-
-====================================================================================================
-ID: 5975
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5975&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/08/2026
-Hora inicio: 08:00
-Hora fin: 14:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Apipa Sector I, Apipa Sector VII, Apipa Sector VIII, Apipa Sector V-VI, Apipa Sector XIII.
-Motivo: Mantenimiento de redes de media tensión (limpieza de aisladores, ajustes de ferretería).
-Ubicación: Circuito : P. Yura desde BC - 200356.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 5128, 5129, 5130, 5131, 5132, 5429, 5438, 5439, 5859.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 20 DE AGOSTO DE 2026:
-Circuito : P. Yura desde BC - 200356.
-Hora : 08:00 a 14:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, ajustes de ferretería).
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Apipa Sector I, Apipa Sector VII, Apipa Sector VIII, Apipa Sector V-VI, Apipa Sector XIII.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5128, 5129, 5130, 5131, 5132, 5429, 5438, 5439, 5859.
-
-====================================================================================================
-ID: 5976
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5976&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 21/08/2026
-Hora inicio: 08:00
-Hora fin: 14:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Apipa Sector XV.
-Motivo: Mantenimiento de redes de media tensión (limpieza de aisladores, ajustes de ferretería).
-Ubicación: Circuito : P. Yura desde BC - 080320.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 5133, 5134, 5135, 5446, 5447, 5448.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 21 DE AGOSTO DE 2026:
-Circuito : P. Yura desde BC - 080320.
-Hora : 08:00 a 14:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (limpieza de aisladores, ajustes de ferretería).
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Apipa Sector XV.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5133, 5134, 5135, 5446, 5447, 5448.
