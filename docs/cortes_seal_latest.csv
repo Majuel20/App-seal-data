@@ -1,1 +1,60 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
+5987,26/08/2026,07:00,15:00,"Nicolas de Pierola, Uraca, de Nicolas de Pierola, de Uraca","Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani. Urbanizaciones del distrito de Uraca: A.A.H.H.Villa Electrica, Anexo La Punta Colorada, Cantas, El Pedregal, Escalerillas, La Mezana, Las Malvinas, Pitis, Punta Colorada, Sarcas, Satelite, Toran, Villa Hermosa.","Mantenimiento de redes en media tensión (reubicación de estructura, cambio de crucetas, podado de árboles).",Circuito : [8102] TORAN.,MANTENIMIENTO DE REDES.,"7111, 7151, 7156, 7166, 7171, 7135, 7134, 7136, 7113, 7124, 7120, 7125, 7127, 7128, 7126, 7130, 7142, 7117, 7121, 7122, 7132, 7129, 7131, 7155, 7153, 7154, 7176, 7178, 7188, 7198, 7499, 7486, 7638, 7471, 7472, 7697, 7946, 7949, 7993, 7994, 8835, 8859, 8538, 8611, 8671, 7141, 7119, 7161, 7115, 7116, 7118, 7183.","MANTENIMIENTO DE REDES.
+MIÉRCOLES, 26 DE AGOSTO DE 2026:
+Circuito : [8102] TORAN.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión (reubicación de estructura, cambio de crucetas, podado de árboles).
+Zonas afectadas: Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani. Urbanizaciones del distrito de Uraca: A.A.H.H.Villa Electrica, Anexo La Punta Colorada, Cantas, El Pedregal, Escalerillas, La Mezana, Las Malvinas, Pitis, Punta Colorada, Sarcas, Satelite, Toran, Villa Hermosa.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7111, 7151, 7156, 7166, 7171, 7135, 7134, 7136, 7113, 7124, 7120, 7125, 7127, 7128, 7126, 7130, 7142, 7117, 7121, 7122, 7132, 7129, 7131, 7155, 7153, 7154, 7176, 7178, 7188, 7198, 7499, 7486, 7638, 7471, 7472, 7697, 7946, 7949, 7993, 7994, 8835, 8859, 8538, 8611, 8671, 7141, 7119, 7161, 7115, 7116, 7118, 7183.",,,,,Evento,el 24/08/2026 8:03 por Cuenta del sistema,24/08/2026 8:03,Cuenta del sistema,Cuenta del sistema,26/08/2026 7:00,26/08/2026 15:00,2026-08-26T07:00:00,2026-08-26T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5987&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,c176066abbee766c55c00f73f40abcd76b7455559e561b218a13cc1b1238c16b
+5986,26/08/2026,07:30,13:30,"Cayma, Cerro Colorado, de Cayma, de Cerro Colorado","Urbanizaciones del distrito de Cayma: Jorge Basadre, Mirasol de Cayma, Quinta Samay, Santa Elisa. Urbanizaciones del distrito de Cerro Colorado: Camargo, Casaparq, El Rosario II, Las Terrazas del Rosario, Quinta El Sol, Virgen del Rosario I.","Mantenimiento de redes en media tensión (cambio de crucetas, otros trabajos de mantenimiento).",Circuito : Alto Cayma desde BC - 070110.,MANTENIMIENTO DE REDES.,"10132, 3471, 3961, 4458, 3576, 1844, 2424, 3472, 5417, 3793, 3792, 4365, 4582, 5024, 5016, 4913, 5621.","MANTENIMIENTO DE REDES.
+MIÉRCOLES, 26 DE AGOSTO DE 2026:
+Circuito : Alto Cayma desde BC - 070110.
+Hora : 07:30 a 13:30 Hrs.
+Motivo : Mantenimiento de redes en media tensión (cambio de crucetas, otros trabajos de mantenimiento).
+Zonas afectadas: Urbanizaciones del distrito de Cayma: Jorge Basadre, Mirasol de Cayma, Quinta Samay, Santa Elisa. Urbanizaciones del distrito de Cerro Colorado: Camargo, Casaparq, El Rosario II, Las Terrazas del Rosario, Quinta El Sol, Virgen del Rosario I.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 10132, 3471, 3961, 4458, 3576, 1844, 2424, 3472, 5417, 3793, 3792, 4365, 4582, 5024, 5016, 4913, 5621.",,,,,Evento,el 24/08/2026 8:00 por Cuenta del sistema,24/08/2026 8:00,Cuenta del sistema,Cuenta del sistema,26/08/2026 7:30,26/08/2026 13:30,2026-08-26T07:30:00,2026-08-26T13:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5986&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,59588707a3f3aeab599ecb8d26eed47e91fd680a91e437f634f23edb5ed2781c
+5981,26/08/2026,08:00,12:30,"Cerro Colorado, de Cerro Colorado",Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).,Cambio de transformador.,Circuito : SED 1838.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
+MIÉRCOLES, 26 DE AGOSTO DE 2026.
+Circuito : SED 1838.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Cambio de transformador.
+Zonas afectadas: Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).",,,,,Evento,el 24/08/2026 7:55 por Cuenta del sistema,24/08/2026 7:55,Cuenta del sistema,Cuenta del sistema,26/08/2026 8:00,26/08/2026 12:30,2026-08-26T08:00:00,2026-08-26T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5981&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,029dd91a28e1581742d74a7b61601ca24abfac61a379ad4da149b74c9bc0e748
+5982,26/08/2026,08:00,12:30,"Cerro Colorado, de Cerro Colorado",Mz. D-E de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).,Mantenimiento y limpieza de la subestación.,Circuito : SED 1829.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
+MIÉRCOLES, 26 DE AGOSTO DE 2026.
+Circuito : SED 1829.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de la subestación.
+Zonas afectadas: Mz. D-E de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).",,,,,Evento,el 24/08/2026 7:56 por Cuenta del sistema,24/08/2026 7:56,Cuenta del sistema,Cuenta del sistema,26/08/2026 8:00,26/08/2026 12:30,2026-08-26T08:00:00,2026-08-26T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5982&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,84d34f78db310a1b25837890292fedcbe049515b2e253cb367e35bad7a20c49d
+5989,27/08/2026,07:00,15:00,"Aplao, de Aplao","Urbanizaciones del distrito de Aplao: Anexo Central Zonas 1 y 2, La Central, Andamayo 1-2, Buenos Aires, Canal Luchea, Huatipilla Baja, La Nueva Central, Luchea 1-2, Ongoro, Ongoro Bajo, San Jose de Huatiapilla Alta.","Mantenimiento de redes de media tensión (inserción de seccionador, cambio de crucetas, podado de árboles).",Circuito : Corire desde REC - 200280.,MANTENIMIENTO DE REDES.,"7001, 7004, 7014, 8855, 7003, 7002, 7481, 7482, 7483, 7005, 7008, 7007, 7013, 7144, 7157, 7012, 7011, 7193, 7010, 7009, 7497, 7492, 7491, 7490, 10256, 7489, 7488, 7487, 7493, 7498.","MANTENIMIENTO DE REDES.
+JUEVES, 27 DE AGOSTO DE 2026:
+Circuito : Corire desde REC - 200280.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión (inserción de seccionador, cambio de crucetas, podado de árboles).
+Zonas afectadas: Urbanizaciones del distrito de Aplao: Anexo Central Zonas 1 y 2, La Central, Andamayo 1-2, Buenos Aires, Canal Luchea, Huatipilla Baja, La Nueva Central, Luchea 1-2, Ongoro, Ongoro Bajo, San Jose de Huatiapilla Alta.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7001, 7004, 7014, 8855, 7003, 7002, 7481, 7482, 7483, 7005, 7008, 7007, 7013, 7144, 7157, 7012, 7011, 7193, 7010, 7009, 7497, 7492, 7491, 7490, 10256, 7489, 7488, 7487, 7493, 7498.",,,,,Evento,el 24/08/2026 8:05 por Cuenta del sistema,24/08/2026 8:05,Cuenta del sistema,Cuenta del sistema,27/08/2026 7:00,27/08/2026 15:00,2026-08-27T07:00:00,2026-08-27T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5989&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,444059b630e5ba6099a5ea7e1076636112c82af7e00335d1b325317e98068b1a
+5988,27/08/2026,07:30,15:00,"Yanahuara, de Yanahuara","Urbanizaciones del distrito de Yanahuara: Urb. Ibarguen, Yanahuara.",Mantenimiento de redes de media tensión (Subsanación de deficiencias).,Circuito : Saga desde EMT - 19939,MANTENIMIENTO DE REDES. SUSPENDIDO,"3271, 1217.","MANTENIMIENTO DE REDES.
+JUEVES, 27 DE AGOSTO DE 2026:
+Circuito : Saga desde EMT - 19939
+Hora : 07:30 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión (Subsanación de deficiencias).
+Zonas afectadas: Urbanizaciones del distrito de Yanahuara: Urb. Ibarguen, Yanahuara.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3271, 1217.",,,,,Evento,el 24/08/2026 8:04 por Cuenta del sistema,26/08/2026 8:03,Cuenta del sistema,Cuenta del sistema,27/08/2026 7:30,27/08/2026 15:00,2026-08-27T07:30:00,2026-08-27T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5988&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,f1596169cee2d65c4e656c981468240a56f972429fe433a8a371548e21040d81
+5990,28/08/2026,07:30,16:30,"Mollendo, de Mollendo",Urbanizaciones del distrito de Mollendo: Costa Palmeras.,"Mantenimiento de redes en media tensión (cambio de postes, cambio de crucetas y otras actividades de mantenimiento).",Circuito : Mejia desde BC - 360119.,MANTENIMIENTO DE REDES.,"8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102.","MANTENIMIENTO DE REDES.
+VIERNES, 28 DE AGOSTO DE 2026:
+Circuito : Mejia desde BC - 360119.
+Hora : 07:30 a 16:30 Hrs.
+Motivo : Mantenimiento de redes en media tensión (cambio de postes, cambio de crucetas y otras actividades de mantenimiento).
+Zonas afectadas: Urbanizaciones del distrito de Mollendo: Costa Palmeras.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102.",,,,,Evento,el 26/08/2026 8:06 por Cuenta del sistema,26/08/2026 8:06,Cuenta del sistema,Cuenta del sistema,28/08/2026 7:30,28/08/2026 16:30,2026-08-28T07:30:00,2026-08-28T16:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5990&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,4862a0c5f803c3f5ec1e65e2d9b773bb474a0c51e5cb323aab622ea1feb930a9
+5991,28/08/2026,08:00,12:30,"Cerro Colorado, de Cerro Colorado",Mz. B de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).,Mantenimiento y limpieza de subestación.,Circuito : SED 1839.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
+VIERNES, 28 DE AGOSTO DE 2026.
+Circuito : SED 1839.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de subestación.
+Zonas afectadas: Mz. B de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).",,,,,Evento,el 26/08/2026 8:08 por Cuenta del sistema,26/08/2026 8:08,Cuenta del sistema,Cuenta del sistema,28/08/2026 8:00,28/08/2026 12:30,2026-08-28T08:00:00,2026-08-28T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5991&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,ce92b856854feb8ebe671a992c698734370882c11aaf5bfdd277dd673a70761b
+5992,28/08/2026,08:00,12:30,"Cerro Colorado, de Cerro Colorado",Mz. B-G de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).,Mantenimiento y limpieza de subestación.,Circuito : SED 1836,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
+VIERNES, 28 DE AGOSTO DE 2026.
+Circuito : SED 1836.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento y limpieza de subestación.
+Zonas afectadas: Mz. B-G de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).",,,,,Evento,el 26/08/2026 8:09 por Cuenta del sistema,26/08/2026 8:09,Cuenta del sistema,Cuenta del sistema,28/08/2026 8:00,28/08/2026 12:30,2026-08-28T08:00:00,2026-08-28T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5992&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,089d8f5fdac3010c6660713b332d6c8c95ebd758813ac503ec6674d58f77cb1f
