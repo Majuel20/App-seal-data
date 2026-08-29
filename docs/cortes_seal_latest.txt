@@ -1,64 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-28 21:11:30
+fecha_ejecucion: 2026-08-29 15:06:17
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-28
-fecha_inicio: 2026-08-27
-fecha_fin: 2026-09-27
+fecha_base: 2026-08-29
+fecha_inicio: 2026-08-28
+fecha_fin: 2026-09-28
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 43
 eventos_totales_extraidos: 43
-eventos_guardados_en_rango: 5
+eventos_guardados_en_rango: 3
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5989
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5989&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 27/08/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Aplao, de Aplao
-Zona afectada: Urbanizaciones del distrito de Aplao: Anexo Central Zonas 1 y 2, La Central, Andamayo 1-2, Buenos Aires, Canal Luchea, Huatipilla Baja, La Nueva Central, Luchea 1-2, Ongoro, Ongoro Bajo, San Jose de Huatiapilla Alta.
-Motivo: Mantenimiento de redes de media tensión (inserción de seccionador, cambio de crucetas, podado de árboles).
-Ubicación: Circuito : Corire desde REC - 200280.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 7001, 7004, 7014, 8855, 7003, 7002, 7481, 7482, 7483, 7005, 7008, 7007, 7013, 7144, 7157, 7012, 7011, 7193, 7010, 7009, 7497, 7492, 7491, 7490, 10256, 7489, 7488, 7487, 7493, 7498.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 27 DE AGOSTO DE 2026:
-Circuito : Corire desde REC - 200280.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (inserción de seccionador, cambio de crucetas, podado de árboles).
-Zonas afectadas: Urbanizaciones del distrito de Aplao: Anexo Central Zonas 1 y 2, La Central, Andamayo 1-2, Buenos Aires, Canal Luchea, Huatipilla Baja, La Nueva Central, Luchea 1-2, Ongoro, Ongoro Bajo, San Jose de Huatiapilla Alta.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7001, 7004, 7014, 8855, 7003, 7002, 7481, 7482, 7483, 7005, 7008, 7007, 7013, 7144, 7157, 7012, 7011, 7193, 7010, 7009, 7497, 7492, 7491, 7490, 10256, 7489, 7488, 7487, 7493, 7498.
-
-====================================================================================================
-ID: 5988
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5988&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 27/08/2026
-Hora inicio: 07:30
-Hora fin: 15:00
-Distrito: Yanahuara, de Yanahuara
-Zona afectada: Urbanizaciones del distrito de Yanahuara: Urb. Ibarguen, Yanahuara.
-Motivo: Mantenimiento de redes de media tensión (Subsanación de deficiencias).
-Ubicación: Circuito : Saga desde EMT - 19939
-Título: MANTENIMIENTO DE REDES. SUSPENDIDO
-Subestaciones: 3271, 1217.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 27 DE AGOSTO DE 2026:
-Circuito : Saga desde EMT - 19939
-Hora : 07:30 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (Subsanación de deficiencias).
-Zonas afectadas: Urbanizaciones del distrito de Yanahuara: Urb. Ibarguen, Yanahuara.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3271, 1217.
 
 ====================================================================================================
 ID: 5990
