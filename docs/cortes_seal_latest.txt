@@ -1,82 +1,15 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-08-29 15:06:17
+fecha_ejecucion: 2026-08-30 14:53:26
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-08-29
-fecha_inicio: 2026-08-28
-fecha_fin: 2026-09-28
+fecha_base: 2026-08-30
+fecha_inicio: 2026-08-29
+fecha_fin: 2026-09-29
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 43
 eventos_totales_extraidos: 43
-eventos_guardados_en_rango: 3
+eventos_guardados_en_rango: 0
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5990
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5990&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 28/08/2026
-Hora inicio: 07:30
-Hora fin: 16:30
-Distrito: Mollendo, de Mollendo
-Zona afectada: Urbanizaciones del distrito de Mollendo: Costa Palmeras.
-Motivo: Mantenimiento de redes en media tensión (cambio de postes, cambio de crucetas y otras actividades de mantenimiento).
-Ubicación: Circuito : Mejia desde BC - 360119.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 28 DE AGOSTO DE 2026:
-Circuito : Mejia desde BC - 360119.
-Hora : 07:30 a 16:30 Hrs.
-Motivo : Mantenimiento de redes en media tensión (cambio de postes, cambio de crucetas y otras actividades de mantenimiento).
-Zonas afectadas: Urbanizaciones del distrito de Mollendo: Costa Palmeras.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8103, 8100, 8637, 8106, 8105, 8429, 8098, 8491, 8654, 8474, 8099, 8101, 8293, 8108, 8302, 8497, 8466, 8467, 8104, 8102.
-
-====================================================================================================
-ID: 5991
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5991&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 28/08/2026
-Hora inicio: 08:00
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Mz. B de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).
-Motivo: Mantenimiento y limpieza de subestación.
-Ubicación: Circuito : SED 1839.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 28 DE AGOSTO DE 2026.
-Circuito : SED 1839.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento y limpieza de subestación.
-Zonas afectadas: Mz. B de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 5992
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5992&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 28/08/2026
-Hora inicio: 08:00
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Mz. B-G de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).
-Motivo: Mantenimiento y limpieza de subestación.
-Ubicación: Circuito : SED 1836
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 28 DE AGOSTO DE 2026.
-Circuito : SED 1836.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento y limpieza de subestación.
-Zonas afectadas: Mz. B-G de Urb. Parque Industrial Rio Seco (Distrito de Cerro Colorado).
