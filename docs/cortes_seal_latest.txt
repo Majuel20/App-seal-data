@@ -1,173 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-01 14:56:44
+fecha_ejecucion: 2026-09-02 14:32:09
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-01
-fecha_inicio: 2026-08-31
-fecha_fin: 2026-10-01
+fecha_base: 2026-09-02
+fecha_inicio: 2026-09-01
+fecha_fin: 2026-10-02
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 63
-eventos_totales_extraidos: 63
-eventos_guardados_en_rango: 20
+ids_detectados: 20
+eventos_totales_extraidos: 20
+eventos_guardados_en_rango: 13
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6006
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6006&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 31/08/2026
-Hora inicio: 05:30
-Hora fin: 06:00
-Distrito: Miraflores, de Miraflores
-Zona afectada: Cuadra N° 3 de Calle Elías Aguirre (Distrito de Miraflores).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 10169.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 31 DE AGOSTO DE 2026.
-Circuito : SED 10169.
-Hora : 05:30 a 06:00 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Cuadra N° 3 de Calle Elías Aguirre (Distrito de Miraflores).
-
-====================================================================================================
-ID: 6007
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6007&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 31/08/2026
-Hora inicio: 06:20
-Hora fin: 06:50
-Distrito: Mariano Melgar, de Mariano Melgar
-Zona afectada: Cuadra 10-12 de Av. Lima, cuadra 12-13-14-15 de Av. Simón Bolívar, cuadra 5 de Calle Ameria, cuadra 3 Calle Amazonas, cuadra 5 de Calle Arias (Distrito de Mariano Melgar).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 1942.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 31 DE AGOSTO DE 2026.
-Circuito : SED 1942.
-Hora : 06:20 a 06:50 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Cuadra 10-12 de Av. Lima, cuadra 12-13-14-15 de Av. Simón Bolívar, cuadra 5 de Calle Ameria, cuadra 3 Calle Amazonas, cuadra 5 de Calle Arias (Distrito de Mariano Melgar).
-
-====================================================================================================
-ID: 6011
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6011&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 31/08/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Cayma, de Cayma
-Zona afectada: Cuadra 7-8-9 de Av. Arequipa, cuadra 8-9-10 de Av. Ramon Castilla (Distrito de Cayma).
-Motivo: Cambio de conductor y cambio de EBT.
-Ubicación: Circuito : SED 5620
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 31 DE AGOSTO DE 2026.
-Circuito : SED 5620.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Cambio de conductor y cambio de EBT.
-Zonas afectadas: Cuadra 7-8-9 de Av. Arequipa, cuadra 8-9-10 de Av. Ramon Castilla (Distrito de Cayma).
-
-====================================================================================================
-ID: 6008
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6008&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 31/08/2026
-Hora inicio: 08:00
-Hora fin: 08:30
-Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
-Zona afectada: Mz. T-U -V de Urb. Quinta Tristán (Distrito de Jose Luis Bustamante y Rivero).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 1438.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 31 DE AGOSTO DE 2026.
-Circuito : SED 1438.
-Hora : 08:00 a 08:30 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. T-U -V de Urb. Quinta Tristán (Distrito de Jose Luis Bustamante y Rivero).
-
-====================================================================================================
-ID: 6012
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6012&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 31/08/2026
-Hora inicio: 08:00
-Hora fin: 16:00
-Distrito: Dean Valdivia, de Dean Valdivia
-Zona afectada: Urbanizaciones del distrito de Dean Valdivia: Irrigación Iberia.
-Motivo: Mantenimiento de redes en media tensión (cambio de conductor, limpieza de aisladores, mantenimiento de subestación).
-Ubicación: Circuito : Ensenada desde CC - 370226.
-Título: MANTENIMIENTO DE REDES
-Subestaciones: 8358, 8359, 8361, 8360.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 31 DE AGOSTO DE 2026:
-Circuito : Ensenada desde CC - 370226.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (cambio de conductor, limpieza de aisladores, mantenimiento de subestación).
-Zonas afectadas: Urbanizaciones del distrito de Dean Valdivia: Irrigación Iberia.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8358, 8359, 8361, 8360.
-
-====================================================================================================
-ID: 6009
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6009&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 31/08/2026
-Hora inicio: 08:30
-Hora fin: 09:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Residencial VIVE (Distrito de Cerro Colorado).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 5622
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 31 DE AGOSTO DE 2026.
-Circuito : SED 5622.
-Hora : 08:30 a 09:00 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Residencial VIVE (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 6010
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6010&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 31/08/2026
-Hora inicio: 09:30
-Hora fin: 10:00
-Distrito: Characato, de Characato
-Zona afectada: Mz. 2-3-4 Sector E de AA.HH. Horacio Zeballos Gamez (Distrito de Characato).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 3681.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 31 DE AGOSTO DE 2026.
-Circuito : SED 3681.
-Hora : 09:30 a 10:00 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. 2-3-4 Sector E de AA.HH. Horacio Zeballos Gamez (Distrito de Characato).
 
 ====================================================================================================
 ID: 5993
