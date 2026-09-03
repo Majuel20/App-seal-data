@@ -1,41 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-02 14:32:09
+fecha_ejecucion: 2026-09-03 14:36:51
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-02
-fecha_inicio: 2026-09-01
-fecha_fin: 2026-10-02
+fecha_base: 2026-09-03
+fecha_inicio: 2026-09-02
+fecha_fin: 2026-10-03
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 20
-eventos_totales_extraidos: 20
-eventos_guardados_en_rango: 13
+ids_detectados: 37
+eventos_totales_extraidos: 37
+eventos_guardados_en_rango: 29
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 5993
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=5993&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 01/09/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Aplao, de Aplao
-Zona afectada: Urbanizaciones del distrito de Aplao: Los Puros.
-Motivo: Mantenimiento de redes en media tensión (Podado de árboles, cambio de postes, cambio de crucetas).
-Ubicación: Circuito : Corire desde CC - 810129.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 7066.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 01 DE SETIEMBRE DE 2026:
-Circuito : Corire desde CC - 810129.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (Podado de árboles, cambio de postes, cambio de crucetas).
-Zonas afectadas: Urbanizaciones del distrito de Aplao: Los Puros.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7066.
 
 ====================================================================================================
 ID: 5994
@@ -302,3 +279,382 @@ Hora : 07:00 a 15:00 Hrs.
 Motivo : Cambio de transformador, cambio de crucetas, aisladores y podado)
 Zonas afectadas: Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8611, 7153, 7154, 7155.
+
+====================================================================================================
+ID: 6014
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6014&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Uraca, de Uraca
+Zona afectada: Urbanizaciones del distrito de Uraca: Bellavista, La Candelaria, Toro Grande.
+Motivo: Mantenimiento de redes en media tensión (cambio de postes, podad de árboles, cambio de crucetas).
+Ubicación: Circuito : Corire desde CC - 810131.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7484, 7104, 7148, 7103, 7102, 7105, 7174.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026:
+Circuito : Corire desde CC - 810131.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión (cambio de postes, podad de árboles, cambio de crucetas).
+Zonas afectadas: Urbanizaciones del distrito de Uraca: Bellavista, La Candelaria, Toro Grande.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7484, 7104, 7148, 7103, 7102, 7105, 7174.
+
+====================================================================================================
+ID: 6016
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6016&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Mollendo, de Mollendo
+Zona afectada: Urbanizaciones del distrito de Mollendo: El Mirador Al Pacifico, La Victoria, Villa Lourdes 1-2 Etapa.
+Motivo: Mantenimiento de redes en media tensión (cambio de postes, cambio de transformador, otros mantenimientos).
+Ubicación: Circuito : La Florida desde BC - 200566.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8256, 8072, 8069, 8071, 8579, 8073.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026:
+Circuito : La Florida desde BC - 200566.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Mantenimiento de redes en media tensión (cambio de postes, cambio de transformador, otros mantenimientos).
+Zonas afectadas: Urbanizaciones del distrito de Mollendo: El Mirador Al Pacifico, La Victoria, Villa Lourdes 1-2 Etapa.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8256, 8072, 8069, 8071, 8579, 8073.
+
+====================================================================================================
+ID: 6015
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6015&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 08:00
+Hora fin: 14:00
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Urbanizaciones de distrito de Cerro Colorado: Apipa Sector IX-X-VIII-XII, Jose Luis Bustamante y Rivero
+Motivo: Mantenimiento de redes de media tensión.
+Ubicación: Circuito : P. Yura desde BC - 080313.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 5136, 5138, 5137, 5440, 5441, 5442, 5443, 5444, 5445, 5852.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026:
+Circuito : P. Yura desde BC - 080313.
+Hora : 08:00 a 14:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión.
+Zonas afectadas: Urbanizaciones de distrito de Cerro Colorado: Apipa Sector IX-X-VIII-XII, Jose Luis Bustamante y Rivero
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5136, 5138, 5137, 5440, 5441, 5442, 5443, 5444, 5445, 5852.
+
+====================================================================================================
+ID: 6017
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6017&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 08:00
+Hora fin: 08:25
+Distrito: Arequipa, de Arequipa
+Zona afectada: Urb. San Jeronimo, Mz.B de Urb. Los Pilcos (Distrito de Arequipa).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 1283.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 1283.
+Hora : 08:00 a 08:25 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Urb. San Jeronimo, Mz.B de Urb. Los Pilcos (Distrito de Arequipa).
+
+====================================================================================================
+ID: 6018
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6018&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 08:45
+Hora fin: 09:10
+Distrito: Arequipa, de Arequipa
+Zona afectada: Urb. Cooperativa Ferroviaria (Distrito de Arequipa).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 1282.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 1282.
+Hora : 08:45 a 09:10 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Urb. Cooperativa Ferroviaria (Distrito de Arequipa).
+
+====================================================================================================
+ID: 6019
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6019&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 09:30
+Hora fin: 09:55
+Distrito: Arequipa, de Arequipa
+Zona afectada: Cuadra 1 de Calle Prolongación Vitor Lira (Distrito de Arequipa).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 3898.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 3898.
+Hora : 09:30 a 09:55 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Cuadra 1 de Calle Prolongación Vitor Lira (Distrito de Arequipa).
+
+====================================================================================================
+ID: 6020
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6020&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 10:10
+Hora fin: 10:35
+Distrito: Arequipa, de Arequipa
+Zona afectada: Urb. Francisco Mostajo (Distrito de Arequipa).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 1747.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 1747.
+Hora : 10:10 a 10:35 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Urb. Francisco Mostajo (Distrito de Arequipa).
+
+====================================================================================================
+ID: 6022
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6022&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 10:30
+Hora fin: 11:55
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Cuadra 1 de Av. Dolores (Distrito de Jose Luis Bustamante y Rivero).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 3417.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 3417.
+Hora : 10:30 a 11:55 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Cuadra 1 de Av. Dolores (Distrito de Jose Luis Bustamante y Rivero).
+
+====================================================================================================
+ID: 6021
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6021&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 10:50
+Hora fin: 11:15
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Mz. B-C-D de Urb. Los Rosales (Distrito de Jose Luis Bustamante y Rivero).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 3859.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 3859.
+Hora : 10:50 a 11:15 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. B-C-D de Urb. Los Rosales (Distrito de Jose Luis Bustamante y Rivero).
+
+====================================================================================================
+ID: 6023
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6023&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 12:10
+Hora fin: 12:35
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Mz. G de Urb. Cooperativa Daniel Alcides Carrión (Distrito de Jose Luis Bustamante y Rivero).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 3855.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 3855.
+Hora : 12:10 a 12:35 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. G de Urb. Cooperativa Daniel Alcides Carrión (Distrito de Jose Luis Bustamante y Rivero).
+
+====================================================================================================
+ID: 6024
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6024&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 14:00
+Hora fin: 14:25
+Distrito: Paucarpata, de Paucarpata
+Zona afectada: II Etapa de Urb. Guardia Civil (Distrito de Paucarpata).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 1299.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 1299.
+Hora : 14:00 a 14:25 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: II Etapa de Urb. Guardia Civil (Distrito de Paucarpata).
+
+====================================================================================================
+ID: 6025
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6025&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 14:40
+Hora fin: 15:05
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Urb. La Encalada (Distrito de Jose Luis Bustamante y Rivero).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 1738
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 1738.
+Hora : 14:40 a 15:05 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Urb. La Encalada (Distrito de Jose Luis Bustamante y Rivero).
+
+====================================================================================================
+ID: 6026
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6026&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 15:15
+Hora fin: 15:40
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Mz. C-D-E-L de Urb. Casabella (Distrito de Jose Luis Bustamante y Rivero).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 3612.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 3612.
+Hora : 15:15 a 15:40 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. C-D-E-L de Urb. Casabella (Distrito de Jose Luis Bustamante y Rivero).
+
+====================================================================================================
+ID: 6027
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6027&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 15:50
+Hora fin: 16:15
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Mz. F-G-H-I-J de Urb. Casabella (Distrito de Jose Luis Bustamante y Rivero).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 3613.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 3613.
+Hora : 15:50 a 16:15 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. F-G-H-I-J de Urb. Casabella (Distrito de Jose Luis Bustamante y Rivero).
+
+====================================================================================================
+ID: 6028
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6028&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 04/09/2026
+Hora inicio: 16:25
+Hora fin: 16:50
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Mz. A-B-D-E-J de Urb. Alameda del Sol, MZ. A-B-D-E-F de Urb. Santa Úrsula (Distrito de Jose Luis Bustamante y Rivero).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 4404.
+Título: MANTENIMIENTO DE REDES
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 04 DE SETIEMBRE DE 2026.
+Circuito : SED 4404.
+Hora : 16:25 a 16:50 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. A-B-D-E-J de Urb. Alameda del Sol, MZ. A-B-D-E-F de Urb. Santa Úrsula (Distrito de Jose Luis Bustamante y Rivero).
+
+====================================================================================================
+ID: 6013
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6013&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 05/09/2026
+Hora inicio: 06:00
+Hora fin: 18:00
+Distrito: Caylloma, Sibayo, Tisco, de Caylloma, de Sibayo, de Tisco
+Zona afectada: Urbanizaciones del distrito de Caylloma: Coraza, Cuchocapilla, Jachaña, Pusa Pusa, Santa Rosa, Sotocaya. Urbanizaciones del distrito de Sibayo: Condorcuyo. Urbanizaciones del distrito de Tisco: Ccascas, Tarucamarca.
+Motivo: Mantenimiento del transformador de la subestación de Caylloma.
+Ubicación: Circuito : [9301] SAN ANTONIO.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7603, 7611, 7608, 7609, 7604, 7610, 7607, 7606, 7605, 7602.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+SÁBADO, 05 DE SETIEMBRE DE 2026:
+Circuito : [9301] SAN ANTONIO.
+Hora : 06:00 a 18:00 Hrs.
+Motivo : Mantenimiento del transformador de la subestación de Caylloma.
+Zonas afectadas: Urbanizaciones del distrito de Caylloma: Coraza, Cuchocapilla, Jachaña, Pusa Pusa, Santa Rosa, Sotocaya. Urbanizaciones del distrito de Sibayo: Condorcuyo. Urbanizaciones del distrito de Tisco: Ccascas, Tarucamarca.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7603, 7611, 7608, 7609, 7604, 7610, 7607, 7606, 7605, 7602.
+
+====================================================================================================
+ID: 6029
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6029&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 06/09/2026
+Hora inicio: 08:00
+Hora fin: 16:00
+Distrito: Cayma, Cerro Colorado, Yanahuara, de Cayma, de Cerro Colorado, de Yanahuara
+Zona afectada: Urbanizaciones del distrito de Cayma: Andres Avelino Caceres, Buenos Aires de Cayma Zona 1-2, Casimiro Cuadros, Casimiro Cuadros I Alto Cayma, Dean Valdivia, Dean Valdivia Sector 2, Jose Abelardo Quiñones, Jose Carlos Mariategui, Jose Olaya, Las Malvinas, Villa Continental, Villa Continental Zona 1-2-4, Virgen de La Candelaria. Urbanizaciones del distrito de Cerro Colorado: Alto Libertad, Arqueta, Asociacion Policial Campo Verde, Buenos Aires de Cayma Zona 2, Cerro Colorado (Pueblo Viejo), Challapampa, Colegio de Ingenieros, Docentes de La Catolica, El Azufral, El Solar de Challapampa, Fundo Challapampa, Habilitacion Urbana La Alqueria, Ibarcena, Juan Manuel Guillen, La Castellana, La Hacienda, La Libertad, La Merced, La Merced II, La Molina, La Planicie de Challapampa, La Tejada, Las Flores, Los Alamos, Los Sauces, Micaela Bastidas, Quinta Azores, Residencial Casabella, Residencial Monte Bello, Rio Seco, San Pedro, Semi-Rural Pachacutec Grupo 14-15-16-19-23-24-25, Semi-Rural Pachacutec Grupo 6, Teresa de Jesus, Tupac Amaru Zona B, Urbanizacion La Pradera, Urbanizacion Quinta Luisa, Veracruz, Via Evitamiento, Victor Andres Belaunde, Villa Arequipa, Villa Florida, Zamacola. Urbanizaciones del distrito de Yanahuara: San Pedro.
+Motivo: Mantenimiento de transformador de potencia.
+Ubicación: SET : [7] CHALLAPAMPA.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 1799, 2106, 2957, 1985, 1903, 1672, 3109, 2956, 3368, 3743, 3742, 1256, 2908, 1239, 3741, 3776, 3753, 3938, 2169, 1661, 3971, 3956, 3939, 3965, 3964, 3966, 3972, 1496, 3924, 3967, 3927, 4012, 2789, 2048, 1516, 3135, 3132, 3119, 3127, 3126, 1467, 1251, 3710, 2155, 3323, 4008, 1623, 2806, 3430, 1671, 1773, 2893, 2972, 3610, 3631, 1259, 3121, 3909, 3908, 2690, 3912, 1560, 1700, 3393, 3398, 2294, 1662, 1713, 1831, 1537, 1772, 1250, 1664, 3380, 3510, 1972, 3801, 3822, 1624, 1248, 1531, 1734, 3600, 3093, 1258, 2317, 2984, 1973, 2085, 1041, 1764, 1070, 1051, 1902, 1054, 2653, 1693, 2221, 1792, 2845, 1722, 1733, 1736, 1904, 1988, 1735, 2692, 1241, 3343, 1247, 3287, 3718, 2107, 3645, 1240, 3553, 3226, 2812, 2655, 3099, 2486, 3207, 3400, 1459, 2246, 3528, 1493, 2689, 2691, 3326, 2635, 1464, 3217, 2422, 3868, 3726, 1522, 3381, 4017, 3201, 4009, 3747, 1665, 1588, 4149, 4152, 4171, 4198, 4204, 4232, 4293, 4298, 3957, 4305, 4317, 4326, 4337, 4344, 4394, 4395, 4545, 4511, 4546, 4568, 4569, 4578, 4592, 4577, 4597, 4624, 4663, 4673, 4674, 4807, 4825, 4868, 4897, 4898, 4889, 4694, 4799, 4953, 4945, 4993, 4995, 5034, 5066, 5083, 5084, 5058, 5029, 5194, 5264, 5161, 5184, 5125, 5289, 5296, 5291, 5316, 5318, 5074, 5004, 5045, 5009, 5010, 4723, 5333, 4951, 5117, 5320, 4915, 5390, 5505, 5504, 5425, 5511, 5510, 5576, 5588, 5565, 5196, 5631, 5049, 5633, 5416, 3120, 5640, 5655, 5694, 5695, 5622, 5675, 5727, 5713, 5512, 5794, 5795, 5808, 5851, 5858, 5883, 5884, 5891, 5949, 5956, 3873, 5966, 10037, 10036, 10050, 10151, 5962, 10191, 5974, 10271, 10194, 1120, 10262, 2978, 3611, 3202, 3200, 5928, 1929, 1515, 10223, 2330, 2846, 2842, 1765, 1875, 2713, 4412, 10264, 4056, 4035.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 06 DE SETIEMBRE DE 2026:
+SET : [7] CHALLAPAMPA.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento de transformador de potencia.
+Zonas afectadas: Urbanizaciones del distrito de Cayma: Andres Avelino Caceres, Buenos Aires de Cayma Zona 1-2, Casimiro Cuadros, Casimiro Cuadros I Alto Cayma, Dean Valdivia, Dean Valdivia Sector 2, Jose Abelardo Quiñones, Jose Carlos Mariategui, Jose Olaya, Las Malvinas, Villa Continental, Villa Continental Zona 1-2-4, Virgen de La Candelaria. Urbanizaciones del distrito de Cerro Colorado: Alto Libertad, Arqueta, Asociacion Policial Campo Verde, Buenos Aires de Cayma Zona 2, Cerro Colorado (Pueblo Viejo), Challapampa, Colegio de Ingenieros, Docentes de La Catolica, El Azufral, El Solar de Challapampa, Fundo Challapampa, Habilitacion Urbana La Alqueria, Ibarcena, Juan Manuel Guillen, La Castellana, La Hacienda, La Libertad, La Merced, La Merced II, La Molina, La Planicie de Challapampa, La Tejada, Las Flores, Los Alamos, Los Sauces, Micaela Bastidas, Quinta Azores, Residencial Casabella, Residencial Monte Bello, Rio Seco, San Pedro, Semi-Rural Pachacutec Grupo 14-15-16-19-23-24-25, Semi-Rural Pachacutec Grupo 6, Teresa de Jesus, Tupac Amaru Zona B, Urbanizacion La Pradera, Urbanizacion Quinta Luisa, Veracruz, Via Evitamiento, Victor Andres Belaunde, Villa Arequipa, Villa Florida, Zamacola. Urbanizaciones del distrito de Yanahuara: San Pedro.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1799, 2106, 2957, 1985, 1903, 1672, 3109, 2956, 3368, 3743, 3742, 1256, 2908, 1239, 3741, 3776, 3753, 3938, 2169, 1661, 3971, 3956, 3939, 3965, 3964, 3966, 3972, 1496, 3924, 3967, 3927, 4012, 2789, 2048, 1516, 3135, 3132, 3119, 3127, 3126, 1467, 1251, 3710, 2155, 3323, 4008, 1623, 2806, 3430, 1671, 1773, 2893, 2972, 3610, 3631, 1259, 3121, 3909, 3908, 2690, 3912, 1560, 1700, 3393, 3398, 2294, 1662, 1713, 1831, 1537, 1772, 1250, 1664, 3380, 3510, 1972, 3801, 3822, 1624, 1248, 1531, 1734, 3600, 3093, 1258, 2317, 2984, 1973, 2085, 1041, 1764, 1070, 1051, 1902, 1054, 2653, 1693, 2221, 1792, 2845, 1722, 1733, 1736, 1904, 1988, 1735, 2692, 1241, 3343, 1247, 3287, 3718, 2107, 3645, 1240, 3553, 3226, 2812, 2655, 3099, 2486, 3207, 3400, 1459, 2246, 3528, 1493, 2689, 2691, 3326, 2635, 1464, 3217, 2422, 3868, 3726, 1522, 3381, 4017, 3201, 4009, 3747, 1665, 1588, 4149, 4152, 4171, 4198, 4204, 4232, 4293, 4298, 3957, 4305, 4317, 4326, 4337, 4344, 4394, 4395, 4545, 4511, 4546, 4568, 4569, 4578, 4592, 4577, 4597, 4624, 4663, 4673, 4674, 4807, 4825, 4868, 4897, 4898, 4889, 4694, 4799, 4953, 4945, 4993, 4995, 5034, 5066, 5083, 5084, 5058, 5029, 5194, 5264, 5161, 5184, 5125, 5289, 5296, 5291, 5316, 5318, 5074, 5004, 5045, 5009, 5010, 4723, 5333, 4951, 5117, 5320, 4915, 5390, 5505, 5504, 5425, 5511, 5510, 5576, 5588, 5565, 5196, 5631, 5049, 5633, 5416, 3120, 5640, 5655, 5694, 5695, 5622, 5675, 5727, 5713, 5512, 5794, 5795, 5808, 5851, 5858, 5883, 5884, 5891, 5949, 5956, 3873, 5966, 10037, 10036, 10050, 10151, 5962, 10191, 5974, 10271, 10194, 1120, 10262, 2978, 3611, 3202, 3200, 5928, 1929, 1515, 10223, 2330, 2846, 2842, 1765, 1875, 2713, 4412, 10264, 4056, 4035.
