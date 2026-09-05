@@ -1,11 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6005,03/09/2026,07:00,15:00,"Nicolas de Pierola, de Nicolas de Pierola","Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.","Cambio de transformador, cambio de crucetas, aisladores y podado)",Circuito : Toran desde CC - 810132.,MANTENIMIENTO DE REDES.,"8611, 7153, 7154, 7155.","MANTENIMIENTO DE REDES.
-JUEVES, 03 DE SETIEMBRE DE 2026:
-Circuito : Toran desde CC - 810132.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Cambio de transformador, cambio de crucetas, aisladores y podado)
-Zonas afectadas: Urbanizaciones del distrito de Nicolas de Pierola: Charahuayo, Sahuani, San Martin.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8611, 7153, 7154, 7155.",,,,,Evento,el 31/08/2026 8:33 por Cuenta del sistema,31/08/2026 8:33,Cuenta del sistema,Cuenta del sistema,03/09/2026 7:00,03/09/2026 15:00,2026-09-03T07:00:00,2026-09-03T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6005&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,899326f4376898673d82bd0aef6af9f54f80ef232fa975b6a83272ec55fe727e
 6014,04/09/2026,07:00,15:00,"Uraca, de Uraca","Urbanizaciones del distrito de Uraca: Bellavista, La Candelaria, Toro Grande.","Mantenimiento de redes en media tensión (cambio de postes, podad de árboles, cambio de crucetas).",Circuito : Corire desde CC - 810131.,MANTENIMIENTO DE REDES.,"7484, 7104, 7148, 7103, 7102, 7105, 7174.","MANTENIMIENTO DE REDES.
 VIERNES, 04 DE SETIEMBRE DE 2026:
 Circuito : Corire desde CC - 810131.
