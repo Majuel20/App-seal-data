@@ -1,16 +1,16 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-08 14:36:01
+fecha_ejecucion: 2026-09-09 14:38:56
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-08
-fecha_inicio: 2026-09-07
-fecha_fin: 2026-10-08
+fecha_base: 2026-09-09
+fecha_inicio: 2026-09-08
+fecha_fin: 2026-10-09
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 48
-eventos_totales_extraidos: 48
-eventos_guardados_en_rango: 11
+ids_detectados: 52
+eventos_totales_extraidos: 52
+eventos_guardados_en_rango: 15
 output_dir: docs
 ====================================================================================================
 
@@ -259,3 +259,96 @@ Circuito : SED 6902.
 Hora : 14:00 a 17:00 Hrs.
 Motivo : Cambio de transformador de la SED.
 Zonas afectadas: Irrigación San camilo Zona A (Distrito de La Joya).
+
+====================================================================================================
+ID: 6042
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6042&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 11/09/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Majes, de Majes
+Zona afectada: Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo G Sector 1.
+Motivo: Mantenimiento de redes en media tensión (limpieza de aisladores, mantenimiento de
+Ubicación: Circuito : Pionero II desde CC - 200194.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8810, 8811, 7997, 8519, 8520, 8521, 8775, 8773, 8774, 8772, 8771.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 11 DE SETIEMBRE DE 2026:
+Circuito : Pionero II desde CC - 200194.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión (limpieza de aisladores, mantenimiento de subestaciones de distribución).
+Zonas afectadas: Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo G Sector 1.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8810, 8811, 7997, 8519, 8520, 8521, 8775, 8773, 8774, 8772, 8771.
+
+====================================================================================================
+ID: 6043
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6043&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 11/09/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Aplao, de Aplao
+Zona afectada: Urbanizaciones del distrito de Aplao: Ampliación El Castillo I Etapa, El Castillo, El Colorado.
+Motivo: Mantenimiento de redes de media tensión (Cambio de transformador, cambio de crucetas, cambio de EMT, podado de árboles).
+Ubicación: Circuito : Corire desde CC - 810103.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7022, 7026, 7355, 7025, 7196, 7024, 7023, 7027, 7192, 7485, 7028, 7944, 8947, 8564, 8563.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 11 DE SETIEMBRE DE 2026:
+Circuito : Corire desde CC - 810103.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión (Cambio de transformador, cambio de crucetas, cambio de EMT, podado de árboles).
+Zonas afectadas: Urbanizaciones del distrito de Aplao: Ampliación El Castillo I Etapa, El Castillo, El Colorado.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7022, 7026, 7355, 7025, 7196, 7024, 7023, 7027, 7192, 7485, 7028, 7944, 8947, 8564, 8563.
+
+====================================================================================================
+ID: 6044
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6044&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 11/09/2026
+Hora inicio: 08:00
+Hora fin: 16:00
+Distrito: Callalli, San Antonio de Chuca, Yanque, de Callalli, de San Antonio de Chuca, de Yanque
+Zona afectada: Urbanizaciones del distrito de Callalli: Pulpera. Urbanizaciones del distrito de San Antonio de Chuca: Colca, Estacion Pillones, Imata. Urbanizaciones del distrito de Yanque: Chalhuanca.
+Motivo: Mantenimiento de las redes de media tensión (Cambio de pararrayos, instalación de recloser).
+Ubicación: Circuito : [9103] IMATA.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7551, 7552, 7553, 7558, 7550, 7557, 7555, 7556, 7587, 7591, 7600, 7711, 7828, 7834, 9374, 9376, 9396, 7554, 7589.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 11 DE SETIEMBRE DE 2026:
+Circuito : [9103] IMATA.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento de las redes de media tensión (Cambio de pararrayos, instalación de recloser).
+Zonas afectadas: Urbanizaciones del distrito de Callalli: Pulpera. Urbanizaciones del distrito de San Antonio de Chuca: Colca, Estacion Pillones, Imata. Urbanizaciones del distrito de Yanque: Chalhuanca.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7551, 7552, 7553, 7558, 7550, 7557, 7555, 7556, 7587, 7591, 7600, 7711, 7828, 7834, 9374, 9376, 9396, 7554, 7589.
+
+====================================================================================================
+ID: 6041
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6041&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 13/09/2026
+Hora inicio: 08:00
+Hora fin: 16:00
+Distrito: Cocachacra, de Cocachacra
+Zona afectada: Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Chucarapi, Desamparados, El Fiscal, El Toro, La Pascana, Pampa Blanca, Portal del Valle, Alamos del Valle, Asentamiento Humano "Nuevo San Isidro", Avis Alto Veracruz, Cocachacra, El Canto, Grupo Camposur S.A.C, Los Rosales, Tupac Amaru, Veracruz Grande, Villa del Valle, Villa Ramon Castilla.
+Motivo: Mantenimiento de la Línea de Transmisión y el transformador.
+Ubicación: LÍNEAS : [L-3038B] La Curva – Cocachacra y [L-3038C] Cocachacra - Chucarapi. SET : [38] CHUCARAPI Y [39] COCACHACRA.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8215, 8658, 8657, 8217, 8223, 8221, 8218, 8219, 8258, 8264, 8283, 8276, 8222, 8246, 8216, 8277, 8263, 8303, 8304, 8305, 8318, 8319, 8320, 8312, 8313, 8314, 8315, 8316, 8317, 8324, 8339, 8340, 8306, 8370, 8372, 8378, 8389, 8436, 8508, 8542, 8598, 8618, 8512, 8737, 8224, 8513, 8371, 8208, 8212, 8207, 8236, 8213, 8214, 8209, 8210, 8211, 8237, 8252, 8295, 8352, 8379, 8380, 8393, 8395, 8469, 8498, 8511, 8481, 8581, 8507, 8648, 8665, 8669, 8692, 8695.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 13 DE SETIEMBRE DE 2026:
+LÍNEAS : [L-3038B] La Curva – Cocachacra y [L-3038C] Cocachacra - Chucarapi.
+SET : [38] CHUCARAPI Y [39] COCACHACRA.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento de la Línea de Transmisión y el transformador.
+Zonas : Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Chucarapi, Desamparados, El Fiscal, El Toro, La Pascana, Pampa Blanca, Portal del Valle, Alamos del Valle, Asentamiento Humano "Nuevo San Isidro", Avis Alto Veracruz, Cocachacra, El Canto, Grupo Camposur S.A.C, Los Rosales, Tupac Amaru, Veracruz Grande, Villa del Valle, Villa Ramon Castilla.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8215, 8658, 8657, 8217, 8223, 8221, 8218, 8219, 8258, 8264, 8283, 8276, 8222, 8246, 8216, 8277, 8263, 8303, 8304, 8305, 8318, 8319, 8320, 8312, 8313, 8314, 8315, 8316, 8317, 8324, 8339, 8340, 8306, 8370, 8372, 8378, 8389, 8436, 8508, 8542, 8598, 8618, 8512, 8737, 8224, 8513, 8371, 8208, 8212, 8207, 8236, 8213, 8214, 8209, 8210, 8211, 8237, 8252, 8295, 8352, 8379, 8380, 8393, 8395, 8469, 8498, 8511, 8481, 8581, 8507, 8648, 8665, 8669, 8692, 8695.
