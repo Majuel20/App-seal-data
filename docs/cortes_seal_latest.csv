@@ -1,29 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6030,08/09/2026,07:00,10:00,"Majes, de Majes",Asentamiento E5 parcela 54 (Distrito de Majes).,Cambio de transformador de la,Circuito : SED 6388.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MARTES, 08 DE SETIEMBRE DE 2026.
-Circuito : SED 6388.
-Hora : 07:00 a 10:00 Hrs.
-Motivo : Cambio de transformador de la SED.
-Zonas afectadas: Asentamiento E5 parcela 54 (Distrito de Majes).",,,,,Evento,el 07/09/2026 9:13 por Cuenta del sistema,07/09/2026 9:13,Cuenta del sistema,Cuenta del sistema,08/09/2026 7:00,08/09/2026 10:00,2026-09-08T07:00:00,2026-09-08T10:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6030&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,1d71bceff04af6c8fc99cfd29e208c83b00ab4b0d48c89ddfa64b38c2b79b710
-6040,08/09/2026,08:00,14:00,"Cerro Colorado, de Cerro Colorado",Urbanizaciones de distrito de Cerro Colorado: Jose Luis Bustamante y Rivero Sector V.,Mantenimiento de las redes de media tensión.,Circuito : P. Yura desde CC - 080311.,MANTENIMIENTO DE REDES.,"4422, 4421, 4432, 4420, 4829, 4433.","MANTENIMIENTO DE REDES.
-MARTES, 08 DE SETIEMBRE DE 2026:
-Circuito : P. Yura desde CC - 080311.
-Hora : 08:00 a 14:00 Hrs.
-Motivo : Mantenimiento de las redes de media tensión.
-Zonas afectadas: Urbanizaciones de distrito de Cerro Colorado: Jose Luis Bustamante y Rivero Sector V.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4422, 4421, 4432, 4420, 4829, 4433.",,,,,Evento,el 07/09/2026 9:19 por Cuenta del sistema,07/09/2026 9:19,Cuenta del sistema,Cuenta del sistema,08/09/2026 8:00,08/09/2026 14:00,2026-09-08T08:00:00,2026-09-08T14:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6040&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,3bf6d23ecf5beea54ea04560e40f396f783c653feb053241fbb451ba61a5465b
-6031,08/09/2026,10:00,13:00,"Majes, de Majes",Asentamiento E5 parcela 80 (Distrito de Majes).,Cambio de transformador de la,Circuito : SED 6384.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MARTES, 08 DE SETIEMBRE DE 2026.
-Circuito : SED 6384.
-Hora : 10:00 a 13:00 Hrs.
-Motivo : Cambio de transformador de la SED.
-Zonas afectadas: Asentamiento E5 parcela 80 (Distrito de Majes).",,,,,Evento,el 07/09/2026 9:13 por Cuenta del sistema,07/09/2026 9:13,Cuenta del sistema,Cuenta del sistema,08/09/2026 10:00,08/09/2026 13:00,2026-09-08T10:00:00,2026-09-08T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6031&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,9ee0b7f206ed2b45cc36be0673846dc1c838b50969096890a4e36a66eaaf4703
-6032,08/09/2026,13:00,16:00,"Majes, de Majes",Asentamiento E5 parcela 70 (Distrito de Majes).,Cambio de transformador de la,Circuito : SED 6386.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MARTES, 08 DE SETIEMBRE DE 2026.
-Circuito : SED 6386.
-Hora : 13:00 a 16:00 Hrs.
-Motivo : Cambio de transformador de la SED.
-Zonas afectadas: Asentamiento E5 parcela 70 (Distrito de Majes).",,,,,Evento,el 07/09/2026 9:13 por Cuenta del sistema,07/09/2026 9:13,Cuenta del sistema,Cuenta del sistema,08/09/2026 13:00,08/09/2026 16:00,2026-09-08T13:00:00,2026-09-08T16:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6032&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,02a059a8945c9fb117d3c14dedb1e879f0f912529b54d006490c24d220acbdd8
 6036,09/09/2026,07:00,15:00,"Majes, de Majes",Urbanizaciones del distrito de Majes: Ciudad de Majes Sector C-2.,"Mantenimiento de redes en media tensión (limpieza de aisladores, otros mantenimientos).",Circuito : Pionero II desde CC - 200103.,MANTENIMIENTO DE REDES.,"7906, 7907, 7908, 7909, 7910, 8964.","MANTENIMIENTO DE REDES.
 MIÉRCOLES, 09 DE SETIEMBRE DE 2026:
 Circuito : Pionero II desde CC - 200103.
