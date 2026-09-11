@@ -1,108 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-10 14:29:19
+fecha_ejecucion: 2026-09-11 14:28:42
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-10
-fecha_inicio: 2026-09-09
-fecha_fin: 2026-10-10
+fecha_base: 2026-09-11
+fecha_inicio: 2026-09-10
+fecha_fin: 2026-10-11
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 52
-eventos_totales_extraidos: 52
-eventos_guardados_en_rango: 11
+ids_detectados: 53
+eventos_totales_extraidos: 53
+eventos_guardados_en_rango: 8
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6036
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6036&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 09/09/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Majes, de Majes
-Zona afectada: Urbanizaciones del distrito de Majes: Ciudad de Majes Sector C-2.
-Motivo: Mantenimiento de redes en media tensión (limpieza de aisladores, otros mantenimientos).
-Ubicación: Circuito : Pionero II desde CC - 200103.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 7906, 7907, 7908, 7909, 7910, 8964.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 09 DE SETIEMBRE DE 2026:
-Circuito : Pionero II desde CC - 200103.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (limpieza de aisladores, otros mantenimientos).
-Zonas afectadas: Urbanizaciones del distrito de Majes: Ciudad de Majes Sector C-2.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7906, 7907, 7908, 7909, 7910, 8964.
-
-====================================================================================================
-ID: 6035
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6035&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 09/09/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Mollendo, de Mollendo
-Zona afectada: Urbanizaciones del distrito de Mollendo: Miramar.
-Motivo: Mantenimiento de
-Ubicación: Circuito : Inclan desde SF6-3 - 200144.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 8038, 8037, 8382, 8036, 8470, 8039.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 09 DE SETIEMBRE DE 2026:
-Circuito : Inclan desde SF6-3 - 200144.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Mantenimiento de subestaciones de distribución.
-Zonas afectadas: Urbanizaciones del distrito de Mollendo: Miramar.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8038, 8037, 8382, 8036, 8470, 8039.
-
-====================================================================================================
-ID: 6037
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6037&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 09/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Mz. F-G-N-M zona 1 de Urb. Francisco Garcia Calderon (Distrito de Cerro Colorado).
-Motivo: Cambio de transformador a 50 KVA.
-Ubicación: Circuito : SED 2932.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 09 DE SETIEMBRE DE 2026.
-Circuito : SED 2932.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador a 50 KVA.
-Zonas afectadas: Mz. F-G-N-M zona 1 de Urb. Francisco Garcia Calderon (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 6038
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6038&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 09/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Zona 4 de Urb. Asociación Las Flores (Distrito de Cerro Colorado).
-Motivo: Cambio de transformador a 100 KVA.
-Ubicación: Circuito : SED 3995.
-Título: MANTENIMIENTO DE REDES
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 09 DE SETIEMBRE DE 2026.
-Circuito : SED 3995.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador a 100 KVA.
-Zonas afectadas: Zona 4 de Urb. Asociación Las Flores (Distrito de Cerro Colorado).
 
 ====================================================================================================
 ID: 6039
@@ -239,6 +149,29 @@ Hora : 08:00 a 16:00 Hrs.
 Motivo : Mantenimiento de las redes de media tensión (Cambio de pararrayos, instalación de recloser).
 Zonas afectadas: Urbanizaciones del distrito de Callalli: Pulpera. Urbanizaciones del distrito de San Antonio de Chuca: Colca, Estacion Pillones, Imata. Urbanizaciones del distrito de Yanque: Chalhuanca.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7551, 7552, 7553, 7558, 7550, 7557, 7555, 7556, 7587, 7591, 7600, 7711, 7828, 7834, 9374, 9376, 9396, 7554, 7589.
+
+====================================================================================================
+ID: 6045
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6045&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 13/09/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Maca, de Maca
+Zona afectada: Urbanizaciones del distrito de Maca: Maca.
+Motivo: Cambio de estructuras de media tensión.
+Ubicación: Circuito : Callalli 22.9 desde CC - 910131.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7526, 7543, 7527.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 13 DE SETIEMBRE DE 2026:
+Circuito : Callalli 22.9 desde CC - 910131.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Cambio de estructuras de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Maca: Maca.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7526, 7543, 7527.
 
 ====================================================================================================
 ID: 6041

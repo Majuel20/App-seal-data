@@ -1,30 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6036,09/09/2026,07:00,15:00,"Majes, de Majes",Urbanizaciones del distrito de Majes: Ciudad de Majes Sector C-2.,"Mantenimiento de redes en media tensión (limpieza de aisladores, otros mantenimientos).",Circuito : Pionero II desde CC - 200103.,MANTENIMIENTO DE REDES.,"7906, 7907, 7908, 7909, 7910, 8964.","MANTENIMIENTO DE REDES.
-MIÉRCOLES, 09 DE SETIEMBRE DE 2026:
-Circuito : Pionero II desde CC - 200103.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (limpieza de aisladores, otros mantenimientos).
-Zonas afectadas: Urbanizaciones del distrito de Majes: Ciudad de Majes Sector C-2.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7906, 7907, 7908, 7909, 7910, 8964.",,,,,Evento,el 07/09/2026 9:16 por Cuenta del sistema,07/09/2026 9:16,Cuenta del sistema,Cuenta del sistema,09/09/2026 7:00,09/09/2026 15:00,2026-09-09T07:00:00,2026-09-09T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6036&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,8ad500afec351b1d964efb4c7492a8cb6b855378f9b1c402c81a23d955489fd2
-6035,09/09/2026,07:30,15:30,"Mollendo, de Mollendo",Urbanizaciones del distrito de Mollendo: Miramar.,Mantenimiento de,Circuito : Inclan desde SF6-3 - 200144.,MANTENIMIENTO DE REDES.,"8038, 8037, 8382, 8036, 8470, 8039.","MANTENIMIENTO DE REDES.
-MIÉRCOLES, 09 DE SETIEMBRE DE 2026:
-Circuito : Inclan desde SF6-3 - 200144.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Mantenimiento de subestaciones de distribución.
-Zonas afectadas: Urbanizaciones del distrito de Mollendo: Miramar.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8038, 8037, 8382, 8036, 8470, 8039.",,,,,Evento,el 07/09/2026 9:16 por Cuenta del sistema,07/09/2026 9:16,Cuenta del sistema,Cuenta del sistema,09/09/2026 7:30,09/09/2026 15:30,2026-09-09T07:30:00,2026-09-09T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6035&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,6ae85a95ef67f87f41c9342eb0e90c52f6a3c0daa3307d1fc5bf929a220618e6
-6037,09/09/2026,08:00,13:00,"Cerro Colorado, de Cerro Colorado",Mz. F-G-N-M zona 1 de Urb. Francisco Garcia Calderon (Distrito de Cerro Colorado).,Cambio de transformador a 50 KVA.,Circuito : SED 2932.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MIÉRCOLES, 09 DE SETIEMBRE DE 2026.
-Circuito : SED 2932.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador a 50 KVA.
-Zonas afectadas: Mz. F-G-N-M zona 1 de Urb. Francisco Garcia Calderon (Distrito de Cerro Colorado).",,,,,Evento,el 07/09/2026 9:17 por Cuenta del sistema,07/09/2026 9:17,Cuenta del sistema,Cuenta del sistema,09/09/2026 8:00,09/09/2026 13:00,2026-09-09T08:00:00,2026-09-09T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6037&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,ca582210034eee497612762935a77a5f86682851ebb78a9f5c208d26adfda11e
-6038,09/09/2026,08:00,13:00,"Cerro Colorado, de Cerro Colorado",Zona 4 de Urb. Asociación Las Flores (Distrito de Cerro Colorado).,Cambio de transformador a 100 KVA.,Circuito : SED 3995.,MANTENIMIENTO DE REDES,,"MANTENIMIENTO DE REDES.
-MIÉRCOLES, 09 DE SETIEMBRE DE 2026.
-Circuito : SED 3995.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador a 100 KVA.
-Zonas afectadas: Zona 4 de Urb. Asociación Las Flores (Distrito de Cerro Colorado).",,,,,Evento,el 07/09/2026 9:17 por Cuenta del sistema,07/09/2026 9:17,Cuenta del sistema,Cuenta del sistema,09/09/2026 8:00,09/09/2026 13:00,2026-09-09T08:00:00,2026-09-09T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6038&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,8dab1a4ebef2c2c14bbb52adf8341645b707401bb3aac092e959afa5104906ba
 6039,10/09/2026,08:00,13:00,"Cerro Colorado, de Cerro Colorado","Urbanizaciones del distrito de Cerro Colorado: Bio Huerto Virgen de Copacabana, La Cabaña.",Mantenimiento de las redes de media tensión.,Circuito : P. Yura desde SF6 - 200190.,MANTENIMIENTO DE REDES.,"4705, 4704, 4706, 4707, 4708, 5357, 5358, 5359, 5538, 5539, 10170, 5866, 5653, 5965, 5867, 5868, 5654, 5983, 5986, 5987, 5984, 5985.","MANTENIMIENTO DE REDES.
 JUEVES, 10 DE SETIEMBRE DE 2026:
 Circuito : P. Yura desde SF6 - 200190.
@@ -65,6 +39,13 @@ Hora : 08:00 a 16:00 Hrs.
 Motivo : Mantenimiento de las redes de media tensión (Cambio de pararrayos, instalación de recloser).
 Zonas afectadas: Urbanizaciones del distrito de Callalli: Pulpera. Urbanizaciones del distrito de San Antonio de Chuca: Colca, Estacion Pillones, Imata. Urbanizaciones del distrito de Yanque: Chalhuanca.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7551, 7552, 7553, 7558, 7550, 7557, 7555, 7556, 7587, 7591, 7600, 7711, 7828, 7834, 9374, 9376, 9396, 7554, 7589.",,,,,Evento,el 08/09/2026 17:08 por Cuenta del sistema,08/09/2026 17:08,Cuenta del sistema,Cuenta del sistema,11/09/2026 8:00,11/09/2026 16:00,2026-09-11T08:00:00,2026-09-11T16:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6044&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,a55476c7beee0678c20231f54b156b56e105abd07e79d8633f14ccd6c39c75cd
+6045,13/09/2026,07:00,15:00,"Maca, de Maca",Urbanizaciones del distrito de Maca: Maca.,Cambio de estructuras de media tensión.,Circuito : Callalli 22.9 desde CC - 910131.,MANTENIMIENTO DE REDES.,"7526, 7543, 7527.","MANTENIMIENTO DE REDES.
+DOMINGO, 13 DE SETIEMBRE DE 2026:
+Circuito : Callalli 22.9 desde CC - 910131.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Cambio de estructuras de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Maca: Maca.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7526, 7543, 7527.",,,,,Evento,el 10/09/2026 15:00 por Cuenta del sistema,10/09/2026 15:00,Cuenta del sistema,Cuenta del sistema,13/09/2026 7:00,13/09/2026 15:00,2026-09-13T07:00:00,2026-09-13T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6045&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,14d454a780bb8f5a7932546cbe280cd936bdcfb735648235bdc4ca79b20e0121
 6041,13/09/2026,08:00,16:00,"Cocachacra, de Cocachacra","Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Chucarapi, Desamparados, El Fiscal, El Toro, La Pascana, Pampa Blanca, Portal del Valle, Alamos del Valle, Asentamiento Humano ""Nuevo San Isidro"", Avis Alto Veracruz, Cocachacra, El Canto, Grupo Camposur S.A.C, Los Rosales, Tupac Amaru, Veracruz Grande, Villa del Valle, Villa Ramon Castilla.",Mantenimiento de la Línea de Transmisión y el transformador.,LÍNEAS : [L-3038B] La Curva – Cocachacra y [L-3038C] Cocachacra - Chucarapi. SET : [38] CHUCARAPI Y [39] COCACHACRA.,MANTENIMIENTO DE REDES.,"8215, 8658, 8657, 8217, 8223, 8221, 8218, 8219, 8258, 8264, 8283, 8276, 8222, 8246, 8216, 8277, 8263, 8303, 8304, 8305, 8318, 8319, 8320, 8312, 8313, 8314, 8315, 8316, 8317, 8324, 8339, 8340, 8306, 8370, 8372, 8378, 8389, 8436, 8508, 8542, 8598, 8618, 8512, 8737, 8224, 8513, 8371, 8208, 8212, 8207, 8236, 8213, 8214, 8209, 8210, 8211, 8237, 8252, 8295, 8352, 8379, 8380, 8393, 8395, 8469, 8498, 8511, 8481, 8581, 8507, 8648, 8665, 8669, 8692, 8695.","MANTENIMIENTO DE REDES.
 DOMINGO, 13 DE SETIEMBRE DE 2026:
 LÍNEAS : [L-3038B] La Curva – Cocachacra y [L-3038C] Cocachacra - Chucarapi.
