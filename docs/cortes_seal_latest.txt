@@ -1,85 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-11 14:28:42
+fecha_ejecucion: 2026-09-12 13:37:50
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-11
-fecha_inicio: 2026-09-10
-fecha_fin: 2026-10-11
+fecha_base: 2026-09-12
+fecha_inicio: 2026-09-11
+fecha_fin: 2026-10-12
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 53
 eventos_totales_extraidos: 53
-eventos_guardados_en_rango: 8
+eventos_guardados_en_rango: 5
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6039
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6039&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 10/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Bio Huerto Virgen de Copacabana, La Cabaña.
-Motivo: Mantenimiento de las redes de media tensión.
-Ubicación: Circuito : P. Yura desde SF6 - 200190.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 4705, 4704, 4706, 4707, 4708, 5357, 5358, 5359, 5538, 5539, 10170, 5866, 5653, 5965, 5867, 5868, 5654, 5983, 5986, 5987, 5984, 5985.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 10 DE SETIEMBRE DE 2026:
-Circuito : P. Yura desde SF6 - 200190.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Mantenimiento de las redes de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Bio Huerto Virgen de Copacabana, La Cabaña.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 4705, 4704, 4706, 4707, 4708, 5357, 5358, 5359, 5538, 5539, 10170, 5866, 5653, 5965, 5867, 5868, 5654, 5983, 5986, 5987, 5984, 5985.
-
-====================================================================================================
-ID: 6033
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6033&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 10/09/2026
-Hora inicio: 09:00
-Hora fin: 12:00
-Distrito: La Joya, de La Joya
-Zona afectada: Cruce la Joya lateral 1 (Distrito de La Joya).
-Motivo: Cambio de transformador de la
-Ubicación: Circuito : SED 6802.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 10 DE SETIEMBRE DE 2026.
-Circuito : SED 6802.
-Hora : 09:00 a 12:00 Hrs.
-Motivo : Cambio de transformador de la SED.
-Zonas afectadas: Cruce la Joya lateral 1 (Distrito de La Joya).
-
-====================================================================================================
-ID: 6034
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6034&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 10/09/2026
-Hora inicio: 14:00
-Hora fin: 17:00
-Distrito: La Joya, de La Joya
-Zona afectada: Irrigación San camilo Zona A (Distrito de La Joya).
-Motivo: Cambio de transformador de la
-Ubicación: Circuito : SED 6902.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 10 DE SETIEMBRE DE 2026.
-Circuito : SED 6902.
-Hora : 14:00 a 17:00 Hrs.
-Motivo : Cambio de transformador de la SED.
-Zonas afectadas: Irrigación San camilo Zona A (Distrito de La Joya).
 
 ====================================================================================================
 ID: 6042
