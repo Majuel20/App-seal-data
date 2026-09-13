@@ -1,25 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6042,11/09/2026,07:00,15:00,"Majes, de Majes",Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo G Sector 1.,"Mantenimiento de redes en media tensión (limpieza de aisladores, mantenimiento de",Circuito : Pionero II desde CC - 200194.,MANTENIMIENTO DE REDES.,"8810, 8811, 7997, 8519, 8520, 8521, 8775, 8773, 8774, 8772, 8771.","MANTENIMIENTO DE REDES.
-VIERNES, 11 DE SETIEMBRE DE 2026:
-Circuito : Pionero II desde CC - 200194.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (limpieza de aisladores, mantenimiento de subestaciones de distribución).
-Zonas afectadas: Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo G Sector 1.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8810, 8811, 7997, 8519, 8520, 8521, 8775, 8773, 8774, 8772, 8771.",,,,,Evento,el 08/09/2026 17:07 por Cuenta del sistema,08/09/2026 17:07,Cuenta del sistema,Cuenta del sistema,11/09/2026 7:00,11/09/2026 15:00,2026-09-11T07:00:00,2026-09-11T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6042&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,8ef2a9b3c831ad367b75bd5a413da3061ec767bf0221251a968ef977a88b0dd2
-6043,11/09/2026,07:00,15:00,"Aplao, de Aplao","Urbanizaciones del distrito de Aplao: Ampliación El Castillo I Etapa, El Castillo, El Colorado.","Mantenimiento de redes de media tensión (Cambio de transformador, cambio de crucetas, cambio de EMT, podado de árboles).",Circuito : Corire desde CC - 810103.,MANTENIMIENTO DE REDES.,"7022, 7026, 7355, 7025, 7196, 7024, 7023, 7027, 7192, 7485, 7028, 7944, 8947, 8564, 8563.","MANTENIMIENTO DE REDES.
-VIERNES, 11 DE SETIEMBRE DE 2026:
-Circuito : Corire desde CC - 810103.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (Cambio de transformador, cambio de crucetas, cambio de EMT, podado de árboles).
-Zonas afectadas: Urbanizaciones del distrito de Aplao: Ampliación El Castillo I Etapa, El Castillo, El Colorado.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7022, 7026, 7355, 7025, 7196, 7024, 7023, 7027, 7192, 7485, 7028, 7944, 8947, 8564, 8563.",,,,,Evento,el 08/09/2026 17:07 por Cuenta del sistema,08/09/2026 17:07,Cuenta del sistema,Cuenta del sistema,11/09/2026 7:00,11/09/2026 15:00,2026-09-11T07:00:00,2026-09-11T15:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6043&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,7da6e65cf9cffad256f55090ee3ff48c5b5c7b18dd8fce2efb123d6f7fc571ec
-6044,11/09/2026,08:00,16:00,"Callalli, San Antonio de Chuca, Yanque, de Callalli, de San Antonio de Chuca, de Yanque","Urbanizaciones del distrito de Callalli: Pulpera. Urbanizaciones del distrito de San Antonio de Chuca: Colca, Estacion Pillones, Imata. Urbanizaciones del distrito de Yanque: Chalhuanca.","Mantenimiento de las redes de media tensión (Cambio de pararrayos, instalación de recloser).",Circuito : [9103] IMATA.,MANTENIMIENTO DE REDES.,"7551, 7552, 7553, 7558, 7550, 7557, 7555, 7556, 7587, 7591, 7600, 7711, 7828, 7834, 9374, 9376, 9396, 7554, 7589.","MANTENIMIENTO DE REDES.
-VIERNES, 11 DE SETIEMBRE DE 2026:
-Circuito : [9103] IMATA.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Mantenimiento de las redes de media tensión (Cambio de pararrayos, instalación de recloser).
-Zonas afectadas: Urbanizaciones del distrito de Callalli: Pulpera. Urbanizaciones del distrito de San Antonio de Chuca: Colca, Estacion Pillones, Imata. Urbanizaciones del distrito de Yanque: Chalhuanca.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7551, 7552, 7553, 7558, 7550, 7557, 7555, 7556, 7587, 7591, 7600, 7711, 7828, 7834, 9374, 9376, 9396, 7554, 7589.",,,,,Evento,el 08/09/2026 17:08 por Cuenta del sistema,08/09/2026 17:08,Cuenta del sistema,Cuenta del sistema,11/09/2026 8:00,11/09/2026 16:00,2026-09-11T08:00:00,2026-09-11T16:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6044&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,a55476c7beee0678c20231f54b156b56e105abd07e79d8633f14ccd6c39c75cd
 6045,13/09/2026,07:00,15:00,"Maca, de Maca",Urbanizaciones del distrito de Maca: Maca.,Cambio de estructuras de media tensión.,Circuito : Callalli 22.9 desde CC - 910131.,MANTENIMIENTO DE REDES.,"7526, 7543, 7527.","MANTENIMIENTO DE REDES.
 DOMINGO, 13 DE SETIEMBRE DE 2026:
 Circuito : Callalli 22.9 desde CC - 910131.
