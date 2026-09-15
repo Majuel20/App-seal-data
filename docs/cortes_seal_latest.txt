@@ -1,65 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-14 16:24:07
+fecha_ejecucion: 2026-09-15 15:03:24
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-14
-fecha_inicio: 2026-09-13
-fecha_fin: 2026-10-14
+fecha_base: 2026-09-15
+fecha_inicio: 2026-09-14
+fecha_fin: 2026-10-15
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 59
 eventos_totales_extraidos: 59
-eventos_guardados_en_rango: 8
+eventos_guardados_en_rango: 6
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6045
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6045&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 13/09/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Maca, de Maca
-Zona afectada: Urbanizaciones del distrito de Maca: Maca.
-Motivo: Cambio de estructuras de media tensión.
-Ubicación: Circuito : Callalli 22.9 desde CC - 910131.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 7526, 7543, 7527.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-DOMINGO, 13 DE SETIEMBRE DE 2026:
-Circuito : Callalli 22.9 desde CC - 910131.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Cambio de estructuras de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Maca: Maca.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7526, 7543, 7527.
-
-====================================================================================================
-ID: 6041
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6041&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 13/09/2026
-Hora inicio: 08:00
-Hora fin: 16:00
-Distrito: Cocachacra, de Cocachacra
-Zona afectada: Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Chucarapi, Desamparados, El Fiscal, El Toro, La Pascana, Pampa Blanca, Portal del Valle, Alamos del Valle, Asentamiento Humano "Nuevo San Isidro", Avis Alto Veracruz, Cocachacra, El Canto, Grupo Camposur S.A.C, Los Rosales, Tupac Amaru, Veracruz Grande, Villa del Valle, Villa Ramon Castilla.
-Motivo: Mantenimiento de la Línea de Transmisión y el transformador.
-Ubicación: LÍNEAS : [L-3038B] La Curva – Cocachacra y [L-3038C] Cocachacra - Chucarapi. SET : [38] CHUCARAPI Y [39] COCACHACRA.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 8215, 8658, 8657, 8217, 8223, 8221, 8218, 8219, 8258, 8264, 8283, 8276, 8222, 8246, 8216, 8277, 8263, 8303, 8304, 8305, 8318, 8319, 8320, 8312, 8313, 8314, 8315, 8316, 8317, 8324, 8339, 8340, 8306, 8370, 8372, 8378, 8389, 8436, 8508, 8542, 8598, 8618, 8512, 8737, 8224, 8513, 8371, 8208, 8212, 8207, 8236, 8213, 8214, 8209, 8210, 8211, 8237, 8252, 8295, 8352, 8379, 8380, 8393, 8395, 8469, 8498, 8511, 8481, 8581, 8507, 8648, 8665, 8669, 8692, 8695.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-DOMINGO, 13 DE SETIEMBRE DE 2026:
-LÍNEAS : [L-3038B] La Curva – Cocachacra y [L-3038C] Cocachacra - Chucarapi.
-SET : [38] CHUCARAPI Y [39] COCACHACRA.
-Hora : 08:00 a 16:00 Hrs.
-Motivo : Mantenimiento de la Línea de Transmisión y el transformador.
-Zonas : Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Chucarapi, Desamparados, El Fiscal, El Toro, La Pascana, Pampa Blanca, Portal del Valle, Alamos del Valle, Asentamiento Humano "Nuevo San Isidro", Avis Alto Veracruz, Cocachacra, El Canto, Grupo Camposur S.A.C, Los Rosales, Tupac Amaru, Veracruz Grande, Villa del Valle, Villa Ramon Castilla.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8215, 8658, 8657, 8217, 8223, 8221, 8218, 8219, 8258, 8264, 8283, 8276, 8222, 8246, 8216, 8277, 8263, 8303, 8304, 8305, 8318, 8319, 8320, 8312, 8313, 8314, 8315, 8316, 8317, 8324, 8339, 8340, 8306, 8370, 8372, 8378, 8389, 8436, 8508, 8542, 8598, 8618, 8512, 8737, 8224, 8513, 8371, 8208, 8212, 8207, 8236, 8213, 8214, 8209, 8210, 8211, 8237, 8252, 8295, 8352, 8379, 8380, 8393, 8395, 8469, 8498, 8511, 8481, 8581, 8507, 8648, 8665, 8669, 8692, 8695.
 
 ====================================================================================================
 ID: 6047
