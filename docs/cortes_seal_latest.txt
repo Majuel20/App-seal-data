@@ -1,62 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-22 14:58:57
+fecha_ejecucion: 2026-09-23 15:03:56
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-22
-fecha_inicio: 2026-09-21
-fecha_fin: 2026-10-22
+fecha_base: 2026-09-23
+fecha_inicio: 2026-09-22
+fecha_fin: 2026-10-23
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 71
-eventos_totales_extraidos: 71
+ids_detectados: 73
+eventos_totales_extraidos: 73
 eventos_guardados_en_rango: 9
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6056
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6056&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 21/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Cayma, de Cayma
-Zona afectada: Zona A de Urb. Villa Cerrillos (Distrito de Cayma).
-Motivo: Cambio de transformador de distribución.
-Ubicación: Circuito : SED 3783.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 21 DE SETIEMBRE DE 2026.
-Circuito : SED 3783.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador de distribución.
-Zonas afectadas: Zona A de Urb. Villa Cerrillos (Distrito de Cayma).
-
-====================================================================================================
-ID: 6057
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6057&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 21/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Mz. J-K-L de Urb. Asociación Guillermo Mercado (Distrito de Cerro Colorado).
-Motivo: Cambio de transformador de distribución.
-Ubicación: Circuito : SED 2869.
-Título: MANTENIMIENTO DE REDES
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-LUNES, 21 DE SETIEMBRE DE 2026.
-Circuito : SED 2869.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador de distribución.
-Zonas afectadas: Mz. J-K-L de Urb. Asociación Guillermo Mercado (Distrito de Cerro Colorado).
 
 ====================================================================================================
 ID: 6058
@@ -213,3 +169,47 @@ Circuito : SED 1091.
 Hora : 08:00 a 13:00 Hrs.
 Motivo : Cambio de transformador de distribución.
 Zonas afectadas: Lateral 4 el Cural (Distrito de Uchumayo).
+
+====================================================================================================
+ID: 6064
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6064&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/09/2026
+Hora inicio: 08:30
+Hora fin: 08:50
+Distrito: Cayma, de Cayma
+Zona afectada: Mz. A-B de Urb. Emperatriz (Distrito de Cayma).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 5018.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 25 DE SETIEMBRE DE 2026.
+Circuito : SED 5018.
+Hora : 08:30 a 08:50 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. A-B de Urb. Emperatriz (Distrito de Cayma).
+
+====================================================================================================
+ID: 6065
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6065&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/09/2026
+Hora inicio: 09:00
+Hora fin: 09:20
+Distrito: Cayma, de Cayma
+Zona afectada: Mz. A de Urb. La Chacrita, MZ. F-G de Urb. Bella Horizonte, Mz. D de Urb. La Marina (Distrito de Cayma).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 4681.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 25 DE SETIEMBRE DE 2026.
+Circuito : SED 4681.
+Hora : 09:00 a 09:20 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. A de Urb. La Chacrita, MZ. F-G de Urb. Bella Horizonte, Mz. D de Urb. La Marina (Distrito de Cayma).
