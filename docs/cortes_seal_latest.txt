@@ -1,62 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-23 15:03:56
+fecha_ejecucion: 2026-09-24 15:10:46
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-23
-fecha_inicio: 2026-09-22
-fecha_fin: 2026-10-23
+fecha_base: 2026-09-24
+fecha_inicio: 2026-09-23
+fecha_fin: 2026-10-24
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 73
 eventos_totales_extraidos: 73
-eventos_guardados_en_rango: 9
+eventos_guardados_en_rango: 7
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6058
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6058&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 22/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Mz. 3-10 de Zona B de Urb. Semi Rural Pachacutec (Distrito de Cerro Colorado).
-Motivo: Cambio de tablero.
-Ubicación: Circuito : SED 3420.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 22 DE SETIEMBRE DE 2026.
-Circuito : SED 3420.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de tablero.
-Zonas afectadas: Mz. 3-10 de Zona B de Urb. Semi Rural Pachacutec (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 6059
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6059&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 22/09/2026
-Hora inicio: 21:00
-Hora fin: 23:55
-Distrito: Arequipa, de Arequipa
-Zona afectada: Cuadra 4 de Calle Nicolas de Pierola, Cuadra 2 de Calle Alto la Luna (Distrito de Arequipa).
-Motivo: Cambio de tablero.
-Ubicación: Circuito : SED 5873.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 22 DE SETIEMBRE DE 2026.
-Circuito : SED 5873.
-Hora : 21:00 a 23:59 Hrs.
-Motivo : Cambio de tablero.
-Zonas afectadas: Cuadra 4 de Calle Nicolas de Pierola, Cuadra 2 de Calle Alto la Luna (Distrito de Arequipa).
 
 ====================================================================================================
 ID: 6063

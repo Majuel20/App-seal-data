@@ -1,16 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6058,22/09/2026,08:00,13:00,"Cerro Colorado, de Cerro Colorado",Mz. 3-10 de Zona B de Urb. Semi Rural Pachacutec (Distrito de Cerro Colorado).,Cambio de tablero.,Circuito : SED 3420.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MARTES, 22 DE SETIEMBRE DE 2026.
-Circuito : SED 3420.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de tablero.
-Zonas afectadas: Mz. 3-10 de Zona B de Urb. Semi Rural Pachacutec (Distrito de Cerro Colorado).",,,,,Evento,el 18/09/2026 17:40 por Cuenta del sistema,18/09/2026 17:40,Cuenta del sistema,Cuenta del sistema,22/09/2026 8:00,22/09/2026 13:00,2026-09-22T08:00:00,2026-09-22T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6058&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,fdf1d84a4817aee731bd3098f08a23a145c8af3883c2b668faa591dd63c06aec
-6059,22/09/2026,21:00,23:55,"Arequipa, de Arequipa","Cuadra 4 de Calle Nicolas de Pierola, Cuadra 2 de Calle Alto la Luna (Distrito de Arequipa).",Cambio de tablero.,Circuito : SED 5873.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MARTES, 22 DE SETIEMBRE DE 2026.
-Circuito : SED 5873.
-Hora : 21:00 a 23:59 Hrs.
-Motivo : Cambio de tablero.
-Zonas afectadas: Cuadra 4 de Calle Nicolas de Pierola, Cuadra 2 de Calle Alto la Luna (Distrito de Arequipa).",,,,,Evento,el 18/09/2026 17:40 por Cuenta del sistema,18/09/2026 17:40,Cuenta del sistema,Cuenta del sistema,22/09/2026 21:00,22/09/2026 23:55,2026-09-22T21:00:00,2026-09-22T23:55:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6059&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,68c8ecde350807825bbd85afffa9f679c7e6bc0a667344c0657f044290bbb22a
 6063,24/09/2026,07:00,15:00,"Huancarqui, de Huancarqui","Urbanizaciones del distrito de Huancarqui: 23 de junio, Huancarqui, La Laja, Las Islas, Nueva Esperanza, Sector Las Tiendas.","Mantenimiento de las redes de media tensión (cambio de crucetas, limpieza de aisladores, podado de árboles)",Circuito : Corire desde CC - 810130.,MANTENIMIENTO DE REDES.,"7159, 7050, 7049, 7047, 7045, 8541, 7046, 7158, 7048, 7168, 7169, 7959.","MANTENIMIENTO DE REDES.
 JUEVES, 24 DE SETIEMBRE DE 2026:
 Circuito : Corire desde CC - 810130.
