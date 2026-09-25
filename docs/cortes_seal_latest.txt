@@ -1,16 +1,16 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-24 15:10:46
+fecha_ejecucion: 2026-09-25 15:18:40
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-24
-fecha_inicio: 2026-09-23
-fecha_fin: 2026-10-24
+fecha_base: 2026-09-25
+fecha_inicio: 2026-09-24
+fecha_fin: 2026-10-25
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 73
-eventos_totales_extraidos: 73
-eventos_guardados_en_rango: 7
+ids_detectados: 75
+eventos_totales_extraidos: 75
+eventos_guardados_en_rango: 9
 output_dir: docs
 ====================================================================================================
 
@@ -169,3 +169,49 @@ Circuito : SED 4681.
 Hora : 09:00 a 09:20 Hrs.
 Motivo : Cambio de posición del conmutador.
 Zonas afectadas: Mz. A de Urb. La Chacrita, MZ. F-G de Urb. Bella Horizonte, Mz. D de Urb. La Marina (Distrito de Cayma).
+
+====================================================================================================
+ID: 6067
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6067&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 27/09/2026
+Hora inicio: 06:00
+Hora fin: 13:00
+Distrito: Cayma, Yanahuara, de Cayma, de Yanahuara
+Zona afectada: Urbanizaciones del distrito de Cayma: Alto Gloria, El Rosario, Heresi, La Candelaria, La Valencia, Los Sauces, Quinta Gamero, Señorial. Urbanizaciones del distrito de Yanahuara: Buganvilas, El Rosario, Las Retamas, Los Claveles, Tronco de Oro, Yanahuara.
+Motivo: Mantenimiento de redes en media tensión (cambio de poste, reubicación de subestación).
+Ubicación: Circuito : [301] YANAHUARA III.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 1542, 4011, 2104, 3165, 2680, 3634, 2500, 3274, 1784, 1439, 3260, 3261, 3263, 3264, 2550, 3259, 3257, 3258, 1450, 3082, 3081, 3083, 3084, 3267, 3667, 3580, 2757, 1800, 2584, 2360, 1270, 1211, 3167, 2327, 3270, 1811, 3166, 1731, 1233, 3963, 4324, 4361, 4390, 4450, 4664, 4654, 4721, 4732, 4882, 4808, 4818, 5022, 5060, 5179, 5017, 5328, 4970, 5056, 5387, 3164, 1232, 10079, 10260, 10261, 10295, 4916, 3958, 5945.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 27 DE SETIEMBRE DE 2026:
+Circuito : [301] YANAHUARA III.
+Hora : 06:00 a 13:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión (cambio de poste, reubicación de subestación).
+Zonas afectadas: Urbanizaciones del distrito de Cayma: Alto Gloria, El Rosario, Heresi, La Candelaria, La Valencia, Los Sauces, Quinta Gamero, Señorial. Urbanizaciones del distrito de Yanahuara: Buganvilas, El Rosario, Las Retamas, Los Claveles, Tronco de Oro, Yanahuara.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1542, 4011, 2104, 3165, 2680, 3634, 2500, 3274, 1784, 1439, 3260, 3261, 3263, 3264, 2550, 3259, 3257, 3258, 1450, 3082, 3081, 3083, 3084, 3267, 3667, 3580, 2757, 1800, 2584, 2360, 1270, 1211, 3167, 2327, 3270, 1811, 3166, 1731, 1233, 3963, 4324, 4361, 4390, 4450, 4664, 4654, 4721, 4732, 4882, 4808, 4818, 5022, 5060, 5179, 5017, 5328, 4970, 5056, 5387, 3164, 1232, 10079, 10260, 10261, 10295, 4916, 3958, 5945.
+
+====================================================================================================
+ID: 6066
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6066&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 27/09/2026
+Hora inicio: 07:30
+Hora fin: 16:00
+Distrito: Mejía, Mollendo, de Mejía, de Mollendo
+Zona afectada: Urbanizaciones del distrito de Mejía: Almar, Costa Morena, Guilardi, J.C. Mariategui, La Perla de Mejia, Las Casuarinas, Las Casuarinas II, Las Gaviotas, Las Palmeras, Los Lotos Gilardi, San Jose, Santa Elena. Urbanizaciones del distrito de Mollendo: Arizona, Costa Palmeras.
+Motivo: Mantenimiento de redes en media tensión (cambio de postes, cambio de conductor)
+Ubicación: Circuito : [3601] MEJIA.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8227, 8155, 8102, 8636, 8110, 8248, 8098, 8099, 8100, 8101, 8103, 8160, 8159, 8158, 8157, 8131, 8149, 8150, 8151, 8152, 8244, 8147, 8105, 8104, 8106, 8107, 8108, 8261, 8265, 8133, 8270, 8154, 8293, 8230, 8229, 8135, 8245, 8134, 8136, 8140, 8142, 8143, 8153, 8139, 8156, 8302, 8345, 8351, 8366, 8367, 8388, 8392, 8400, 8399, 8401, 8402, 8397, 8398, 8424, 8425, 8426, 8429, 8442, 8456, 8457, 8464, 8474, 8473, 8468, 8491, 8495, 8419, 8497, 8502, 8535, 8467, 8466, 8558, 8574, 8587, 8637, 8109, 8654, 8728, 10059, 8510, 8729, 8350, 8235, 10297, 8146, 8138, 8137, 8132, 8297, 8335, 8679, 10137.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 27 DE SETIEMBRE DE 2026:
+Circuito : [3601] MEJIA.
+Hora : 07:30 a 16:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión (cambio de postes, cambio de conductor)
+Zonas afectadas: Urbanizaciones del distrito de Mejía: Almar, Costa Morena, Guilardi, J.C. Mariategui, La Perla de Mejia, Las Casuarinas, Las Casuarinas II, Las Gaviotas, Las Palmeras, Los Lotos Gilardi, San Jose, Santa Elena. Urbanizaciones del distrito de Mollendo: Arizona, Costa Palmeras.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8227, 8155, 8102, 8636, 8110, 8248, 8098, 8099, 8100, 8101, 8103, 8160, 8159, 8158, 8157, 8131, 8149, 8150, 8151, 8152, 8244, 8147, 8105, 8104, 8106, 8107, 8108, 8261, 8265, 8133, 8270, 8154, 8293, 8230, 8229, 8135, 8245, 8134, 8136, 8140, 8142, 8143, 8153, 8139, 8156, 8302, 8345, 8351, 8366, 8367, 8388, 8392, 8400, 8399, 8401, 8402, 8397, 8398, 8424, 8425, 8426, 8429, 8442, 8456, 8457, 8464, 8474, 8473, 8468, 8491, 8495, 8419, 8497, 8502, 8535, 8467, 8466, 8558, 8574, 8587, 8637, 8109, 8654, 8728, 10059, 8510, 8729, 8350, 8235, 10297, 8146, 8138, 8137, 8132, 8297, 8335, 8679, 10137.
