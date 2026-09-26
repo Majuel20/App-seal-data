@@ -1,85 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-25 15:18:40
+fecha_ejecucion: 2026-09-26 14:32:15
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-25
-fecha_inicio: 2026-09-24
-fecha_fin: 2026-10-25
+fecha_base: 2026-09-26
+fecha_inicio: 2026-09-25
+fecha_fin: 2026-10-26
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 75
-eventos_totales_extraidos: 75
-eventos_guardados_en_rango: 9
+ids_detectados: 81
+eventos_totales_extraidos: 81
+eventos_guardados_en_rango: 12
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6063
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6063&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 24/09/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Huancarqui, de Huancarqui
-Zona afectada: Urbanizaciones del distrito de Huancarqui: 23 de junio, Huancarqui, La Laja, Las Islas, Nueva Esperanza, Sector Las Tiendas.
-Motivo: Mantenimiento de las redes de media tensión (cambio de crucetas, limpieza de aisladores, podado de árboles)
-Ubicación: Circuito : Corire desde CC - 810130.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 7159, 7050, 7049, 7047, 7045, 8541, 7046, 7158, 7048, 7168, 7169, 7959.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 24 DE SETIEMBRE DE 2026:
-Circuito : Corire desde CC - 810130.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de las redes de media tensión (cambio de crucetas, limpieza de aisladores, podado de árboles)
-Zonas afectadas: Urbanizaciones del distrito de Huancarqui: 23 de junio, Huancarqui, La Laja, Las Islas, Nueva Esperanza, Sector Las Tiendas.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7159, 7050, 7049, 7047, 7045, 8541, 7046, 7158, 7048, 7168, 7169, 7959.
-
-====================================================================================================
-ID: 6060
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6060&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 24/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Miraflores, de Miraflores
-Zona afectada: Mz. C-D-E-G de Urb. Alameda Salaverry (Distrito de Miraflores).
-Motivo: Cambio de tablero.
-Ubicación: Circuito : SED 4495.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 24 DE SETIEMBRE DE 2026.
-Circuito : SED 4495.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de tablero.
-Zonas afectadas: Mz. C-D-E-G de Urb. Alameda Salaverry (Distrito de Miraflores).
-
-====================================================================================================
-ID: 6061
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6061&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 24/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Miraflores, de Miraflores
-Zona afectada: Mz. R de Urb. Alameda Salaverry (Distrito de Miraflores).
-Motivo: Mantenimiento de subestación.
-Ubicación: Circuito : SED 4696.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 24 DE SETIEMBRE DE 2026.
-Circuito : SED 4696.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Mantenimiento de subestación.
-Zonas afectadas: Mz. R de Urb. Alameda Salaverry (Distrito de Miraflores).
 
 ====================================================================================================
 ID: 6055
@@ -215,3 +148,137 @@ Hora : 07:30 a 16:00 Hrs.
 Motivo : Mantenimiento de redes en media tensión (cambio de postes, cambio de conductor)
 Zonas afectadas: Urbanizaciones del distrito de Mejía: Almar, Costa Morena, Guilardi, J.C. Mariategui, La Perla de Mejia, Las Casuarinas, Las Casuarinas II, Las Gaviotas, Las Palmeras, Los Lotos Gilardi, San Jose, Santa Elena. Urbanizaciones del distrito de Mollendo: Arizona, Costa Palmeras.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8227, 8155, 8102, 8636, 8110, 8248, 8098, 8099, 8100, 8101, 8103, 8160, 8159, 8158, 8157, 8131, 8149, 8150, 8151, 8152, 8244, 8147, 8105, 8104, 8106, 8107, 8108, 8261, 8265, 8133, 8270, 8154, 8293, 8230, 8229, 8135, 8245, 8134, 8136, 8140, 8142, 8143, 8153, 8139, 8156, 8302, 8345, 8351, 8366, 8367, 8388, 8392, 8400, 8399, 8401, 8402, 8397, 8398, 8424, 8425, 8426, 8429, 8442, 8456, 8457, 8464, 8474, 8473, 8468, 8491, 8495, 8419, 8497, 8502, 8535, 8467, 8466, 8558, 8574, 8587, 8637, 8109, 8654, 8728, 10059, 8510, 8729, 8350, 8235, 10297, 8146, 8138, 8137, 8132, 8297, 8335, 8679, 10137.
+
+====================================================================================================
+ID: 6068
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6068&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 29/09/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Uraca, de Uraca
+Zona afectada: Urbanizaciones del distrito de Uraca: La Barrera, Uraca.
+Motivo: Mantenimiento de redes de media tensión (cambio de postes, cambio de aisladores, podado de árboles).
+Ubicación: Circuito : Corire desde CC - 810114.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7085, 7086, 7495.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 29 DE SETIEMBRE DE 2026:
+Circuito : Corire desde CC - 810114.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión (cambio de postes, cambio de aisladores, podado de árboles).
+Zonas afectadas: Urbanizaciones del distrito de Uraca: La Barrera, Uraca.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7085, 7086, 7495.
+
+====================================================================================================
+ID: 6070
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6070&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 29/09/2026
+Hora inicio: 08:00
+Hora fin: 13:00
+Distrito: Miraflores, de Miraflores
+Zona afectada: Mz. B-C de Urb. Alameda Salaverry (Distrito de Miraflores).
+Motivo: Mantenimiento de subestación.
+Ubicación: Circuito : SED 4377.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 29 DE SETIEMBRE DE 2026.
+Circuito : SED 4377.
+Hora : 08:00 a 13:00 Hrs.
+Motivo : Mantenimiento de subestación.
+Zonas afectadas: Mz. B-C de Urb. Alameda Salaverry (Distrito de Miraflores).
+
+====================================================================================================
+ID: 6071
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6071&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 29/09/2026
+Hora inicio: 08:00
+Hora fin: 13:00
+Distrito: Miraflores, de Miraflores
+Zona afectada: Mz. A de Urb. Alameda Salaverry (Distrito de Miraflores).
+Motivo: Mantenimiento de subestación.
+Ubicación: Circuito : SED 4295.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 29 DE SETIEMBRE DE 2026.
+Circuito : SED 4295.
+Hora : 08:00 a 13:00 Hrs.
+Motivo : Mantenimiento de subestación.
+Zonas afectadas: Mz. A de Urb. Alameda Salaverry (Distrito de Miraflores).
+
+====================================================================================================
+ID: 6072
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6072&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 30/09/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Miraflores, de Miraflores
+Zona afectada: Mz. R4 de Urb. Alameda Salaverry (Distrito de Miraflores).
+Motivo: Cambio de terminaciones de cable subterráneo.
+Ubicación: Circuito : SED 10263.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 30 DE SETIEMBRE DE 2026.
+Circuito : SED 10263.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Cambio de terminaciones de cable subterráneo.
+Zonas afectadas: Mz. R4 de Urb. Alameda Salaverry (Distrito de Miraflores).
+
+====================================================================================================
+ID: 6073
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6073&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 30/09/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Miraflores, de Miraflores
+Zona afectada: Mz. R4 de Urb. Alameda Salaverry (Distrito de Miraflores).
+Motivo: Cambio de terminaciones de cable subterráneo.
+Ubicación: Circuito : SED 5373.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 30 DE SETIEMBRE DE 2026.
+Circuito : SED 5373.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Cambio de terminaciones de cable subterráneo.
+Zonas afectadas: Mz. R4 de Urb. Alameda Salaverry (Distrito de Miraflores).
+
+====================================================================================================
+ID: 6069
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6069&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 30/09/2026
+Hora inicio: 08:30
+Hora fin: 16:30
+Distrito: Cocachacra, de Cocachacra
+Zona afectada: Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Caraquen, El Toro, La Pascana.
+Motivo: Mantenimiento de redes eléctricas de media tensión.
+Ubicación: Circuito : El Fiscal desde REC - 200543.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 30 DE SETIEMBRE DE 2026:
+Circuito : El Fiscal desde REC - 200543.
+Hora : 08:30 a 16:30 Hrs.
+Motivo : Mantenimiento de redes eléctricas de media tensión.
+Zonas : Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Caraquen, El Toro, La Pascana.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339.
