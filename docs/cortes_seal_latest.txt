@@ -1,107 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-26 14:32:15
+fecha_ejecucion: 2026-09-27 15:11:04
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-26
-fecha_inicio: 2026-09-25
-fecha_fin: 2026-10-26
+fecha_base: 2026-09-27
+fecha_inicio: 2026-09-26
+fecha_fin: 2026-10-27
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 81
 eventos_totales_extraidos: 81
-eventos_guardados_en_rango: 12
+eventos_guardados_en_rango: 8
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6055
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6055&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 25/09/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Asoc. Los Montoneros, Asoc. Agroindustrial Fortaleza.
-Motivo: Montaje de nueva subestación de distribución.
-Ubicación: Circuito : Las Flores desde EMT – 20428
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 5618, 4601, 5085.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 25 DE SETIEMBRE DE 2026:
-Circuito : Las Flores desde EMT – 20428
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Montaje de nueva subestación de distribución.
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Asoc. Los Montoneros, Asoc. Agroindustrial Fortaleza.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5618, 4601, 5085.
-
-====================================================================================================
-ID: 6062
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6062&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 25/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Uchumayo, de Uchumayo
-Zona afectada: Lateral 4 el Cural (Distrito de Uchumayo).
-Motivo: Cambio de transformador de distribución.
-Ubicación: Circuito : SED 1091
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 25 DE SETIEMBRE DE 2026.
-Circuito : SED 1091.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador de distribución.
-Zonas afectadas: Lateral 4 el Cural (Distrito de Uchumayo).
-
-====================================================================================================
-ID: 6064
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6064&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 25/09/2026
-Hora inicio: 08:30
-Hora fin: 08:50
-Distrito: Cayma, de Cayma
-Zona afectada: Mz. A-B de Urb. Emperatriz (Distrito de Cayma).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 5018.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 25 DE SETIEMBRE DE 2026.
-Circuito : SED 5018.
-Hora : 08:30 a 08:50 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. A-B de Urb. Emperatriz (Distrito de Cayma).
-
-====================================================================================================
-ID: 6065
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6065&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 25/09/2026
-Hora inicio: 09:00
-Hora fin: 09:20
-Distrito: Cayma, de Cayma
-Zona afectada: Mz. A de Urb. La Chacrita, MZ. F-G de Urb. Bella Horizonte, Mz. D de Urb. La Marina (Distrito de Cayma).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 4681.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-VIERNES, 25 DE SETIEMBRE DE 2026.
-Circuito : SED 4681.
-Hora : 09:00 a 09:20 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. A de Urb. La Chacrita, MZ. F-G de Urb. Bella Horizonte, Mz. D de Urb. La Marina (Distrito de Cayma).
 
 ====================================================================================================
 ID: 6067

@@ -1,29 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6055,25/09/2026,07:30,15:30,"Cerro Colorado, de Cerro Colorado","Urbanizaciones del distrito de Cerro Colorado: Asoc. Los Montoneros, Asoc. Agroindustrial Fortaleza.",Montaje de nueva subestación de distribución.,Circuito : Las Flores desde EMT – 20428,MANTENIMIENTO DE REDES.,"5618, 4601, 5085.","MANTENIMIENTO DE REDES.
-VIERNES, 25 DE SETIEMBRE DE 2026:
-Circuito : Las Flores desde EMT – 20428
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Montaje de nueva subestación de distribución.
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Asoc. Los Montoneros, Asoc. Agroindustrial Fortaleza.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5618, 4601, 5085.",,,,,Evento,el 18/09/2026 17:38 por Cuenta del sistema,18/09/2026 17:38,Cuenta del sistema,Cuenta del sistema,25/09/2026 7:30,25/09/2026 15:30,2026-09-25T07:30:00,2026-09-25T15:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6055&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,5480854177b982081487a68d289035042dceafa9d5a5d23e379295047d2587ac
-6062,25/09/2026,08:00,13:00,"Uchumayo, de Uchumayo",Lateral 4 el Cural (Distrito de Uchumayo).,Cambio de transformador de distribución.,Circuito : SED 1091,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-VIERNES, 25 DE SETIEMBRE DE 2026.
-Circuito : SED 1091.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de transformador de distribución.
-Zonas afectadas: Lateral 4 el Cural (Distrito de Uchumayo).",,,,,Evento,el 18/09/2026 17:42 por Cuenta del sistema,18/09/2026 17:42,Cuenta del sistema,Cuenta del sistema,25/09/2026 8:00,25/09/2026 13:00,2026-09-25T08:00:00,2026-09-25T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6062&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,b62f5976baa44fb371165d776ab880d9ac1617ec26642fdcd10e6e17b8a29f03
-6064,25/09/2026,08:30,08:50,"Cayma, de Cayma",Mz. A-B de Urb. Emperatriz (Distrito de Cayma).,Cambio de posición del conmutador.,Circuito : SED 5018.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-VIERNES, 25 DE SETIEMBRE DE 2026.
-Circuito : SED 5018.
-Hora : 08:30 a 08:50 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. A-B de Urb. Emperatriz (Distrito de Cayma).",,,,,Evento,el 23/09/2026 7:56 por Cuenta del sistema,23/09/2026 7:56,Cuenta del sistema,Cuenta del sistema,25/09/2026 8:30,25/09/2026 8:50,2026-09-25T08:30:00,2026-09-25T08:50:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6064&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,6d2cc873781f168d4bcdcf5ad0642d1192d3d14c6235f1a0d10cc9db4d62f15d
-6065,25/09/2026,09:00,09:20,"Cayma, de Cayma","Mz. A de Urb. La Chacrita, MZ. F-G de Urb. Bella Horizonte, Mz. D de Urb. La Marina (Distrito de Cayma).",Cambio de posición del conmutador.,Circuito : SED 4681.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-VIERNES, 25 DE SETIEMBRE DE 2026.
-Circuito : SED 4681.
-Hora : 09:00 a 09:20 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. A de Urb. La Chacrita, MZ. F-G de Urb. Bella Horizonte, Mz. D de Urb. La Marina (Distrito de Cayma).",,,,,Evento,el 23/09/2026 7:56 por Cuenta del sistema,23/09/2026 7:56,Cuenta del sistema,Cuenta del sistema,25/09/2026 9:00,25/09/2026 9:20,2026-09-25T09:00:00,2026-09-25T09:20:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6065&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,95fe43aa219630c6f1ba3a7766ee0b5d898584ea2cb17a3e520ed1c898e486cc
 6067,27/09/2026,06:00,13:00,"Cayma, Yanahuara, de Cayma, de Yanahuara","Urbanizaciones del distrito de Cayma: Alto Gloria, El Rosario, Heresi, La Candelaria, La Valencia, Los Sauces, Quinta Gamero, Señorial. Urbanizaciones del distrito de Yanahuara: Buganvilas, El Rosario, Las Retamas, Los Claveles, Tronco de Oro, Yanahuara.","Mantenimiento de redes en media tensión (cambio de poste, reubicación de subestación).",Circuito : [301] YANAHUARA III.,MANTENIMIENTO DE REDES.,"1542, 4011, 2104, 3165, 2680, 3634, 2500, 3274, 1784, 1439, 3260, 3261, 3263, 3264, 2550, 3259, 3257, 3258, 1450, 3082, 3081, 3083, 3084, 3267, 3667, 3580, 2757, 1800, 2584, 2360, 1270, 1211, 3167, 2327, 3270, 1811, 3166, 1731, 1233, 3963, 4324, 4361, 4390, 4450, 4664, 4654, 4721, 4732, 4882, 4808, 4818, 5022, 5060, 5179, 5017, 5328, 4970, 5056, 5387, 3164, 1232, 10079, 10260, 10261, 10295, 4916, 3958, 5945.","MANTENIMIENTO DE REDES.
 DOMINGO, 27 DE SETIEMBRE DE 2026:
 Circuito : [301] YANAHUARA III.
