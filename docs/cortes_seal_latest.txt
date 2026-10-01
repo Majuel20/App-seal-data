@@ -1,85 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-09-30 16:25:40
+fecha_ejecucion: 2026-10-01 17:02:52
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-09-30
-fecha_inicio: 2026-09-29
-fecha_fin: 2026-10-30
+fecha_base: 2026-10-01
+fecha_inicio: 2026-09-30
+fecha_fin: 2026-10-31
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 81
 eventos_totales_extraidos: 81
-eventos_guardados_en_rango: 6
+eventos_guardados_en_rango: 3
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6068
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6068&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 29/09/2026
-Hora inicio: 07:00
-Hora fin: 15:00
-Distrito: Uraca, de Uraca
-Zona afectada: Urbanizaciones del distrito de Uraca: La Barrera, Uraca.
-Motivo: Mantenimiento de redes de media tensión (cambio de postes, cambio de aisladores, podado de árboles).
-Ubicación: Circuito : Corire desde CC - 810114.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 7085, 7086, 7495.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 29 DE SETIEMBRE DE 2026:
-Circuito : Corire desde CC - 810114.
-Hora : 07:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de postes, cambio de aisladores, podado de árboles).
-Zonas afectadas: Urbanizaciones del distrito de Uraca: La Barrera, Uraca.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7085, 7086, 7495.
-
-====================================================================================================
-ID: 6070
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6070&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 29/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Miraflores, de Miraflores
-Zona afectada: Mz. B-C de Urb. Alameda Salaverry (Distrito de Miraflores).
-Motivo: Mantenimiento de subestación.
-Ubicación: Circuito : SED 4377.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 29 DE SETIEMBRE DE 2026.
-Circuito : SED 4377.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Mantenimiento de subestación.
-Zonas afectadas: Mz. B-C de Urb. Alameda Salaverry (Distrito de Miraflores).
-
-====================================================================================================
-ID: 6071
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6071&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 29/09/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Miraflores, de Miraflores
-Zona afectada: Mz. A de Urb. Alameda Salaverry (Distrito de Miraflores).
-Motivo: Mantenimiento de subestación.
-Ubicación: Circuito : SED 4295.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 29 DE SETIEMBRE DE 2026.
-Circuito : SED 4295.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Mantenimiento de subestación.
-Zonas afectadas: Mz. A de Urb. Alameda Salaverry (Distrito de Miraflores).
 
 ====================================================================================================
 ID: 6072
