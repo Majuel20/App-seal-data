@@ -1,82 +1,15 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-01 17:02:52
+fecha_ejecucion: 2026-10-02 16:17:26
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-01
-fecha_inicio: 2026-09-30
-fecha_fin: 2026-10-31
+fecha_base: 2026-10-02
+fecha_inicio: 2026-10-01
+fecha_fin: 2026-11-01
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 81
-eventos_totales_extraidos: 81
-eventos_guardados_en_rango: 3
+ids_detectados: 6
+eventos_totales_extraidos: 6
+eventos_guardados_en_rango: 0
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6072
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6072&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 30/09/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Miraflores, de Miraflores
-Zona afectada: Mz. R4 de Urb. Alameda Salaverry (Distrito de Miraflores).
-Motivo: Cambio de terminaciones de cable subterráneo.
-Ubicación: Circuito : SED 10263.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 30 DE SETIEMBRE DE 2026.
-Circuito : SED 10263.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Cambio de terminaciones de cable subterráneo.
-Zonas afectadas: Mz. R4 de Urb. Alameda Salaverry (Distrito de Miraflores).
-
-====================================================================================================
-ID: 6073
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6073&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 30/09/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Miraflores, de Miraflores
-Zona afectada: Mz. R4 de Urb. Alameda Salaverry (Distrito de Miraflores).
-Motivo: Cambio de terminaciones de cable subterráneo.
-Ubicación: Circuito : SED 5373.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 30 DE SETIEMBRE DE 2026.
-Circuito : SED 5373.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Cambio de terminaciones de cable subterráneo.
-Zonas afectadas: Mz. R4 de Urb. Alameda Salaverry (Distrito de Miraflores).
-
-====================================================================================================
-ID: 6069
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6069&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 30/09/2026
-Hora inicio: 08:30
-Hora fin: 16:30
-Distrito: Cocachacra, de Cocachacra
-Zona afectada: Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Caraquen, El Toro, La Pascana.
-Motivo: Mantenimiento de redes eléctricas de media tensión.
-Ubicación: Circuito : El Fiscal desde REC - 200543.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 30 DE SETIEMBRE DE 2026:
-Circuito : El Fiscal desde REC - 200543.
-Hora : 08:30 a 16:30 Hrs.
-Motivo : Mantenimiento de redes eléctricas de media tensión.
-Zonas : Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Caraquen, El Toro, La Pascana.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8318, 8319, 8320, 8737, 8598, 8618, 8340, 8508, 8312, 8313, 8314, 8315, 8316, 8317, 8339.
