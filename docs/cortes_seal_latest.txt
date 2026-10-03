@@ -1,15 +1,130 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-02 16:17:26
+fecha_ejecucion: 2026-10-03 14:45:18
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-02
-fecha_inicio: 2026-10-01
-fecha_fin: 2026-11-01
+fecha_base: 2026-10-03
+fecha_inicio: 2026-10-02
+fecha_fin: 2026-11-02
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 6
-eventos_totales_extraidos: 6
-eventos_guardados_en_rango: 0
+ids_detectados: 11
+eventos_totales_extraidos: 11
+eventos_guardados_en_rango: 5
 output_dir: docs
 ====================================================================================================
+
+====================================================================================================
+ID: 6076
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6076&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 06/10/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Majes, de Majes
+Zona afectada: Urbanizaciones del distrito de Majes: Asentamiento B1, Avg Aspein, Avg Los Olivos, B-3, Corazon de Jesus, E - 8, Futuros Forjadores de Majes - Aspein Sector 1Y6, La Nueva Arequipa de Majes Zona A-B-C, Modulo A Sector 5 Modulo C Sector 2, Nuevo Progreso C-2, Rafael Hoyos Rubio.
+Motivo: Mantenimiento de las redes de media tensión.
+Ubicación: Circuito : Pionero I desde BC - 950122.
+Título: MANTENIMIENTO DE REDES
+Subestaciones: 6194, 6250, 6187, 6197, 8818, 6184, 7665, 6183, 6165, 6164, 8904, 6193, 6192, 6191, 6190, 6203, 6444, 6622, 6188, 6206, 10215, 6205, 6204, 6185, 6199, 6172, 7654, 6171, 6515, 6170, 6169, 6154, 6963, 8886, 8889, 6266, 6280, 6166, 7820, 6625, 6177, 7705, 6432, 6178, 6175, 10251, 6174, 6582, 6163, 7919, 7911, 6162, 6161, 6160, 6159, 6158, 6445, 6157, 8592, 6156, 6155, 6167, 6168, 6198, 6196, 7653, 6195, 6229, 6202, 7840, 6201, 7641, 6200, 6182, 6181, 6180, 6179, 6189, 6945, 8952, 6974, 6355, 6356, 6353, 6354, 6357, 6358, 6410, 6412, 6413, 6438, 6450, 6621, 6186, 7620, 6626, 7664, 7661, 7687, 7867, 7660, 6176, 7698, 6290, 7916, 7975, 6173, 7995, 8912, 8988, 8986, 8987, 8715, 8716, 8973, 8992, 8993, 8994, 8995, 8996, 8997, 8999, 8998, 8965, 8959, 8633, 8643, 8662, 6411, 8718, 8719, 8717, 8721, 8720, 10248.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 06 DE OCTUBRE DE 2026:
+Circuito : Pionero I desde BC - 950122.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de las redes de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Majes: Asentamiento B1, Avg Aspein, Avg Los Olivos, B-3, Corazon de Jesus, E - 8, Futuros Forjadores de Majes - Aspein Sector 1Y6, La Nueva Arequipa de Majes Zona A-B-C, Modulo A Sector 5 Modulo C Sector 2, Nuevo Progreso C-2, Rafael Hoyos Rubio.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6194, 6250, 6187, 6197, 8818, 6184, 7665, 6183, 6165, 6164, 8904, 6193, 6192, 6191, 6190, 6203, 6444, 6622, 6188, 6206, 10215, 6205, 6204, 6185, 6199, 6172, 7654, 6171, 6515, 6170, 6169, 6154, 6963, 8886, 8889, 6266, 6280, 6166, 7820, 6625, 6177, 7705, 6432, 6178, 6175, 10251, 6174, 6582, 6163, 7919, 7911, 6162, 6161, 6160, 6159, 6158, 6445, 6157, 8592, 6156, 6155, 6167, 6168, 6198, 6196, 7653, 6195, 6229, 6202, 7840, 6201, 7641, 6200, 6182, 6181, 6180, 6179, 6189, 6945, 8952, 6974, 6355, 6356, 6353, 6354, 6357, 6358, 6410, 6412, 6413, 6438, 6450, 6621, 6186, 7620, 6626, 7664, 7661, 7687, 7867, 7660, 6176, 7698, 6290, 7916, 7975, 6173, 7995, 8912, 8988, 8986, 8987, 8715, 8716, 8973, 8992, 8993, 8994, 8995, 8996, 8997, 8999, 8998, 8965, 8959, 8633, 8643, 8662, 6411, 8718, 8719, 8717, 8721, 8720, 10248.
+
+====================================================================================================
+ID: 6075
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6075&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 06/10/2026
+Hora inicio: 08:00
+Hora fin: 14:00
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Aptasa, Parque Industrial Rio Seco, Via Evitamiento.
+Motivo: Mantenimiento de las redes de media tensión.
+Ubicación: Circuito : [807] AVIACION.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 2425, 2347, 3820, 3359, 2574, 1835, 1548, 2377, 4203, 4469, 4486, 4488, 5124, 5265, 5319, 5190, 5384, 5797, 5832, 10158.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 06 DE OCTUBRE DE 2026:
+Circuito : [807] AVIACION.
+Hora : 08:00 a 14:00 Hrs.
+Motivo : Mantenimiento de las redes de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Aptasa, Parque Industrial Rio Seco, Via Evitamiento.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2425, 2347, 3820, 3359, 2574, 1835, 1548, 2377, 4203, 4469, 4486, 4488, 5124, 5265, 5319, 5190, 5384, 5797, 5832, 10158.
+
+====================================================================================================
+ID: 6078
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6078&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 07/10/2026
+Hora inicio: 07:00
+Hora fin: 11:00
+Distrito: Santa Rita de Siguas, de Santa Rita de Siguas
+Zona afectada: Urbanizaciones del distrito de Santa Rita de Siguas: Asoc. Viv. Nueva Juventud Zn C, Asoc. Viv. Taller Nueva Juventud Zn A, Asoc. Viv. Taller Nueva Juventud Zn B, Augusto Guilardi, Santa Rita de Sihuas, Villa San Antonio.
+Motivo: Mantenimiento de redes de media tensión (reubicación de subestación, retiro de postes, podado de árboles).
+Ubicación: Circuito : Santa Rita desde REC - 200138.
+Título: MANTENIMIENTO DE REDES
+Subestaciones: 6242, 8831, 6252, 7700, 6225, 6219, 6218, 6216, 6215, 7892, 6214, 6213, 6437, 6212, 6251, 6264, 6248, 6240, 6221, 6220, 6231, 6236, 8943, 6241, 6223, 6222, 6246, 6224, 6941, 7953, 6361, 6360, 7668, 6311, 6312, 6313, 6314, 6433, 7915, 6315, 7891, 6316, 6420, 6421, 6414, 6416, 6415, 6417, 6418, 6448, 7663, 6217, 7838, 7978, 7979, 8948, 8532, 7672, 7951, 8846.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 07 DE OCTUBRE DE 2026:
+Circuito : Santa Rita desde REC - 200138.
+Hora : 07:00 a 11:00 Hrs.
+Motivo : Mantenimiento de redes de media tensión (reubicación de subestación, retiro de postes, podado de árboles).
+Zonas afectadas: Urbanizaciones del distrito de Santa Rita de Siguas: Asoc. Viv. Nueva Juventud Zn C, Asoc. Viv. Taller Nueva Juventud Zn A, Asoc. Viv. Taller Nueva Juventud Zn B, Augusto Guilardi, Santa Rita de Sihuas, Villa San Antonio.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6242, 8831, 6252, 7700, 6225, 6219, 6218, 6216, 6215, 7892, 6214, 6213, 6437, 6212, 6251, 6264, 6248, 6240, 6221, 6220, 6231, 6236, 8943, 6241, 6223, 6222, 6246, 6224, 6941, 7953, 6361, 6360, 7668, 6311, 6312, 6313, 6314, 6433, 7915, 6315, 7891, 6316, 6420, 6421, 6414, 6416, 6415, 6417, 6418, 6448, 7663, 6217, 7838, 7978, 7979, 8948, 8532, 7672, 7951, 8846.
+
+====================================================================================================
+ID: 6077
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6077&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 07/10/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Samuel Pastor
+Zona afectada: Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria
+Motivo: Mantenimiento de redes de media tensión (cambio de poste, inserción de nueva subestación).
+Ubicación: Circuito : Cristo Rey desde REC - 200533.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 07 DE OCTUBRE DE 2026:
+Circuito : Cristo Rey desde REC - 200533.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Mantenimiento de redes de media tensión (cambio de poste, inserción de nueva subestación).
+Zonas : Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369
+
+====================================================================================================
+ID: 6074
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6074&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 07/10/2026
+Hora inicio: 08:00
+Hora fin: 15:00
+Distrito: La Joya, de La Joya
+Zona afectada: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
+Motivo: Mantenimiento de redes en media tensión (Podado de árboles, limpieza de aisladores, subsanación de deficiencias).
+Ubicación: Circuito : Panamericana desde REC - 200137.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 07 DE OCTUBRE DE 2026:
+Circuito : Panamericana desde REC - 200137.
+Hora : 08:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión (Podado de árboles, limpieza de aisladores, subsanación de deficiencias).
+Zonas afectadas: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.
