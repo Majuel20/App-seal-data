@@ -1,16 +1,16 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-06 16:50:33
+fecha_ejecucion: 2026-10-07 17:27:12
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-06
-fecha_inicio: 2026-10-05
-fecha_fin: 2026-11-05
+fecha_base: 2026-10-07
+fecha_inicio: 2026-10-06
+fecha_fin: 2026-11-06
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 11
-eventos_totales_extraidos: 11
-eventos_guardados_en_rango: 5
+ids_detectados: 16
+eventos_totales_extraidos: 16
+eventos_guardados_en_rango: 10
 output_dir: docs
 ====================================================================================================
 
@@ -116,7 +116,7 @@ Distrito: La Joya, de La Joya
 Zona afectada: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
 Motivo: Mantenimiento de redes en media tensión (Podado de árboles, limpieza de aisladores, subsanación de deficiencias).
 Ubicación: Circuito : Panamericana desde REC - 200137.
-Título: MANTENIMIENTO DE REDES.
+Título: MANTENIMIENTO DE REDES. SUSPENDIDO
 Subestaciones: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.
 Fuente extracción: DISPFORM_REQUESTS
 
@@ -128,3 +128,118 @@ Hora : 08:00 a 15:00 Hrs.
 Motivo : Mantenimiento de redes en media tensión (Podado de árboles, limpieza de aisladores, subsanación de deficiencias).
 Zonas afectadas: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.
+
+====================================================================================================
+ID: 6081
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6081&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 09/10/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Lluta, Majes, Santa Isabel de Siguas, de Lluta, de Majes, de Santa Isabel de Siguas
+Zona afectada: Urbanizaciones del distrito de Lluta: La Quebrada. Urbanizaciones del distrito de Majes: Apurimeños En El Distrito de Majes, Centro de Servicios E-1, Ciudad de Majes Modulo B Sector 1, Ciudad de Majes Modulo B Sector 2-3, Ciudad de Majes Modulo F, E-2, El Paraiso, Modulo E Sector 1-2, Nueva Ciudad de Majes - Modulo A, Nuevo Horizonte. Urbanizaciones del distrito de Santa Isabel de Siguas: A.H.Ocoña, Cerro Blanco, La Quebrada, Laderas, Lluclla, Ocurunga San Bacilio, Rancheria, Sondor.
+Motivo: Mantenimiento de redes de media tension (instalación de poste, podado de árboles).
+Ubicación: Circuito : [9603] PITAY.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 6273, 6281, 6282, 6283, 6284, 6285, 6286, 6287, 6233, 6234, 6226, 6267, 6265, 6274, 6272, 6262, 6263, 6259, 6271, 6257, 6258, 6249, 6288, 6300, 6321, 6000, 6322, 6323, 6324, 6325, 6326, 6327, 6328, 6329, 6330, 10226, 6332, 6333, 6334, 6335, 6336, 6337, 6338, 6339, 6340, 6341, 6436, 6495, 6466, 6467, 6492, 6468, 6464, 6485, 6463, 6462, 6491, 6490, 6465, 6474, 6475, 6473, 6472, 6469, 6483, 6508, 6504, 6499, 6496, 6509, 6505, 6500, 6497, 6510, 6506, 6501, 6498, 6511, 6513, 6502, 6503, 6512, 6507, 7628, 7817, 7843, 8881, 8841, 8902, 8970, 8971, 8972, 8522, 8523, 8524, 8525, 8526, 8963, 8962, 8515, 8516, 8517, 8518, 8514, 8840, 8641, 8670, 10048, 8759, 8762, 8760, 8761, 10276, 10288.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 09 DE OCTUBRE DE 2026:
+Circuito : [9603] PITAY.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes de media tension (instalación de poste, podado de árboles).
+Zonas afectadas: Urbanizaciones del distrito de Lluta: La Quebrada. Urbanizaciones del distrito de Majes: Apurimeños En El Distrito de Majes, Centro de Servicios E-1, Ciudad de Majes Modulo B Sector 1, Ciudad de Majes Modulo B Sector 2-3, Ciudad de Majes Modulo F, E-2, El Paraiso, Modulo E Sector 1-2, Nueva Ciudad de Majes - Modulo A, Nuevo Horizonte. Urbanizaciones del distrito de Santa Isabel de Siguas: A.H.Ocoña, Cerro Blanco, La Quebrada, Laderas, Lluclla, Ocurunga San Bacilio, Rancheria, Sondor.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6273, 6281, 6282, 6283, 6284, 6285, 6286, 6287, 6233, 6234, 6226, 6267, 6265, 6274, 6272, 6262, 6263, 6259, 6271, 6257, 6258, 6249, 6288, 6300, 6321, 6000, 6322, 6323, 6324, 6325, 6326, 6327, 6328, 6329, 6330, 10226, 6332, 6333, 6334, 6335, 6336, 6337, 6338, 6339, 6340, 6341, 6436, 6495, 6466, 6467, 6492, 6468, 6464, 6485, 6463, 6462, 6491, 6490, 6465, 6474, 6475, 6473, 6472, 6469, 6483, 6508, 6504, 6499, 6496, 6509, 6505, 6500, 6497, 6510, 6506, 6501, 6498, 6511, 6513, 6502, 6503, 6512, 6507, 7628, 7817, 7843, 8881, 8841, 8902, 8970, 8971, 8972, 8522, 8523, 8524, 8525, 8526, 8963, 8962, 8515, 8516, 8517, 8518, 8514, 8840, 8641, 8670, 10048, 8759, 8762, 8760, 8761, 10276, 10288.
+
+====================================================================================================
+ID: 6080
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6080&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 09/10/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Samuel Pastor, de Samuel Pastor
+Zona afectada: Urbanizaciones del distrito de Samuel Pastor: San Benito de Palermo.
+Motivo: Cambio de poste y conductor de media tensión.
+Ubicación: Circuito : San Gregorio desde BC - 200128.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 9052, 9051, 9094, 9195.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 09 DE OCTUBRE DE 2026:
+Circuito : San Gregorio desde BC - 200128.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Cambio de poste y conductor de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Samuel Pastor: San Benito de Palermo.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9052, 9051, 9094, 9195.
+
+====================================================================================================
+ID: 6082
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6082&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 09/10/2026
+Hora inicio: 07:30
+Hora fin: 13:30
+Distrito: Samuel Pastor
+Zona afectada: Mz. A-B-C-I de la Zona A de Urb. El Carmen (Distrito Samuel Pastor).
+Motivo: Montaje y desmontaje de la subestación.
+Ubicación: Circuito : SED 9049.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+SÁBADO, 10 DE OCTUBRE DE 2026.
+Circuito : SED 9049.
+Hora : 07:30 a 13:30 Hrs.
+Motivo : Montaje y desmontaje de la subestación.
+Zonas afectadas: Mz. A-B-C-I de la Zona A de Urb. El Carmen (Distrito Samuel Pastor).
+
+====================================================================================================
+ID: 6079
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6079&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 09/10/2026
+Hora inicio: 08:00
+Hora fin: 14:00
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Apgv La Estrella del Cural, Crucero La Estrella 1, Irrigacion El Cural Lateral 6-8.
+Motivo: Mantenimiento de las redes de media tensión.
+Ubicación: Circuito : Sosa Ruiz desde BC - 070213.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 1382, 1870, 4376, 10332, 3837, 1815, 5019, 2133, 3926, 4281, 4439, 5605, 4960, 4767, 5527, 5528, 5529, 5530, 3346, 5807, 5911.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+VIERNES, 09 DE OCTUBRE DE 2026:
+Circuito : Sosa Ruiz desde BC - 070213.
+Hora : 08:00 a 14:00 Hrs.
+Motivo : Mantenimiento de las redes de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Apgv La Estrella del Cural, Crucero La Estrella 1, Irrigacion El Cural Lateral 6-8.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1382, 1870, 4376, 10332, 3837, 1815, 5019, 2133, 3926, 4281, 4439, 5605, 4960, 4767, 5527, 5528, 5529, 5530, 3346, 5807, 5911.
+
+====================================================================================================
+ID: 6083
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6083&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 11/10/2026
+Hora inicio: 08:00
+Hora fin: 16:00
+Distrito: Cayma, Cerro Colorado, Yanahuara, de Cayma, de Cerro Colorado, de Yanahuara
+Zona afectada: Urbanizaciones del distrito de Cayma: Leon XIII, Los Sauces. Urbanizaciones del distrito de Cerro Colorado: 12 de Octubre, Cerrito Los Alvarez, Cerro Colorado (Pueblo Viejo), Santa Rosa de Lima, Villa El Sol. Urbanizaciones del distrito de Yanahuara: Buena Vista, Cooperativa Entel Peru, Entel Peru, Independencia Americana, Juan Xxiii, Las Casuarinas, Las Condes, Las Orquideas, Los Cedros, Los Gladiolos, Magisterial III, Piedra Santa I, Piedra Santa II, Primavera, Quinta La Estancia, Quinta Los Gladiolos, Quinta Residencial Texao, Residencial El Chullo, San Rafael, Santa Beatriz, Santa Cecilia, Valencia, Victor Andres Belaunde, Yanahuara.
+Motivo: Mantenimiento del transformador de potencia y línea de transmisión.
+Ubicación: LÍNEA : [L-3063] CHALLAPAMPA-REAL PLAZA. SET : [16] REAL PLAZA.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 1228, 2624, 2351, 2315, 2318, 2303, 1257, 2666, 1222, 3543, 2443, 2442, 2304, 2471, 4235, 5068, 5717, 2312, 10144, 4465, 4548, 4549, 4550, 1732, 2116, 1230, 2995, 2598, 1238, 1430, 2344, 1842, 1237, 1355, 1219, 1669, 2350, 1572, 1853, 1508, 2345, 4662, 5005, 5260, 4952, 5236, 5666, 2157, 5119, 5106, 5339, 5054, 5070, 3954, 1529, 2623, 3432, 2758, 3845, 3880, 2308, 2306, 2302, 2721, 1633, 3834, 2715, 1455, 1229, 2759, 2760, 2649, 1646, 4328, 4630, 5168, 5349, 5718, 5844, 4211, 5940, 10240, 10324, 10266, 10243.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 11 DE OCTUBRE DE 2026:
+LÍNEA : [L-3063] CHALLAPAMPA-REAL PLAZA.
+SET : [16] REAL PLAZA.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento del transformador de potencia y línea de transmisión.
+Zonas afectadas: Urbanizaciones del distrito de Cayma: Leon XIII, Los Sauces. Urbanizaciones del distrito de Cerro Colorado: 12 de Octubre, Cerrito Los Alvarez, Cerro Colorado (Pueblo Viejo), Santa Rosa de Lima, Villa El Sol. Urbanizaciones del distrito de Yanahuara: Buena Vista, Cooperativa Entel Peru, Entel Peru, Independencia Americana, Juan Xxiii, Las Casuarinas, Las Condes, Las Orquideas, Los Cedros, Los Gladiolos, Magisterial III, Piedra Santa I, Piedra Santa II, Primavera, Quinta La Estancia, Quinta Los Gladiolos, Quinta Residencial Texao, Residencial El Chullo, San Rafael, Santa Beatriz, Santa Cecilia, Valencia, Victor Andres Belaunde, Yanahuara.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1228, 2624, 2351, 2315, 2318, 2303, 1257, 2666, 1222, 3543, 2443, 2442, 2304, 2471, 4235, 5068, 5717, 2312, 10144, 4465, 4548, 4549, 4550, 1732, 2116, 1230, 2995, 2598, 1238, 1430, 2344, 1842, 1237, 1355, 1219, 1669, 2350, 1572, 1853, 1508, 2345, 4662, 5005, 5260, 4952, 5236, 5666, 2157, 5119, 5106, 5339, 5054, 5070, 3954, 1529, 2623, 3432, 2758, 3845, 3880, 2308, 2306, 2302, 2721, 1633, 3834, 2715, 1455, 1229, 2759, 2760, 2649, 1646, 4328, 4630, 5168, 5349, 5718, 5844, 4211, 5940, 10240, 10324, 10266, 10243.
