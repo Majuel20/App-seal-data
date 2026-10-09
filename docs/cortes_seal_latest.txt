@@ -1,87 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-08 17:25:17
+fecha_ejecucion: 2026-10-09 17:00:56
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-08
-fecha_inicio: 2026-10-07
-fecha_fin: 2026-11-07
+fecha_base: 2026-10-09
+fecha_inicio: 2026-10-08
+fecha_fin: 2026-11-08
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 17
 eventos_totales_extraidos: 17
-eventos_guardados_en_rango: 9
+eventos_guardados_en_rango: 6
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6078
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6078&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 07/10/2026
-Hora inicio: 07:00
-Hora fin: 11:00
-Distrito: Santa Rita de Siguas, de Santa Rita de Siguas
-Zona afectada: Urbanizaciones del distrito de Santa Rita de Siguas: Asoc. Viv. Nueva Juventud Zn C, Asoc. Viv. Taller Nueva Juventud Zn A, Asoc. Viv. Taller Nueva Juventud Zn B, Augusto Guilardi, Santa Rita de Sihuas, Villa San Antonio.
-Motivo: Mantenimiento de redes de media tensión (reubicación de subestación, retiro de postes, podado de árboles).
-Ubicación: Circuito : Santa Rita desde REC - 200138.
-Título: MANTENIMIENTO DE REDES
-Subestaciones: 6242, 8831, 6252, 7700, 6225, 6219, 6218, 6216, 6215, 7892, 6214, 6213, 6437, 6212, 6251, 6264, 6248, 6240, 6221, 6220, 6231, 6236, 8943, 6241, 6223, 6222, 6246, 6224, 6941, 7953, 6361, 6360, 7668, 6311, 6312, 6313, 6314, 6433, 7915, 6315, 7891, 6316, 6420, 6421, 6414, 6416, 6415, 6417, 6418, 6448, 7663, 6217, 7838, 7978, 7979, 8948, 8532, 7672, 7951, 8846.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 07 DE OCTUBRE DE 2026:
-Circuito : Santa Rita desde REC - 200138.
-Hora : 07:00 a 11:00 Hrs.
-Motivo : Mantenimiento de redes de media tensión (reubicación de subestación, retiro de postes, podado de árboles).
-Zonas afectadas: Urbanizaciones del distrito de Santa Rita de Siguas: Asoc. Viv. Nueva Juventud Zn C, Asoc. Viv. Taller Nueva Juventud Zn A, Asoc. Viv. Taller Nueva Juventud Zn B, Augusto Guilardi, Santa Rita de Sihuas, Villa San Antonio.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6242, 8831, 6252, 7700, 6225, 6219, 6218, 6216, 6215, 7892, 6214, 6213, 6437, 6212, 6251, 6264, 6248, 6240, 6221, 6220, 6231, 6236, 8943, 6241, 6223, 6222, 6246, 6224, 6941, 7953, 6361, 6360, 7668, 6311, 6312, 6313, 6314, 6433, 7915, 6315, 7891, 6316, 6420, 6421, 6414, 6416, 6415, 6417, 6418, 6448, 7663, 6217, 7838, 7978, 7979, 8948, 8532, 7672, 7951, 8846.
-
-====================================================================================================
-ID: 6077
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6077&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 07/10/2026
-Hora inicio: 07:30
-Hora fin: 15:30
-Distrito: Samuel Pastor
-Zona afectada: Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria
-Motivo: Mantenimiento de redes de media tensión (cambio de poste, inserción de nueva subestación).
-Ubicación: Circuito : Cristo Rey desde REC - 200533.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 07 DE OCTUBRE DE 2026:
-Circuito : Cristo Rey desde REC - 200533.
-Hora : 07:30 a 15:30 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de poste, inserción de nueva subestación).
-Zonas : Zona del Distrito Samuel Pastor: A.H. Alto Luren, AA.HH. Bella Union, Almirante Grau, Alto Buenos Aires, Señor de Luren, Virgen de La Candelaria
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9193, 9169, 9231, 9266, 9307, 9192, 9340, 9330, 9331, 9369
-
-====================================================================================================
-ID: 6074
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6074&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 07/10/2026
-Hora inicio: 08:00
-Hora fin: 15:00
-Distrito: La Joya, de La Joya
-Zona afectada: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
-Motivo: Mantenimiento de redes en media tensión (Podado de árboles, limpieza de aisladores, subsanación de deficiencias).
-Ubicación: Circuito : Panamericana desde REC - 200137.
-Título: MANTENIMIENTO DE REDES. SUSPENDIDO
-Subestaciones: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 07 DE OCTUBRE DE 2026:
-Circuito : Panamericana desde REC - 200137.
-Hora : 08:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (Podado de árboles, limpieza de aisladores, subsanación de deficiencias).
-Zonas afectadas: Urbanizaciones del distrito de La Joya: El Ramal, Las Casuarinas.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6965, 6719, 6718, 6791, 6973, 6721, 7670, 6942, 6728, 6999, 6726, 6725, 6717, 6715, 7615, 6724, 6723, 6722, 7632, 6720, 6568, 7947, 7933, 8900, 8569, 8675, 8676, 8677, 8742, 6716.
 
 ====================================================================================================
 ID: 6081
