@@ -1,16 +1,16 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-09 17:00:56
+fecha_ejecucion: 2026-10-10 15:53:26
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-09
-fecha_inicio: 2026-10-08
-fecha_fin: 2026-11-08
+fecha_base: 2026-10-10
+fecha_inicio: 2026-10-09
+fecha_fin: 2026-11-09
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 17
-eventos_totales_extraidos: 17
-eventos_guardados_en_rango: 6
+ids_detectados: 28
+eventos_totales_extraidos: 28
+eventos_guardados_en_rango: 17
 output_dir: docs
 ====================================================================================================
 
@@ -151,3 +151,257 @@ Hora : 08:00 a 16:00 Hrs.
 Motivo : Mantenimiento del transformador de potencia y línea de transmisión.
 Zonas afectadas: Urbanizaciones del distrito de Cayma: Leon XIII, Los Sauces. Urbanizaciones del distrito de Cerro Colorado: 12 de Octubre, Cerrito Los Alvarez, Cerro Colorado (Pueblo Viejo), Santa Rosa de Lima, Villa El Sol. Urbanizaciones del distrito de Yanahuara: Buena Vista, Cooperativa Entel Peru, Entel Peru, Independencia Americana, Juan Xxiii, Las Casuarinas, Las Condes, Las Orquideas, Los Cedros, Los Gladiolos, Magisterial III, Piedra Santa I, Piedra Santa II, Primavera, Quinta La Estancia, Quinta Los Gladiolos, Quinta Residencial Texao, Residencial El Chullo, San Rafael, Santa Beatriz, Santa Cecilia, Valencia, Victor Andres Belaunde, Yanahuara.
 Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1228, 2624, 2351, 2315, 2318, 2303, 1257, 2666, 1222, 3543, 2443, 2442, 2304, 2471, 4235, 5068, 5717, 2312, 10144, 4465, 4548, 4549, 4550, 1732, 2116, 1230, 2995, 2598, 1238, 1430, 2344, 1842, 1237, 1355, 1219, 1669, 2350, 1572, 1853, 1508, 2345, 4662, 5005, 5260, 4952, 5236, 5666, 2157, 5119, 5106, 5339, 5054, 5070, 3954, 1529, 2623, 3432, 2758, 3845, 3880, 2308, 2306, 2302, 2721, 1633, 3834, 2715, 1455, 1229, 2759, 2760, 2649, 1646, 4328, 4630, 5168, 5349, 5718, 5844, 4211, 5940, 10240, 10324, 10266, 10243.
+
+====================================================================================================
+ID: 6085
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6085&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/10/2026
+Hora inicio: 08:00
+Hora fin: 11:00
+Distrito: Jacobo Hunter, Socabaya, de Jacobo Hunter, de Socabaya
+Zona afectada: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
+Motivo: OBRA “Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa”.
+Ubicación: Circuito : Las Peñas desde BC - 041005.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+LUNES, 12 DE OCTUBRE DE 2026:
+Circuito : Las Peñas desde BC - 041005.
+Hora : 08:00 a 11:00 Hrs.
+Motivo :OBRA “Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa”.
+Zonas afectadas: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
+
+====================================================================================================
+ID: 6086
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6086&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/10/2026
+Hora inicio: 08:00
+Hora fin: 15:00
+Distrito: 
+Zona afectada: Urbanizaciones de Alto Selva Alegre: El Gran Chaparral, El Mirador Primera Etapa, El Mirador Segunda Etapa, Huarangal, Independencia Zona A, Independencia Zona B, Lealtad Democratica, Los Angeles del Misti, Tres Balcones del Misti, Villa Asuncion, Villa Chachas, Villa Esperanza, Villa Independiente Zona A, Villa San Pablo.
+Motivo: Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
+Ubicación: Circuito : [902] MARIATEGUI.
+Título: REFORZAMIENTO DE REDES
+Subestaciones: 2406, 3896, 1768, 3440, 1901, 3229, 3439, 1538, 1718, 2405, 3466, 3465, 3686, 4000, 4102, 4103, 4104, 4105, 4301, 4459, 4414, 4504, 4505, 4937, 4918, 5051, 5428, 5657, 5679, 5811, 5942, 10020, 10021, 2407, 5464, 10377.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+LUNES, 12 DE OCTUBRE DE 2026:
+Circuito : [902] MARIATEGUI.
+Hora : 08:00 a 15:00 Hrs.
+Motivo : Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
+Zonas afectadas: Urbanizaciones de Alto Selva Alegre: El Gran Chaparral, El Mirador Primera Etapa, El Mirador Segunda Etapa, Huarangal, Independencia Zona A, Independencia Zona B, Lealtad Democratica, Los Angeles del Misti, Tres Balcones del Misti, Villa Asuncion, Villa Chachas, Villa Esperanza, Villa Independiente Zona A, Villa San Pablo.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2406, 3896, 1768, 3440, 1901, 3229, 3439, 1538, 1718, 2405, 3466, 3465, 3686, 4000, 4102, 4103, 4104, 4105, 4301, 4459, 4414, 4504, 4505, 4937, 4918, 5051, 5428, 5657, 5679, 5811, 5942, 10020, 10021, 2407, 5464, 10377.
+
+====================================================================================================
+ID: 6087
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6087&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 12/10/2026
+Hora inicio: 08:00
+Hora fin: 11:00
+Distrito: Jacobo Hunter, Socabaya, de Jacobo Hunter, de Socabaya
+Zona afectada: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
+Motivo: Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
+Ubicación: Circuito : Las Peñas desde BC - 041005.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+LUNES, 12 DE OCTUBRE DE 2026:
+Circuito : Las Peñas desde BC - 041005.
+Hora : 08:00 a 11:00 Hrs.
+Motivo : Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
+Zonas afectadas: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
+
+====================================================================================================
+ID: 6090
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6090&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 13/10/2026
+Hora inicio: 07:00
+Hora fin: 15:00
+Distrito: Charcana, Cotahuasi, Pampamarca, Quechualla, Toro, de Charcana, de Cotahuasi, de Pampamarca, de Quechualla, de Toro
+Zona afectada: Urbanizaciones del distrito de Charcana: Andamarca, Ayapallpa, Charcana. Urbanizaciones del distrito de Cotahuasi: Ancaro. Urbanizaciones del distrito de Pampamarca: Lancaroya. Urbanizaciones del distrito de Quechualla: Allancay, Chaupo, Picha, Quechualla, Sancay, Velinga. Urbanizaciones del distrito de Toro: Caspi, Cupe, Huachuy, Llallihua, Shiringay, Toro.
+Motivo: Mantenimiento de redes en media tensión y podado de árboles.
+Ubicación: Circuito : Cotahuasi desde REC - 700116.
+Título: MANTENIMIENTO DE REDES
+Subestaciones: 7329, 7331, 7328, 7327, 7330, 7341, 7339, 7344, 7644, 7737, 7740, 7741, 7743, 7742, 7745, 7739, 7744, 7738, 7736, 7345, 7340, 9403.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 13 DE OCTUBRE DE 2026:
+Circuito : Cotahuasi desde REC - 700116.
+Hora : 07:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión y podado de árboles.
+Zonas afectadas: Urbanizaciones del distrito de Charcana: Andamarca, Ayapallpa, Charcana. Urbanizaciones del distrito de Cotahuasi: Ancaro. Urbanizaciones del distrito de Pampamarca: Lancaroya. Urbanizaciones del distrito de Quechualla: Allancay, Chaupo, Picha, Quechualla, Sancay, Velinga. Urbanizaciones del distrito de Toro: Caspi, Cupe, Huachuy, Llallihua, Shiringay, Toro.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7329, 7331, 7328, 7327, 7330, 7341, 7339, 7344, 7644, 7737, 7740, 7741, 7743, 7742, 7745, 7739, 7744, 7738, 7736, 7345, 7340, 9403.
+
+====================================================================================================
+ID: 6088
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6088&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 13/10/2026
+Hora inicio: 08:00
+Hora fin: 14:00
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Rio Seco.
+Motivo: Mantenimiento de las redes de media tensión.
+Ubicación: Circuito : Rio Seco desde REC - 200545.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 5814, 1492, 2670, 2687, 3383, 1897, 4972, 1978, 2642, 5326, 1386, 2641, 2226, 4303, 4304, 4899, 5342, 5344, 5343, 5392, 2643, 10213, 10285.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 13 DE OCTUBRE DE 2026:
+Circuito : Rio Seco desde REC - 200545.
+Hora : 08:00 a 14:00 Hrs.
+Motivo : Mantenimiento de las redes de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Rio Seco.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5814, 1492, 2670, 2687, 3383, 1897, 4972, 1978, 2642, 5326, 1386, 2641, 2226, 4303, 4304, 4899, 5342, 5344, 5343, 5392, 2643, 10213, 10285.
+
+====================================================================================================
+ID: 6089
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6089&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 13/10/2026
+Hora inicio: 08:00
+Hora fin: 11:00
+Distrito: Alto Selva Alegre, Mariano Melgar, Miraflores, de Alto Selva Alegre, de Mariano Melgar, de Miraflores
+Zona afectada: Urbanizaciones del distrito de Alto Selva Alegre: Asociacion de Granjeros San Lazaro y Pequeños Industriales, Bella Esperanza, Bella Esperanza Ampliacion Zona A y B, Javier Heraud, Prog Municipal de Pequeña Industria. Urbanizaciones del distrito de Mariano Melgar: A. H. Berlin II, A.H. Berlin, El Mirador Zona I, El Mirador Zona II, El Mirador Zona III, Pequeños Talleres Sr. de Los Milagros Zona IV, Pueblo Libre, San Francisco de Asis. Urbanizaciones del distrito de Miraflores: C. Granja Viv. San Lazaro Zona A, Los Girasoles II, Los Girasoles Zona B, Nuevo Amanecer, San Francisco de Asis.
+Motivo: Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
+Ubicación: Circuito : [904] GALAXIA.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 3758, 1182, 2587, 3354, 3375, 3376, 3643, 3630, 2588, 4050, 4413, 4530, 4566, 4840, 4771, 4770, 4772, 5092, 5091, 5173, 5525, 5526, 5550, 3642, 3641, 4049, 10340.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+MARTES, 13 DE OCTUBRE DE 2026:
+Circuito : [904] GALAXIA.
+Hora : 08:00 a 11:00 Hrs.
+Motivo : Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
+Zonas afectadas: Urbanizaciones del distrito de Alto Selva Alegre: Asociacion de Granjeros San Lazaro y Pequeños Industriales, Bella Esperanza, Bella Esperanza Ampliacion Zona A y B, Javier Heraud, Prog Municipal de Pequeña Industria. Urbanizaciones del distrito de Mariano Melgar: A. H. Berlin II, A.H. Berlin, El Mirador Zona I, El Mirador Zona II, El Mirador Zona III, Pequeños Talleres Sr. de Los Milagros Zona IV, Pueblo Libre, San Francisco de Asis. Urbanizaciones del distrito de Miraflores: C. Granja Viv. San Lazaro Zona A, Los Girasoles II, Los Girasoles Zona B, Nuevo Amanecer, San Francisco de Asis.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3758, 1182, 2587, 3354, 3375, 3376, 3643, 3630, 2588, 4050, 4413, 4530, 4566, 4840, 4771, 4770, 4772, 5092, 5091, 5173, 5525, 5526, 5550, 3642, 3641, 4049, 10340.
+
+====================================================================================================
+ID: 6091
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6091&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 14/10/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Mariscal Cáceres, de Mariscal Cáceres
+Zona afectada: Urbanizaciones del distrito de Mariscal Cáceres: A.H. Jahuay, San Isidro, Santa Elizabeth, Villa Hermosa.
+Motivo: Mantenimiento de redes de media tensión (cambio de postes, cambio de transformador, subsanación de deficiencias).
+Ubicación: Circuito : Jahuay desde REC - 200452.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 9269, 9268, 5271, 9327, 9321, 9324, 9215, 9335, 9211, 9345, 9378, 9280, 9384, 9392, 9405, 9237, 9236, 9235, 9248, 9247, 9203, 9202, 10281, 10291.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 14 DE OCTUBRE DE 2026:
+Circuito : Jahuay desde REC - 200452.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Mantenimiento de redes de media tensión (cambio de postes, cambio de transformador, subsanación de deficiencias).
+Zonas afectadas: Urbanizaciones del distrito de Mariscal Cáceres: A.H. Jahuay, San Isidro, Santa Elizabeth, Villa Hermosa.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9269, 9268, 5271, 9327, 9321, 9324, 9215, 9335, 9211, 9345, 9378, 9280, 9384, 9392, 9405, 9237, 9236, 9235, 9248, 9247, 9203, 9202, 10281, 10291.
+
+====================================================================================================
+ID: 6094
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6094&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 14/10/2026
+Hora inicio: 07:30
+Hora fin: 14:30
+Distrito: Cocachacra, de Cocachacra
+Zona afectada: Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Chucarapi, Desamparados, El Fiscal, El Toro, La Pascana, Pampa Blanca, Portal del Valle.
+Motivo: Cambio de armado en EAT43 y EAT 44 por DMS.
+Ubicación: LÍNEAS : [L-3038C] Cocachacra - Chucarapi. SET : [38] CHUCARAPI
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8215, 8658, 8657, 8217, 8223, 8221, 8218, 8219, 8258, 8264, 8283, 8276, 8222, 8246, 8216, 8277, 8263, 8303, 8304, 8305, 8318, 8319, 8320, 8312, 8313, 8314, 8315, 8316, 8317, 8324, 8339, 8340, 8306, 8370, 8372, 8378, 8389, 8436, 8508, 8542, 8598, 8618, 8512, 8737, 8224, 8513.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 14 DE OCTUBRE DE 2026:
+LÍNEAS : [L-3038C] Cocachacra - Chucarapi.
+SET : [38] CHUCARAPI
+Hora : 07:30 a 14:30 Hrs.
+Motivo : Cambio de armado en EAT43 y EAT 44 por DMS.
+Zonas : Urbanizaciones del Distrito de Cocachacra: Anexo El Carrizal, Anexo El Dique, Anexo Quelgua Grande, Ayanquera, Caraquen, Chucarapi, Desamparados, El Fiscal, El Toro, La Pascana, Pampa Blanca, Portal del Valle.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8215, 8658, 8657, 8217, 8223, 8221, 8218, 8219, 8258, 8264, 8283, 8276, 8222, 8246, 8216, 8277, 8263, 8303, 8304, 8305, 8318, 8319, 8320, 8312, 8313, 8314, 8315, 8316, 8317, 8324, 8339, 8340, 8306, 8370, 8372, 8378, 8389, 8436, 8508, 8542, 8598, 8618, 8512, 8737, 8224, 8513.
+
+====================================================================================================
+ID: 6092
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6092&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 14/10/2026
+Hora inicio: 08:00
+Hora fin: 16:00
+Distrito: La Joya, de La Joya
+Zona afectada: Urbanizaciones del distrito de La Joya: Cerrito Buena Vista, La Joya Antigua Sector 1, La Joya Antigua Sector 3, Las Dunas, Los Girasoles de La Joya, Los Laureles, Los Milagros, Los Patriotas, Mirador La Victoria, Mirador La Victoria II, Palca, Primavera.
+Motivo: Mantenimiento de las redes de media tensión.
+Ubicación: Circuito : La Joya desde REC - 200431.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 6813, 6732, 6714, 6713, 6712, 6711, 6710, 6709, 8634, 6807, 6819, 6820, 6708, 6704, 6893, 6702, 6701, 7635, 6705, 6707, 6706, 6524, 6806, 6856, 6985, 6946, 6528, 7823, 6540, 6545, 6537, 6538, 6562, 6563, 6527, 6589, 6570, 8875, 6593, 6599, 7981, 4788, 4789, 8554, 7939, 7976, 8919, 8918, 8920, 8568, 4804, 8617, 8713, 8781, 9437.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 14 DE OCTUBRE DE 2026:
+Circuito : La Joya desde REC - 200431.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento de las redes de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de La Joya: Cerrito Buena Vista, La Joya Antigua Sector 1, La Joya Antigua Sector 3, Las Dunas, Los Girasoles de La Joya, Los Laureles, Los Milagros, Los Patriotas, Mirador La Victoria, Mirador La Victoria II, Palca, Primavera.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6813, 6732, 6714, 6713, 6712, 6711, 6710, 6709, 8634, 6807, 6819, 6820, 6708, 6704, 6893, 6702, 6701, 7635, 6705, 6707, 6706, 6524, 6806, 6856, 6985, 6946, 6528, 7823, 6540, 6545, 6537, 6538, 6562, 6563, 6527, 6589, 6570, 8875, 6593, 6599, 7981, 4788, 4789, 8554, 7939, 7976, 8919, 8918, 8920, 8568, 4804, 8617, 8713, 8781, 9437.
+
+====================================================================================================
+ID: 6093
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6093&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 14/10/2026
+Hora inicio: 08:00
+Hora fin: 11:00
+Distrito: Yanque, de Yanque
+Zona afectada: Urbanizaciones del distrito de Yanque: Sector de Chollorota.
+Motivo: Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa
+Ubicación: Circuito : Callalli 22.9 desde CC 200249.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 9377.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+MIÉRCOLES, 14 DE OCTUBRE DE 2026:
+Circuito : Callalli 22.9 desde CC 200249.
+Hora : 08:00 a 11:00 Hrs.
+Motivo : Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa
+Zonas : Urbanizaciones del distrito de Yanque: Sector de Chollorota.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9377.
+
+====================================================================================================
+ID: 6095
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6095&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 15/10/2026
+Hora inicio: 08:00
+Hora fin: 14:00
+Distrito: Yura, de Yura
+Zona afectada: Urbanizaciones del distrito de Yura: Balneario de Yura, El Filtro, Porvenir de Yura, Pueblo de Yura, Pueblo La Estacion de Yura.
+Motivo: Mantenimiento de las líneas de media tensión.
+Ubicación: Circuito : P. Yura desde REC - 080306.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 3492, 3491, 3707, 3571, 4207, 3490, 4589, 4994.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+JUEVES, 15 DE OCTUBRE DE 2026:
+Circuito : P. Yura desde REC - 080306.
+Hora : 08:00 a 14:00 Hrs.
+Motivo : Mantenimiento de las líneas de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Yura: Balneario de Yura, El Filtro, Porvenir de Yura, Pueblo de Yura, Pueblo La Estacion de Yura.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3492, 3491, 3707, 3571, 4207, 3490, 4589, 4994.
