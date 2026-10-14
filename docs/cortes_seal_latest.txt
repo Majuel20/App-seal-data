@@ -1,87 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-13 17:37:19
+fecha_ejecucion: 2026-10-14 15:11:43
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-13
-fecha_inicio: 2026-10-12
-fecha_fin: 2026-11-12
+fecha_base: 2026-10-14
+fecha_inicio: 2026-10-13
+fecha_fin: 2026-11-13
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 28
 eventos_totales_extraidos: 28
-eventos_guardados_en_rango: 11
+eventos_guardados_en_rango: 8
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6085
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6085&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 12/10/2026
-Hora inicio: 08:00
-Hora fin: 11:00
-Distrito: Jacobo Hunter, Socabaya, de Jacobo Hunter, de Socabaya
-Zona afectada: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
-Motivo: OBRA “Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa”.
-Ubicación: Circuito : Las Peñas desde BC - 041005.
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-LUNES, 12 DE OCTUBRE DE 2026:
-Circuito : Las Peñas desde BC - 041005.
-Hora : 08:00 a 11:00 Hrs.
-Motivo :OBRA “Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa”.
-Zonas afectadas: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
-
-====================================================================================================
-ID: 6086
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6086&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 12/10/2026
-Hora inicio: 08:00
-Hora fin: 15:00
-Distrito: 
-Zona afectada: Urbanizaciones de Alto Selva Alegre: El Gran Chaparral, El Mirador Primera Etapa, El Mirador Segunda Etapa, Huarangal, Independencia Zona A, Independencia Zona B, Lealtad Democratica, Los Angeles del Misti, Tres Balcones del Misti, Villa Asuncion, Villa Chachas, Villa Esperanza, Villa Independiente Zona A, Villa San Pablo.
-Motivo: Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
-Ubicación: Circuito : [902] MARIATEGUI.
-Título: REFORZAMIENTO DE REDES
-Subestaciones: 2406, 3896, 1768, 3440, 1901, 3229, 3439, 1538, 1718, 2405, 3466, 3465, 3686, 4000, 4102, 4103, 4104, 4105, 4301, 4459, 4414, 4504, 4505, 4937, 4918, 5051, 5428, 5657, 5679, 5811, 5942, 10020, 10021, 2407, 5464, 10377.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-LUNES, 12 DE OCTUBRE DE 2026:
-Circuito : [902] MARIATEGUI.
-Hora : 08:00 a 15:00 Hrs.
-Motivo : Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
-Zonas afectadas: Urbanizaciones de Alto Selva Alegre: El Gran Chaparral, El Mirador Primera Etapa, El Mirador Segunda Etapa, Huarangal, Independencia Zona A, Independencia Zona B, Lealtad Democratica, Los Angeles del Misti, Tres Balcones del Misti, Villa Asuncion, Villa Chachas, Villa Esperanza, Villa Independiente Zona A, Villa San Pablo.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2406, 3896, 1768, 3440, 1901, 3229, 3439, 1538, 1718, 2405, 3466, 3465, 3686, 4000, 4102, 4103, 4104, 4105, 4301, 4459, 4414, 4504, 4505, 4937, 4918, 5051, 5428, 5657, 5679, 5811, 5942, 10020, 10021, 2407, 5464, 10377.
-
-====================================================================================================
-ID: 6087
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6087&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 12/10/2026
-Hora inicio: 08:00
-Hora fin: 11:00
-Distrito: Jacobo Hunter, Socabaya, de Jacobo Hunter, de Socabaya
-Zona afectada: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
-Motivo: Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
-Ubicación: Circuito : Las Peñas desde BC - 041005.
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-LUNES, 12 DE OCTUBRE DE 2026:
-Circuito : Las Peñas desde BC - 041005.
-Hora : 08:00 a 11:00 Hrs.
-Motivo : Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa.
-Zonas afectadas: Urbanizaciones del distrito de Jacobo Hunter: La Estancia, Villa Florida, Villa Salaverry, Villa Sevilla. Urbanizaciones del distrito de Socabaya: Cerro Salaverry.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 2326, 3098, 5624, 1322, 3097, 1708, 1710, 4878, 3286, 3282, 5704, 2460.
 
 ====================================================================================================
 ID: 6090
