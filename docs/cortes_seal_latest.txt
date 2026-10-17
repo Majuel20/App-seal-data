@@ -1,38 +1,399 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-16 14:54:00
+fecha_ejecucion: 2026-10-17 13:45:50
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-16
-fecha_inicio: 2026-10-15
-fecha_fin: 2026-11-15
+fecha_base: 2026-10-17
+fecha_inicio: 2026-10-16
+fecha_fin: 2026-11-16
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 28
-eventos_totales_extraidos: 28
-eventos_guardados_en_rango: 1
+ids_detectados: 45
+eventos_totales_extraidos: 45
+eventos_guardados_en_rango: 17
 output_dir: docs
 ====================================================================================================
 
 ====================================================================================================
-ID: 6095
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6095&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 15/10/2026
+ID: 6100
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6100&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 16/10/2026
 Hora inicio: 08:00
-Hora fin: 14:00
-Distrito: Yura, de Yura
-Zona afectada: Urbanizaciones del distrito de Yura: Balneario de Yura, El Filtro, Porvenir de Yura, Pueblo de Yura, Pueblo La Estacion de Yura.
-Motivo: Mantenimiento de las líneas de media tensión.
-Ubicación: Circuito : P. Yura desde REC - 080306.
+Hora fin: 15:00
+Distrito: Samuel Pastor
+Zona afectada: Urbanizaciones del Distrito Samuel Pastor: A.H. Alta Vista, A.H. Alto Luren, A.H. Taller Huaco, Aa.Hh. Bella Union, Almirante Grau, Alto Buenos Aires, Centro Poblado Linares, Cristo Rey, Habitad For Humanity, La Rinconada, Los Olivos, Pueblo Nuevo, Señor de Luren, Villa Don Jorge, Villa Mrina, Virgen de La Candelaria.
+Motivo: Obra: “Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa”.
+Ubicación: Circuito : [4007] CRISTO REY.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 9193, 9192, 9118, 9119, 9169, 9129, 9226, 9227, 9228, 9225, 9224, 9223, 9222, 9231, 9266, 9274, 9275, 9289, 9290, 9306, 9307, 9318, 9333, 9340, 9341, 9330, 9331, 9369.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+VIERNES, 16 DE OCTUBRE DE 2026:
+Circuito : [4007] CRISTO REY.
+Hora : 08:00 a 15:00 Hrs.
+Motivo : Obra: “Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa”.
+Zonas : Urbanizaciones del Distrito Samuel Pastor: A.H. Alta Vista, A.H. Alto Luren, A.H. Taller Huaco, Aa.Hh. Bella Union, Almirante Grau, Alto Buenos Aires, Centro Poblado Linares, Cristo Rey, Habitad For Humanity, La Rinconada, Los Olivos, Pueblo Nuevo, Señor de Luren, Villa Don Jorge, Villa Mrina, Virgen de La Candelaria.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9193, 9192, 9118, 9119, 9169, 9129, 9226, 9227, 9228, 9225, 9224, 9223, 9222, 9231, 9266, 9274, 9275, 9289, 9290, 9306, 9307, 9318, 9333, 9340, 9341, 9330, 9331, 9369.
+
+====================================================================================================
+ID: 6101
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6101&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 16/10/2026
+Hora inicio: 08:00
+Hora fin: 11:00
+Distrito: Mariscal Cáceres, de Mariscal Cáceres
+Zona afectada: Urbanizaciones del distrito de Mariscal Cáceres: A.H. Jahuay, San Isidro, Santa Elizabeth, Villa Hermosa.
+Motivo: Obra: “Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa”.
+Ubicación: Circuito : Jahuay desde REC - 200452.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 9269, 9268, 5271, 9327, 9321, 9324, 9215, 9335, 9211, 9345, 9378, 9280, 9384, 9392, 9405, 9237, 9236, 9235, 9248, 9247, 9203, 9202, 10281, 10291.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+VIERNES, 16 DE OCTUBRE DE 2026:
+Circuito : Jahuay desde REC - 200452.
+Hora : 08:00 a 11:00 Hrs.
+Motivo : Obra: “Ampliación de redes de distribución primaria, secundaria y alumbrado público en 07 localidades ubicadas entre las provincias de Camaná, Caylloma y Arequipa dentro de la región de Arequipa”.
+Zonas afectadas: Urbanizaciones del distrito de Mariscal Cáceres: A.H. Jahuay, San Isidro, Santa Elizabeth, Villa Hermosa.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9269, 9268, 5271, 9327, 9321, 9324, 9215, 9335, 9211, 9345, 9378, 9280, 9384, 9392, 9405, 9237, 9236, 9235, 9248, 9247, 9203, 9202, 10281, 10291.
+
+====================================================================================================
+ID: 6097
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6097&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 18/10/2026
+Hora inicio: 07:00
+Hora fin: 16:00
+Distrito: Mollendo, de Mollendo
+Zona afectada: Urbanizaciones del distrito de Mollendo: 7 de Junio, El Mirador Al Pacifico, La Florida, La Victoria, Las Ambarinas, Las Antenas, Luz y Fuerza, Nueva Generación, Nuevo Peru, Progreso, Villa Lourdes 1 Etapa, Villa Lourdes 2 Etapa, Zona Industrial Municipal.
+Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
+Ubicación: Circuito : La Florida desde REC - 200284.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 8063, 8004, 8256, 8072, 8056, 8055, 8065, 8459, 8281, 8067, 8066, 8068, 8069, 8071, 8374, 8064, 8226, 8579, 8745, 8073.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+DOMINGO, 18 DE OCTUBRE DE 2026:
+Circuito : La Florida desde REC - 200284.
+Hora : 07:00 a 16:00 Hrs.
+Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
+Zonas afectadas: Urbanizaciones del distrito de Mollendo: 7 de Junio, El Mirador Al Pacifico, La Florida, La Victoria, Las Ambarinas, Las Antenas, Luz y Fuerza, Nueva Generación, Nuevo Peru, Progreso, Villa Lourdes 1 Etapa, Villa Lourdes 2 Etapa, Zona Industrial Municipal.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8063, 8004, 8256, 8072, 8056, 8055, 8065, 8459, 8281, 8067, 8066, 8068, 8069, 8071, 8374, 8064, 8226, 8579, 8745, 8073.
+
+====================================================================================================
+ID: 6098
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6098&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 18/10/2026
+Hora inicio: 07:00
+Hora fin: 16:00
+Distrito: Mollendo, de Mollendo
+Zona afectada: Urbanizaciones del distrito de Mollendo: Alto Bellavista, Alto San Martin, Apvis Los Olivos del Puerto, Bellavista, Los Pinos, Obreros Municipales, San Martin, Villa Lourdes 2 Etapa, Villa Magisterial.
+Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
+Ubicación: Circuito : Hospital desde REC - 200136.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 8083, 8082, 8084, 8075, 8589, 8077, 8078, 8076, 8081, 8588, 8074, 8391, 8080, 8079, 10296, 8333, 8381, 8407, 8690, 8336, 8349, 8572, 10030.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+DOMINGO, 18 DE OCTUBRE DE 2026:
+Circuito : Hospital desde REC - 200136.
+Hora : 07:00 a 16:00 Hrs.
+Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
+Zonas afectadas: Urbanizaciones del distrito de Mollendo: Alto Bellavista, Alto San Martin, Apvis Los Olivos del Puerto, Bellavista, Los Pinos, Obreros Municipales, San Martin, Villa Lourdes 2 Etapa, Villa Magisterial.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8083, 8082, 8084, 8075, 8589, 8077, 8078, 8076, 8081, 8588, 8074, 8391, 8080, 8079, 10296, 8333, 8381, 8407, 8690, 8336, 8349, 8572, 10030.
+
+====================================================================================================
+ID: 6096
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6096&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 18/10/2026
+Hora inicio: 08:00
+Hora fin: 10:00
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Aptasa, Centro Comercial Las Malvinas, Cooperativa Ex San Jose Obrero, La Cuarentenaria, Parque Industrial Rio Seco, Rio Seco, Santa Maria.
+Motivo: Cambio de equipo de maniobra.
+Ubicación: Circuito : Rio Seco desde BC - 080104.
 Título: MANTENIMIENTO DE REDES.
-Subestaciones: 3492, 3491, 3707, 3571, 4207, 3490, 4589, 4994.
+Subestaciones: 5814, 2034, 1492, 3367, 2670, 3607, 10218, 5335, 2544, 2687, 3383, 5637, 5334, 5685, 1897, 4972, 1978, 2642, 5326, 1386, 2641, 3773, 3948, 3725, 2226, 4175, 4303, 4304, 1940, 4487, 4489, 4557, 4899, 4990, 3462, 5166, 5035, 5053, 5342, 5344, 5343, 5580, 5581, 5392, 5634, 5638, 5672, 5200, 5790, 5770, 2643, 10213, 4001, 10285, 5898.
 Fuente extracción: DISPFORM_REQUESTS
 
 Descripción completa:
 MANTENIMIENTO DE REDES.
-JUEVES, 15 DE OCTUBRE DE 2026:
-Circuito : P. Yura desde REC - 080306.
-Hora : 08:00 a 14:00 Hrs.
-Motivo : Mantenimiento de las líneas de media tensión.
-Zonas afectadas: Urbanizaciones del distrito de Yura: Balneario de Yura, El Filtro, Porvenir de Yura, Pueblo de Yura, Pueblo La Estacion de Yura.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3492, 3491, 3707, 3571, 4207, 3490, 4589, 4994.
+DOMINGO, 18 DE OCTUBRE DE 2026:
+Circuito : Rio Seco desde BC - 080104.
+Hora : 08:00 a 10:00 Hrs.
+Motivo : Cambio de equipo de maniobra.
+Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Aptasa, Centro Comercial Las Malvinas, Cooperativa Ex San Jose Obrero, La Cuarentenaria, Parque Industrial Rio Seco, Rio Seco, Santa Maria.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 5814, 2034, 1492, 3367, 2670, 3607, 10218, 5335, 2544, 2687, 3383, 5637, 5334, 5685, 1897, 4972, 1978, 2642, 5326, 1386, 2641, 3773, 3948, 3725, 2226, 4175, 4303, 4304, 1940, 4487, 4489, 4557, 4899, 4990, 3462, 5166, 5035, 5053, 5342, 5344, 5343, 5580, 5581, 5392, 5634, 5638, 5672, 5200, 5790, 5770, 2643, 10213, 4001, 10285, 5898.
+
+====================================================================================================
+ID: 6099
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6099&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 18/10/2026
+Hora inicio: 08:00
+Hora fin: 16:00
+Distrito: Mollendo, de Mollendo
+Zona afectada: Urbanizaciones del distrito de Mollendo: Apiamo, Bellavista, Catarindo, Centenario, Cercado de Mollendo, Estibadores, Inclán, La Florida, Los Delfines de Mollendo, Los Tres Portales, San Agustín Arvidunsa, Señor del Rímac.
+Motivo: Mantenimiento del transformador de potencia y line de transmisión.
+Ubicación: LÍNEA : [L-3031] BASE ISLAY-MOLLENDO. SET : [31] MOLLENDO.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 8062, 8255, 8054, 8057, 8053, 8000, 8058, 8030, 8042, 8233, 8010, 8009, 8013, 8015, 8016, 8018, 8019, 8023, 8024, 8025, 8031, 8026, 8003, 8001, 8033, 8021, 8045, 8050, 8051, 8052, 8047, 8046, 8262, 8269, 8006, 8287, 8032, 8011, 8022, 8027, 8002, 8028, 8048, 8049, 8034, 8005, 8343, 8368, 8369, 8403, 8404, 8409, 8417, 8420, 8446, 8445, 8458, 8437, 8461, 8462, 8487, 8488, 8566, 8477, 8500, 8501, 8562, 8576, 8578, 8476, 8603, 8608, 8635, 8640, 8606, 8714, 8029, 8390, 8408, 8428, 8540.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 18 DE OCTUBRE DE 2026:
+LÍNEA : [L-3031] BASE ISLAY-MOLLENDO.
+SET : [31] MOLLENDO.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento del transformador de potencia y line de transmisión.
+Zonas afectadas: Urbanizaciones del distrito de Mollendo: Apiamo, Bellavista, Catarindo, Centenario, Cercado de Mollendo, Estibadores, Inclán, La Florida, Los Delfines de Mollendo, Los Tres Portales, San Agustín Arvidunsa, Señor del Rímac.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 8062, 8255, 8054, 8057, 8053, 8000, 8058, 8030, 8042, 8233, 8010, 8009, 8013, 8015, 8016, 8018, 8019, 8023, 8024, 8025, 8031, 8026, 8003, 8001, 8033, 8021, 8045, 8050, 8051, 8052, 8047, 8046, 8262, 8269, 8006, 8287, 8032, 8011, 8022, 8027, 8002, 8028, 8048, 8049, 8034, 8005, 8343, 8368, 8369, 8403, 8404, 8409, 8417, 8420, 8446, 8445, 8458, 8437, 8461, 8462, 8487, 8488, 8566, 8477, 8500, 8501, 8562, 8576, 8578, 8476, 8603, 8608, 8635, 8640, 8606, 8714, 8029, 8390, 8408, 8428, 8540.
+
+====================================================================================================
+ID: 6102
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6102&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 20/10/2026
+Hora inicio: 07:05
+Hora fin: 15:05
+Distrito: Majes, de Majes
+Zona afectada: Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo B Sector 2, Ciudad de Majes Modulo F, El Paraiso, Modulo E Sector 2, Nuevo Horizonte.
+Motivo: Mantenimiento de redes de media tensión (cambio de terminales, limpieza de aisladores, podado de árboles).
+Ubicación: Circuito : Pitay desde CC - 950326.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 6511, 6513, 6507, 6502, 6512, 6503, 8970, 8971, 8972, 8526, 8760, 8761, 8762.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 20 DE OCTUBRE DE 2026:
+Circuito : Pitay desde CC - 950326.
+Hora : 07:05 a 15:05 Hrs.
+Motivo : Mantenimiento de redes de media tensión (cambio de terminales, limpieza de aisladores, podado de árboles).
+Zonas afectadas: Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo B Sector 2, Ciudad de Majes Modulo F, El Paraiso, Modulo E Sector 2, Nuevo Horizonte.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6511, 6513, 6507, 6502, 6512, 6503, 8970, 8971, 8972, 8526, 8760, 8761, 8762.
+
+====================================================================================================
+ID: 6103
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6103&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 20/10/2026
+Hora inicio: 08:30
+Hora fin: 08:50
+Distrito: Sachaca, de Sachaca
+Zona afectada: Fundo Santa Rosa, Mz. A de Urb. Pampa de Camarones (Distrito de Sachaca).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 2988.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 20 DE OCTUBRE DE 2026.
+Circuito : SED 2988.
+Hora : 08:30 a 08:50 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Fundo Santa Rosa, Mz. A de Urb. Pampa de Camarones (Distrito de Sachaca).
+
+====================================================================================================
+ID: 6104
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6104&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 20/10/2026
+Hora inicio: 11:00
+Hora fin: 11:20
+Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
+Zona afectada: Mz. B-C-D-E-F-G-J de Urb. San Basilio (Distrito de Jose Luis Bustamante y Rivero).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 10337.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 20 DE OCTUBRE DE 2026.
+Circuito : SED 10337.
+Hora : 11:00 a 11:20 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. B-C-D-E-F-G-J de Urb. San Basilio (Distrito de Jose Luis Bustamante y Rivero).
+
+====================================================================================================
+ID: 6105
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6105&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 20/10/2026
+Hora inicio: 11:50
+Hora fin: 12:10
+Distrito: Arequipa, de Arequipa
+Zona afectada: Mz. A-B-D-F-G de Urb. Alvarez Thomas (Distrito de Arequipa).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 1294.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 20 DE OCTUBRE DE 2026.
+Circuito : SED 1294.
+Hora : 11:50 a 12:10 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. A-B-D-F-G de Urb. Alvarez Thomas (Distrito de Arequipa).
+
+====================================================================================================
+ID: 6106
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6106&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 20/10/2026
+Hora inicio: 14:00
+Hora fin: 14:20
+Distrito: Paucarpata, de Paucarpata
+Zona afectada: Mz. K-N-Ñ-Q-R de Urb. Santo Domingo y San Bernardo (Distrito de Paucarpata).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 2273.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MARTES, 20 DE OCTUBRE DE 2026.
+Circuito : SED 2273.
+Hora : 14:00 a 14:20 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Mz. K-N-Ñ-Q-R de Urb. Santo Domingo y San Bernardo (Distrito de Paucarpata).
+
+====================================================================================================
+ID: 6112
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6112&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 21/10/2026
+Hora inicio: 06:00
+Hora fin: 15:00
+Distrito: San Juan de Siguas, Santa Isabel de Siguas, de San Juan de Siguas, de Santa Isabel de Siguas
+Zona afectada: Urbanizaciones del distrito de San Juan de Siguas: Tambillo. Urbanizaciones del distrito de Santa Isabel de Siguas: Los Geranios, Santa Isabel de Siguas.
+Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
+Ubicación: Circuito : La Colina desde REC - 950145.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 6141, 6139, 6140, 6138, 6611, 6147, 6145, 6143, 6142, 6151, 6620, 6148, 8838, 6293, 6971, 6447, 6150, 10121, 6144, 6295, 6452, 6449, 6618, 7671, 7710, 8837, 8866, 8894, 6149, 8892, 8580, 8605.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+MIERCOLES, 21 DE OCTUBRE DE 2026:
+Circuito : La Colina desde REC - 950145.
+Hora : 06:00 a 15:00 Hrs.
+Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
+Zonas afectadas: Urbanizaciones del distrito de San Juan de Siguas: Tambillo. Urbanizaciones del distrito de Santa Isabel de Siguas: Los Geranios, Santa Isabel de Siguas.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6141, 6139, 6140, 6138, 6611, 6147, 6145, 6143, 6142, 6151, 6620, 6148, 8838, 6293, 6971, 6447, 6150, 10121, 6144, 6295, 6452, 6449, 6618, 7671, 7710, 8837, 8866, 8894, 6149, 8892, 8580, 8605.
+
+====================================================================================================
+ID: 6111
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6111&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 21/10/2026
+Hora inicio: 08:00
+Hora fin: 15:00
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Urbanizaciones del distrito de Cerro Colorado: La Cabaña, Peruano-Argentino-Boliviano Zona II-III.
+Motivo: Mantenimiento de redes en media tensión (subsanación de deficiencias en media tensión).
+Ubicación: Circuito : [808] AUTOPISTA.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 3984, 3854, 3871, 3806, 3897, 1838, 3705, 1349, 2464, 1829, 1837, 1836, 1839, 1841, 2685, 2684, 3789, 3889, 3887, 4025, 4027, 4026, 4080, 4202, 4233, 4234, 4221, 4239, 4290, 4289, 4291, 4462, 4476, 4477, 4543, 4653, 4753, 4949, 5032, 5007, 5174, 5169, 5270, 5263, 5375, 5410, 5422, 5586, 5601, 5584, 5515, 5407, 5628, 5602, 5408, 5170, 5745, 5783, 5784, 5786, 5798, 10172, 5988, 5989, 5990, 5991.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+MIÉRCOLES, 21 DE OCTUBRE DE 2026:
+Circuito : [808] AUTOPISTA.
+Hora : 08:00 a 15:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión (subsanación de deficiencias en media tensión).
+Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: La Cabaña, Peruano-Argentino-Boliviano Zona II-III.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3984, 3854, 3871, 3806, 3897, 1838, 3705, 1349, 2464, 1829, 1837, 1836, 1839, 1841, 2685, 2684, 3789, 3889, 3887, 4025, 4027, 4026, 4080, 4202, 4233, 4234, 4221, 4239, 4290, 4289, 4291, 4462, 4476, 4477, 4543, 4653, 4753, 4949, 5032, 5007, 5174, 5169, 5270, 5263, 5375, 5410, 5422, 5586, 5601, 5584, 5515, 5407, 5628, 5602, 5408, 5170, 5745, 5783, 5784, 5786, 5798, 10172, 5988, 5989, 5990, 5991.
+
+====================================================================================================
+ID: 6110
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6110&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 22/10/2026
+Hora inicio: 05:00
+Hora fin: 05:30
+Distrito: Arequipa, de Arequipa
+Zona afectada: Cuadra 1 de Calle San Camilo (Distrito de Arequipa).
+Motivo: Cambio de posición del conmutador.
+Ubicación: Circuito : SED 3586.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+JUEVES, 22 DE OCTUBRE DE 2026.
+Circuito : SED 3586.
+Hora : 05:00 a 05:30 Hrs.
+Motivo : Cambio de posición del conmutador.
+Zonas afectadas: Cuadra 1 de Calle San Camilo (Distrito de Arequipa).
+
+====================================================================================================
+ID: 6107
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6107&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 22/10/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Urb. Los Sauces (Distrito de Cerro Colorado).
+Motivo: Mantenimiento de la subestación.
+Ubicación: Circuito : SED 3645.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+JUEVES, 22 DE OCTUBRE DE 2026.
+Circuito : SED 3645.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento de la subestación.
+Zonas afectadas: Urb. Los Sauces (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 6108
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6108&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 22/10/2026
+Hora inicio: 08:00
+Hora fin: 12:30
+Distrito: Cerro Colorado, de Cerro Colorado
+Zona afectada: Mz. A-B-C-D de Urb. Casabella (Distrito de Cerro Colorado).
+Motivo: Mantenimiento de la subestación.
+Ubicación: Circuito : SED 3553.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+JUEVES, 22 DE OCTUBRE DE 2026.
+Circuito : SED 3553.
+Hora : 08:00 a 12:30 Hrs.
+Motivo : Mantenimiento de la subestación.
+Zonas afectadas: Mz. A-B-C-D de Urb. Casabella (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 6109
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6109&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 22/10/2026
+Hora inicio: 08:00
+Hora fin: 13:00
+Distrito: Mariano Melgar, de Mariano Melgar
+Zona afectada: Cuadra 8 de la Av. Perú, Cuadra 6-7 de Av. Nicolas de Pierola (Distrito de Mariano Melgar).
+Motivo: Cambio de tablero de distribución.
+Ubicación: Circuito : SED 3079.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+JUEVES, 22 DE OCTUBRE DE 2026.
+Circuito : SED 3079.
+Hora : 08:00 a 13:00 Hrs.
+Motivo : Cambio de tablero de distribución.
+Zonas afectadas: Cuadra 8 de la Av. Perú, Cuadra 6-7 de Av. Nicolas de Pierola (Distrito de Mariano Melgar).
