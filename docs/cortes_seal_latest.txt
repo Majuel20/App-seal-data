@@ -1,129 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-21 15:18:53
+fecha_ejecucion: 2026-10-22 15:19:45
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-21
-fecha_inicio: 2026-10-20
-fecha_fin: 2026-11-20
+fecha_base: 2026-10-22
+fecha_inicio: 2026-10-21
+fecha_fin: 2026-11-21
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 56
 eventos_totales_extraidos: 56
-eventos_guardados_en_rango: 22
+eventos_guardados_en_rango: 17
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6102
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6102&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/10/2026
-Hora inicio: 07:05
-Hora fin: 15:05
-Distrito: Majes, de Majes
-Zona afectada: Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo B Sector 2, Ciudad de Majes Modulo F, El Paraiso, Modulo E Sector 2, Nuevo Horizonte.
-Motivo: Mantenimiento de redes de media tensión (cambio de terminales, limpieza de aisladores, podado de árboles).
-Ubicación: Circuito : Pitay desde CC - 950326.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 6511, 6513, 6507, 6502, 6512, 6503, 8970, 8971, 8972, 8526, 8760, 8761, 8762.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026:
-Circuito : Pitay desde CC - 950326.
-Hora : 07:05 a 15:05 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de terminales, limpieza de aisladores, podado de árboles).
-Zonas afectadas: Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo B Sector 2, Ciudad de Majes Modulo F, El Paraiso, Modulo E Sector 2, Nuevo Horizonte.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6511, 6513, 6507, 6502, 6512, 6503, 8970, 8971, 8972, 8526, 8760, 8761, 8762.
-
-====================================================================================================
-ID: 6103
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6103&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/10/2026
-Hora inicio: 08:30
-Hora fin: 08:50
-Distrito: Sachaca, de Sachaca
-Zona afectada: Fundo Santa Rosa, Mz. A de Urb. Pampa de Camarones (Distrito de Sachaca).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 2988.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026.
-Circuito : SED 2988.
-Hora : 08:30 a 08:50 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Fundo Santa Rosa, Mz. A de Urb. Pampa de Camarones (Distrito de Sachaca).
-
-====================================================================================================
-ID: 6104
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6104&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/10/2026
-Hora inicio: 11:00
-Hora fin: 11:20
-Distrito: Jose Luis Bustamante, Rivero, de Jose Luis Bustamante
-Zona afectada: Mz. B-C-D-E-F-G-J de Urb. San Basilio (Distrito de Jose Luis Bustamante y Rivero).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 10337.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026.
-Circuito : SED 10337.
-Hora : 11:00 a 11:20 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. B-C-D-E-F-G-J de Urb. San Basilio (Distrito de Jose Luis Bustamante y Rivero).
-
-====================================================================================================
-ID: 6105
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6105&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/10/2026
-Hora inicio: 11:50
-Hora fin: 12:10
-Distrito: Arequipa, de Arequipa
-Zona afectada: Mz. A-B-D-F-G de Urb. Alvarez Thomas (Distrito de Arequipa).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 1294.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026.
-Circuito : SED 1294.
-Hora : 11:50 a 12:10 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. A-B-D-F-G de Urb. Alvarez Thomas (Distrito de Arequipa).
-
-====================================================================================================
-ID: 6106
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6106&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 20/10/2026
-Hora inicio: 14:00
-Hora fin: 14:20
-Distrito: Paucarpata, de Paucarpata
-Zona afectada: Mz. K-N-Ñ-Q-R de Urb. Santo Domingo y San Bernardo (Distrito de Paucarpata).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 2273.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026.
-Circuito : SED 2273.
-Hora : 14:00 a 14:20 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. K-N-Ñ-Q-R de Urb. Santo Domingo y San Bernardo (Distrito de Paucarpata).
 
 ====================================================================================================
 ID: 6112

@@ -1,35 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6102,20/10/2026,07:05,15:05,"Majes, de Majes","Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo B Sector 2, Ciudad de Majes Modulo F, El Paraiso, Modulo E Sector 2, Nuevo Horizonte.","Mantenimiento de redes de media tensión (cambio de terminales, limpieza de aisladores, podado de árboles).",Circuito : Pitay desde CC - 950326.,MANTENIMIENTO DE REDES.,"6511, 6513, 6507, 6502, 6512, 6503, 8970, 8971, 8972, 8526, 8760, 8761, 8762.","MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026:
-Circuito : Pitay desde CC - 950326.
-Hora : 07:05 a 15:05 Hrs.
-Motivo : Mantenimiento de redes de media tensión (cambio de terminales, limpieza de aisladores, podado de árboles).
-Zonas afectadas: Urbanizaciones del distrito de Majes: Ciudad de Majes Modulo B Sector 2, Ciudad de Majes Modulo F, El Paraiso, Modulo E Sector 2, Nuevo Horizonte.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6511, 6513, 6507, 6502, 6512, 6503, 8970, 8971, 8972, 8526, 8760, 8761, 8762.",,,,,Evento,el 16/10/2026 17:33 por Cuenta del sistema,16/10/2026 17:33,Cuenta del sistema,Cuenta del sistema,20/10/2026 7:05,20/10/2026 15:05,2026-10-20T07:05:00,2026-10-20T15:05:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6102&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,82bf4faf5ded6db465c0745defc3930a696e88d4d33ddf0f210ccd0de0777097
-6103,20/10/2026,08:30,08:50,"Sachaca, de Sachaca","Fundo Santa Rosa, Mz. A de Urb. Pampa de Camarones (Distrito de Sachaca).",Cambio de posición del conmutador.,Circuito : SED 2988.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026.
-Circuito : SED 2988.
-Hora : 08:30 a 08:50 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Fundo Santa Rosa, Mz. A de Urb. Pampa de Camarones (Distrito de Sachaca).",,,,,Evento,el 16/10/2026 17:34 por Cuenta del sistema,16/10/2026 17:34,Cuenta del sistema,Cuenta del sistema,20/10/2026 8:30,20/10/2026 8:50,2026-10-20T08:30:00,2026-10-20T08:50:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6103&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,f0d91a010a540a1e80128ca22b7b8d75f685b3faedf907a0db23e1bbef52a91a
-6104,20/10/2026,11:00,11:20,"Jose Luis Bustamante, Rivero, de Jose Luis Bustamante",Mz. B-C-D-E-F-G-J de Urb. San Basilio (Distrito de Jose Luis Bustamante y Rivero).,Cambio de posición del conmutador.,Circuito : SED 10337.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026.
-Circuito : SED 10337.
-Hora : 11:00 a 11:20 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. B-C-D-E-F-G-J de Urb. San Basilio (Distrito de Jose Luis Bustamante y Rivero).",,,,,Evento,el 16/10/2026 17:34 por Cuenta del sistema,16/10/2026 17:34,Cuenta del sistema,Cuenta del sistema,20/10/2026 11:00,20/10/2026 11:20,2026-10-20T11:00:00,2026-10-20T11:20:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6104&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,51490abb4e2fdad5b9baa4104f7c32f8304c90ecf9bae88db576055162e3d58f
-6105,20/10/2026,11:50,12:10,"Arequipa, de Arequipa",Mz. A-B-D-F-G de Urb. Alvarez Thomas (Distrito de Arequipa).,Cambio de posición del conmutador.,Circuito : SED 1294.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026.
-Circuito : SED 1294.
-Hora : 11:50 a 12:10 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. A-B-D-F-G de Urb. Alvarez Thomas (Distrito de Arequipa).",,,,,Evento,el 16/10/2026 17:35 por Cuenta del sistema,16/10/2026 17:35,Cuenta del sistema,Cuenta del sistema,20/10/2026 11:50,20/10/2026 12:10,2026-10-20T11:50:00,2026-10-20T12:10:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6105&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,7d988d85147c853dabc84fee8bb12cdaaec86331eb4eeab6bc9be34c7b81d6db
-6106,20/10/2026,14:00,14:20,"Paucarpata, de Paucarpata",Mz. K-N-Ñ-Q-R de Urb. Santo Domingo y San Bernardo (Distrito de Paucarpata).,Cambio de posición del conmutador.,Circuito : SED 2273.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-MARTES, 20 DE OCTUBRE DE 2026.
-Circuito : SED 2273.
-Hora : 14:00 a 14:20 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Mz. K-N-Ñ-Q-R de Urb. Santo Domingo y San Bernardo (Distrito de Paucarpata).",,,,,Evento,el 16/10/2026 17:36 por Cuenta del sistema,16/10/2026 17:36,Cuenta del sistema,Cuenta del sistema,20/10/2026 14:00,20/10/2026 14:20,2026-10-20T14:00:00,2026-10-20T14:20:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6106&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,0dc0b5a6576d0ca862495ca0bfc716c87f0654909fb6561e21a349396ebb9314
 6112,21/10/2026,06:00,15:00,"San Juan de Siguas, Santa Isabel de Siguas, de San Juan de Siguas, de Santa Isabel de Siguas","Urbanizaciones del distrito de San Juan de Siguas: Tambillo. Urbanizaciones del distrito de Santa Isabel de Siguas: Los Geranios, Santa Isabel de Siguas.",Instalación de nuevo equipo de protección y maniobra (recloser).,Circuito : La Colina desde REC - 950145.,REFORZAMIENTO DE REDES.,"6141, 6139, 6140, 6138, 6611, 6147, 6145, 6143, 6142, 6151, 6620, 6148, 8838, 6293, 6971, 6447, 6150, 10121, 6144, 6295, 6452, 6449, 6618, 7671, 7710, 8837, 8866, 8894, 6149, 8892, 8580, 8605.","REFORZAMIENTO DE REDES.
 MIERCOLES, 21 DE OCTUBRE DE 2026:
 Circuito : La Colina desde REC - 950145.
