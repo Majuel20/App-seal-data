@@ -1,64 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-22 15:19:45
+fecha_ejecucion: 2026-10-23 15:09:02
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-22
-fecha_inicio: 2026-10-21
-fecha_fin: 2026-11-21
+fecha_base: 2026-10-23
+fecha_inicio: 2026-10-22
+fecha_fin: 2026-11-22
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
-ids_detectados: 56
-eventos_totales_extraidos: 56
-eventos_guardados_en_rango: 17
+ids_detectados: 63
+eventos_totales_extraidos: 63
+eventos_guardados_en_rango: 22
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6112
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6112&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 21/10/2026
-Hora inicio: 06:00
-Hora fin: 15:00
-Distrito: San Juan de Siguas, Santa Isabel de Siguas, de San Juan de Siguas, de Santa Isabel de Siguas
-Zona afectada: Urbanizaciones del distrito de San Juan de Siguas: Tambillo. Urbanizaciones del distrito de Santa Isabel de Siguas: Los Geranios, Santa Isabel de Siguas.
-Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
-Ubicación: Circuito : La Colina desde REC - 950145.
-Título: REFORZAMIENTO DE REDES.
-Subestaciones: 6141, 6139, 6140, 6138, 6611, 6147, 6145, 6143, 6142, 6151, 6620, 6148, 8838, 6293, 6971, 6447, 6150, 10121, 6144, 6295, 6452, 6449, 6618, 7671, 7710, 8837, 8866, 8894, 6149, 8892, 8580, 8605.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-REFORZAMIENTO DE REDES.
-MIERCOLES, 21 DE OCTUBRE DE 2026:
-Circuito : La Colina desde REC - 950145.
-Hora : 06:00 a 15:00 Hrs.
-Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
-Zonas afectadas: Urbanizaciones del distrito de San Juan de Siguas: Tambillo. Urbanizaciones del distrito de Santa Isabel de Siguas: Los Geranios, Santa Isabel de Siguas.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 6141, 6139, 6140, 6138, 6611, 6147, 6145, 6143, 6142, 6151, 6620, 6148, 8838, 6293, 6971, 6447, 6150, 10121, 6144, 6295, 6452, 6449, 6618, 7671, 7710, 8837, 8866, 8894, 6149, 8892, 8580, 8605.
-
-====================================================================================================
-ID: 6111
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6111&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 21/10/2026
-Hora inicio: 08:00
-Hora fin: 15:00
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urbanizaciones del distrito de Cerro Colorado: La Cabaña, Peruano-Argentino-Boliviano Zona II-III.
-Motivo: Mantenimiento de redes en media tensión (subsanación de deficiencias en media tensión).
-Ubicación: Circuito : [808] AUTOPISTA.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 3984, 3854, 3871, 3806, 3897, 1838, 3705, 1349, 2464, 1829, 1837, 1836, 1839, 1841, 2685, 2684, 3789, 3889, 3887, 4025, 4027, 4026, 4080, 4202, 4233, 4234, 4221, 4239, 4290, 4289, 4291, 4462, 4476, 4477, 4543, 4653, 4753, 4949, 5032, 5007, 5174, 5169, 5270, 5263, 5375, 5410, 5422, 5586, 5601, 5584, 5515, 5407, 5628, 5602, 5408, 5170, 5745, 5783, 5784, 5786, 5798, 10172, 5988, 5989, 5990, 5991.
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-MIÉRCOLES, 21 DE OCTUBRE DE 2026:
-Circuito : [808] AUTOPISTA.
-Hora : 08:00 a 15:00 Hrs.
-Motivo : Mantenimiento de redes en media tensión (subsanación de deficiencias en media tensión).
-Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: La Cabaña, Peruano-Argentino-Boliviano Zona II-III.
-Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3984, 3854, 3871, 3806, 3897, 1838, 3705, 1349, 2464, 1829, 1837, 1836, 1839, 1841, 2685, 2684, 3789, 3889, 3887, 4025, 4027, 4026, 4080, 4202, 4233, 4234, 4221, 4239, 4290, 4289, 4291, 4462, 4476, 4477, 4543, 4653, 4753, 4949, 5032, 5007, 5174, 5169, 5270, 5263, 5375, 5410, 5422, 5586, 5601, 5584, 5515, 5407, 5628, 5602, 5408, 5170, 5745, 5783, 5784, 5786, 5798, 10172, 5988, 5989, 5990, 5991.
 
 ====================================================================================================
 ID: 6110
@@ -136,7 +90,7 @@ Distrito: Mariano Melgar, de Mariano Melgar
 Zona afectada: Cuadra 8 de la Av. Perú, Cuadra 6-7 de Av. Nicolas de Pierola (Distrito de Mariano Melgar).
 Motivo: Cambio de tablero de distribución.
 Ubicación: Circuito : SED 3079.
-Título: MANTENIMIENTO DE REDES.
+Título: MANTENIMIENTO DE REDES. SUSPENDIDO
 Subestaciones: 
 Fuente extracción: DISPFORM_REQUESTS
 
@@ -396,3 +350,167 @@ Circuito : SED 1893.
 Hora : 12:10 a 12:30 Hrs.
 Motivo : Cambio de posición del conmutador.
 Zonas afectadas: Mz. A-B-C-D de Urb. Villa Canteras (Distrito de Cerro Colorado).
+
+====================================================================================================
+ID: 6128
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6128&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/10/2026
+Hora inicio: 07:00
+Hora fin: 16:00
+Distrito: Atiquipa, Yauca, de Atiquipa, de Yauca
+Zona afectada: Urbanizaciones del distrito de Atiquipa: Agua Salada, Atiquipa, Santa Rosa. Urbanizaciones del distrito de Yauca: Tanaka.
+Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
+Ubicación: Circuito : Agua Salada desde REC - 560244.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 9638, 9379, 9637, 9647, 9650, 9649, 9639, 9818, 9875, 9876, 9636, 9976, 10159.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+DOMINGO, 25 DE OCTUBRE DE 2026:
+Circuito : Agua Salada desde REC - 560244.
+Hora : 07:00 a 16:00 Hrs.
+Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
+Zonas afectadas: Urbanizaciones del distrito de Atiquipa: Agua Salada, Atiquipa, Santa Rosa. Urbanizaciones del distrito de Yauca: Tanaka.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9638, 9379, 9637, 9647, 9650, 9649, 9639, 9818, 9875, 9876, 9636, 9976, 10159.
+
+====================================================================================================
+ID: 6129
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6129&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/10/2026
+Hora inicio: 07:00
+Hora fin: 16:00
+Distrito: Chala, de Chala
+Zona afectada: Urbanizaciones del distrito de Chala: Imperial La Aguadita.
+Motivo: Instalación de nuevo equipo de protección y maniobra (recloser).
+Ubicación: Circuito : Manuel Prado desde SF6 - 200173.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 9869, 10257, 9983, 10166, 9798, 9382, 9404.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+DOMINGO, 25 DE OCTUBRE DE 2026:
+Circuito : Manuel Prado desde SF6 - 200173.
+Hora : 07:00 a 16:00 Hrs.
+Motivo : Instalación de nuevo equipo de protección y maniobra (recloser).
+Zonas afectadas: Urbanizaciones del distrito de Chala: Imperial La Aguadita.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 9869, 10257, 9983, 10166, 9798, 9382, 9404.
+
+====================================================================================================
+ID: 6130
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6130&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/10/2026
+Hora inicio: 07:00
+Hora fin: 14:00
+Distrito: Pampamarca, de Pampamarca
+Zona afectada: Urbanizaciones del distrito de Pampamarca: Cochapampa, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca.
+Motivo: Mantenimiento de redes en media tensión y podado de árboles.
+Ubicación: Circuito : Cotahuasi desde CC - 700107.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 7320, 7321, 7322, 7752, 7750, 7749, 7751.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 25 DE OCTUBRE DE 2026:
+Circuito : Cotahuasi desde CC - 700107.
+Hora : 07:00 a 14:00 Hrs.
+Motivo : Mantenimiento de redes en media tensión y podado de árboles.
+Zonas afectadas: Urbanizaciones del distrito de Pampamarca: Cochapampa, Pampamarca, Rumihuasi, Santa Rosa, Sencsincaylla, Tecca.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 7320, 7321, 7322, 7752, 7750, 7749, 7751.
+
+====================================================================================================
+ID: 6124
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6124&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/10/2026
+Hora inicio: 07:30
+Hora fin: 16:30
+Distrito: Lomas, de Lomas
+Zona afectada: PROVINCIA DE CARAVELÍ: Distrito de Lomas, Bella Unión, Acarí, Yauca, Jaquí, Atiquipa y Chala.
+Motivo: Mantenimiento de las
+Ubicación: LÍNEA : [6672] MARCONA - BELLA UNIÓN Y [6675] BELLA UNIÓN – CHALA. SET : [56] BELLA UNIÓN, [58] CHALA Y JAHUAY, [57] MARCONA (CELDA)
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 25 DE OCTUBRE DE 2026:
+LÍNEA : [6672] MARCONA - BELLA UNIÓN Y [6675] BELLA UNIÓN – CHALA.
+SET : [56] BELLA UNIÓN, [58] CHALA Y JAHUAY, [57] MARCONA (CELDA)
+Hora : 07:30 a 16:30 Hrs.
+Motivo : Mantenimiento de las subestaciones y líneas de transmisión.
+Las zonas afectadas por el corte programado serán:
+PROVINCIA DE CARAVELÍ:
+Distrito de Lomas, Bella Unión, Acarí, Yauca, Jaquí, Atiquipa y Chala.
+
+====================================================================================================
+ID: 6126
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6126&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/10/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Cerro Colorado, Yura, de Cerro Colorado, de Yura
+Zona afectada: Urbanizaciones del distrito de Cerro Colorado: Ampliación Hijos Ciudad de Dios, Apiaar, Apima II La Alborada Cerro Colorado, Apipa Sector II, Apipa Sector III, Apipa Sector IV, Ciudad de Dios Zona 1, Granjeros Unidos I, Jose Luis Bustamante y Rivero, Los Camineros Empleados, Los Camineros Obreros, Nueva Juventud, Taller Monserrat, Taller Monserrat II Ampliación. Urbanizaciones del distrito de Yura: A.V. Villa Cristo, Ampliación Hijos Ciudad de Dios, Cap. Fap Jose Abelardo Quiñones, Ciudad de Dios Zona 1-2-3-4, Ciudad Municipal Zona 9, El Altiplano Sector 1 Zona A-B-C, El Altiplano Sector 2 Zona B, Elmer Faucett Profam Sector 1-2-3, Jose Abelardo Quiñonez II Etapa, Upis Los Milagros, Upis Los Milagros Zona I, Villa Los Milagros.
+Motivo: Mantenimiento de redes en media tensión (subsanación de deficiencias en media tensión).
+Ubicación: Circuito : Ciudad Municipal desde REC - 080216.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 3932, 3469, 3470, 2126, 1878, 1877, 2095, 2222, 2097, 2096, 1778, 3154, 1879, 2765, 2764, 3155, 3156, 2092, 2855, 3594, 3593, 3496, 2088, 2089, 2774, 2775, 2091, 2087, 3770, 2090, 2086, 1987, 2779, 2776, 2781, 2777, 2778, 2780, 2854, 3426, 3407, 3408, 3409, 3410, 3411, 3401, 3402, 3656, 3657, 3658, 3687, 2174, 3794, 1876, 4015, 4051, 4127, 4148, 4147, 4131, 4130, 4287, 4339, 4470, 4438, 4540, 4621, 4671, 4670, 4472, 4684, 4718, 4719, 4744, 4816, 4811, 4845, 4846, 4847, 4778, 4777, 4779, 5143, 5144, 5145, 5087, 5103, 5104, 5148, 5147, 5149, 5150, 4758, 5197, 5391, 5430, 5433, 5431, 5432, 5434, 5435, 5436, 5437, 5449, 5554, 5555, 5556, 5558, 5559, 5557, 5560, 5561, 5562, 5563, 5564, 5606, 5642, 5699, 5700, 5774, 5826, 5850, 5827, 10046, 5931, 10122, 10016, 10017, 10019, 10018, 10015, 10259, 10292, 5912, 5913, 10353, 5748.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 25 DE OCTUBRE DE 2026:
+Circuito : Ciudad Municipal desde REC - 080216.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Mantenimiento de redes en media tensión (subsanación de deficiencias en media tensión).
+Zonas afectadas: Urbanizaciones del distrito de Cerro Colorado: Ampliación Hijos Ciudad de Dios, Apiaar, Apima II La Alborada Cerro Colorado, Apipa Sector II, Apipa Sector III, Apipa Sector IV, Ciudad de Dios Zona 1, Granjeros Unidos I, Jose Luis Bustamante y Rivero, Los Camineros Empleados, Los Camineros Obreros, Nueva Juventud, Taller Monserrat, Taller Monserrat II Ampliación. Urbanizaciones del distrito de Yura: A.V. Villa Cristo, Ampliación Hijos Ciudad de Dios, Cap. Fap Jose Abelardo Quiñones, Ciudad de Dios Zona 1-2-3-4, Ciudad Municipal Zona 9, El Altiplano Sector 1 Zona A-B-C, El Altiplano Sector 2 Zona B, Elmer Faucett Profam Sector 1-2-3, Jose Abelardo Quiñonez II Etapa, Upis Los Milagros, Upis Los Milagros Zona I, Villa Los Milagros.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3932, 3469, 3470, 2126, 1878, 1877, 2095, 2222, 2097, 2096, 1778, 3154, 1879, 2765, 2764, 3155, 3156, 2092, 2855, 3594, 3593, 3496, 2088, 2089, 2774, 2775, 2091, 2087, 3770, 2090, 2086, 1987, 2779, 2776, 2781, 2777, 2778, 2780, 2854, 3426, 3407, 3408, 3409, 3410, 3411, 3401, 3402, 3656, 3657, 3658, 3687, 2174, 3794, 1876, 4015, 4051, 4127, 4148, 4147, 4131, 4130, 4287, 4339, 4470, 4438, 4540, 4621, 4671, 4670, 4472, 4684, 4718, 4719, 4744, 4816, 4811, 4845, 4846, 4847, 4778, 4777, 4779, 5143, 5144, 5145, 5087, 5103, 5104, 5148, 5147, 5149, 5150, 4758, 5197, 5391, 5430, 5433, 5431, 5432, 5434, 5435, 5436, 5437, 5449, 5554, 5555, 5556, 5558, 5559, 5557, 5560, 5561, 5562, 5563, 5564, 5606, 5642, 5699, 5700, 5774, 5826, 5850, 5827, 10046, 5931, 10122, 10016, 10017, 10019, 10018, 10015, 10259, 10292, 5912, 5913, 10353, 5748.
+
+====================================================================================================
+ID: 6127
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6127&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/10/2026
+Hora inicio: 07:30
+Hora fin: 15:30
+Distrito: Cerro Colorado, Tiabaya, Uchumayo, de Cerro Colorado, de Tiabaya, de Uchumayo
+Zona afectada: Urbanizaciones del Distrito de Cerro Colorado: Irrigacion El Cural Lateral 8, Urbanizaciones del Distrito de Tiabaya: Alto Cerro Verde, El Arenal, El Nazareno, Frente Al Sol, La Molina, Virgen de Las Peñas Zona A-B, Virgen Las Peñas. Urbanizaciones del Distrito de Uchumayo: Cerro Verde, Congata, El Carmen de Congata I, El Carmen II, El Huayco, El Trebol de Uchumayo, Estacion de Uchumayo, Ignacio Alvares Thomas Sector I-II, Irrigacion El Cural Lateral 7, Los Diamantes, Nueva Leticia, Pan de Azucar, Pueblo Libre, Santa Teresa Zona A, Uchumayo.
+Motivo: Cambio de postes y armados de media tensión.
+Ubicación: Circuito : [1902] CONGATA.
+Título: REFORZAMIENTO DE REDES.
+Subestaciones: 3973, 3791, 2286, 3827, 3904, 3906, 1906, 1749, 2177, 2277, 3076, 1215, 2546, 1449, 2545, 3816, 3817, 3833, 3864, 3877, 3869, 1505, 2063, 1619, 1680, 3461, 2176, 1910, 3168, 1822, 1427, 3275, 3169, 2059, 2896, 2499, 1827, 2548, 2064, 1134, 1908, 1187, 2065, 1911, 3468, 3596, 1451, 3540, 3746, 2041, 1758, 2445, 2149, 1913, 1584, 3606, 3454, 1502, 3352, 3983, 1135, 3982, 4028, 3929, 1416, 4052, 4077, 4315, 4283, 4284, 4285, 4286, 4278, 4471, 4542, 4625, 4678, 4702, 4700, 4701, 3691, 4726, 4727, 4725, 4729, 4728, 4864, 4943, 4944, 5178, 5283, 5362, 5421, 5874, 5915, 5914, 10031, 10129, 10203, 10249, 1125, 1740, 3651, 1757, 4703, 2313, 5733, 2124, 5575, 5154, 5937.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+REFORZAMIENTO DE REDES.
+DOMINGO, 25 DE OCTUBRE DE 2026:
+Circuito : [1902] CONGATA.
+Hora : 07:30 a 15:30 Hrs.
+Motivo : Cambio de postes y armados de media tensión.
+Zonas afectadas: Urbanizaciones del Distrito de Cerro Colorado: Irrigacion El Cural Lateral 8,
+Urbanizaciones del Distrito de Tiabaya: Alto Cerro Verde, El Arenal, El Nazareno, Frente Al Sol, La Molina, Virgen de Las Peñas Zona A-B, Virgen Las Peñas. Urbanizaciones del Distrito de Uchumayo: Cerro Verde, Congata, El Carmen de Congata I, El Carmen II, El Huayco, El Trebol de Uchumayo, Estacion de Uchumayo, Ignacio Alvares Thomas Sector I-II, Irrigacion El Cural Lateral 7, Los Diamantes, Nueva Leticia, Pan de Azucar, Pueblo Libre, Santa Teresa Zona A, Uchumayo.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 3973, 3791, 2286, 3827, 3904, 3906, 1906, 1749, 2177, 2277, 3076, 1215, 2546, 1449, 2545, 3816, 3817, 3833, 3864, 3877, 3869, 1505, 2063, 1619, 1680, 3461, 2176, 1910, 3168, 1822, 1427, 3275, 3169, 2059, 2896, 2499, 1827, 2548, 2064, 1134, 1908, 1187, 2065, 1911, 3468, 3596, 1451, 3540, 3746, 2041, 1758, 2445, 2149, 1913, 1584, 3606, 3454, 1502, 3352, 3983, 1135, 3982, 4028, 3929, 1416, 4052, 4077, 4315, 4283, 4284, 4285, 4286, 4278, 4471, 4542, 4625, 4678, 4702, 4700, 4701, 3691, 4726, 4727, 4725, 4729, 4728, 4864, 4943, 4944, 5178, 5283, 5362, 5421, 5874, 5915, 5914, 10031, 10129, 10203, 10249, 1125, 1740, 3651, 1757, 4703, 2313, 5733, 2124, 5575, 5154, 5937.
+
+====================================================================================================
+ID: 6125
+URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6125&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
+Fecha: 25/10/2026
+Hora inicio: 08:00
+Hora fin: 16:00
+Distrito: Arequipa, de Arequipa
+Zona afectada: Urbanizaciones del distrito de Arequipa: Parque Industrial.
+Motivo: Mantenimiento de la línea de media tensión.
+Ubicación: Circuito : [402] INCA TOPS.
+Título: MANTENIMIENTO DE REDES.
+Subestaciones: 1474, 2339, 2392, 1475, 1476, 1684, 1473, 1086, 3277, 2503, 4398, 5506, 5321, 10247, 5303.
+Fuente extracción: DISPFORM_REQUESTS
+
+Descripción completa:
+MANTENIMIENTO DE REDES.
+DOMINGO, 25 DE OCTUBRE DE 2026:
+Circuito : [402] INCA TOPS.
+Hora : 08:00 a 16:00 Hrs.
+Motivo : Mantenimiento de la línea de media tensión.
+Zonas afectadas: Urbanizaciones del distrito de Arequipa: Parque Industrial.
+Subestaciones eléctricas de distribución (SED), involucradas según zonas afectadas líneas arriba: 1474, 2339, 2392, 1475, 1476, 1684, 1473, 1086, 3277, 2503, 4398, 5506, 5321, 10247, 5303.
