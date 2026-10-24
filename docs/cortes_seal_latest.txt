@@ -1,106 +1,18 @@
 EXTRACCIÓN COMPLETA DE CORTES PROGRAMADOS SEAL
 ====================================================================================================
-fecha_ejecucion: 2026-10-23 15:09:02
+fecha_ejecucion: 2026-10-24 14:02:04
 fuente: https://www.seal.com.pe/clientes/SitePages/Cortes.aspx
-fecha_base: 2026-10-23
-fecha_inicio: 2026-10-22
-fecha_fin: 2026-11-22
+fecha_base: 2026-10-24
+fecha_inicio: 2026-10-23
+fecha_fin: 2026-11-23
 dias_atras: 1
 dias_adelante: 30
 metodo_ids: REQUESTS_STATIC
 ids_detectados: 63
 eventos_totales_extraidos: 63
-eventos_guardados_en_rango: 22
+eventos_guardados_en_rango: 18
 output_dir: docs
 ====================================================================================================
-
-====================================================================================================
-ID: 6110
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6110&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 22/10/2026
-Hora inicio: 05:00
-Hora fin: 05:30
-Distrito: Arequipa, de Arequipa
-Zona afectada: Cuadra 1 de Calle San Camilo (Distrito de Arequipa).
-Motivo: Cambio de posición del conmutador.
-Ubicación: Circuito : SED 3586.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 22 DE OCTUBRE DE 2026.
-Circuito : SED 3586.
-Hora : 05:00 a 05:30 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Cuadra 1 de Calle San Camilo (Distrito de Arequipa).
-
-====================================================================================================
-ID: 6107
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6107&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 22/10/2026
-Hora inicio: 08:00
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Urb. Los Sauces (Distrito de Cerro Colorado).
-Motivo: Mantenimiento de la subestación.
-Ubicación: Circuito : SED 3645.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 22 DE OCTUBRE DE 2026.
-Circuito : SED 3645.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento de la subestación.
-Zonas afectadas: Urb. Los Sauces (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 6108
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6108&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 22/10/2026
-Hora inicio: 08:00
-Hora fin: 12:30
-Distrito: Cerro Colorado, de Cerro Colorado
-Zona afectada: Mz. A-B-C-D de Urb. Casabella (Distrito de Cerro Colorado).
-Motivo: Mantenimiento de la subestación.
-Ubicación: Circuito : SED 3553.
-Título: MANTENIMIENTO DE REDES.
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 22 DE OCTUBRE DE 2026.
-Circuito : SED 3553.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento de la subestación.
-Zonas afectadas: Mz. A-B-C-D de Urb. Casabella (Distrito de Cerro Colorado).
-
-====================================================================================================
-ID: 6109
-URL: https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6109&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx
-Fecha: 22/10/2026
-Hora inicio: 08:00
-Hora fin: 13:00
-Distrito: Mariano Melgar, de Mariano Melgar
-Zona afectada: Cuadra 8 de la Av. Perú, Cuadra 6-7 de Av. Nicolas de Pierola (Distrito de Mariano Melgar).
-Motivo: Cambio de tablero de distribución.
-Ubicación: Circuito : SED 3079.
-Título: MANTENIMIENTO DE REDES. SUSPENDIDO
-Subestaciones: 
-Fuente extracción: DISPFORM_REQUESTS
-
-Descripción completa:
-MANTENIMIENTO DE REDES.
-JUEVES, 22 DE OCTUBRE DE 2026.
-Circuito : SED 3079.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de tablero de distribución.
-Zonas afectadas: Cuadra 8 de la Av. Perú, Cuadra 6-7 de Av. Nicolas de Pierola (Distrito de Mariano Melgar).
 
 ====================================================================================================
 ID: 6117

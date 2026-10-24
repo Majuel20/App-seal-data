@@ -1,28 +1,4 @@
 ﻿id,fecha,hora_inicio,hora_fin,distrito,zona_afectada,motivo,ubicacion,titulo,subestaciones,descripcion,categoria,todo_el_dia,periodicidad,datos_adjuntos,tipo_contenido,creado,modificado,creado_por,modificado_por,inicio_raw,fin_raw,inicio_iso,fin_iso,url,fuente_extraccion,hash
-6110,22/10/2026,05:00,05:30,"Arequipa, de Arequipa",Cuadra 1 de Calle San Camilo (Distrito de Arequipa).,Cambio de posición del conmutador.,Circuito : SED 3586.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-JUEVES, 22 DE OCTUBRE DE 2026.
-Circuito : SED 3586.
-Hora : 05:00 a 05:30 Hrs.
-Motivo : Cambio de posición del conmutador.
-Zonas afectadas: Cuadra 1 de Calle San Camilo (Distrito de Arequipa).",,,,,Evento,el 16/10/2026 17:38 por Cuenta del sistema,16/10/2026 17:38,Cuenta del sistema,Cuenta del sistema,22/10/2026 5:00,22/10/2026 5:30,2026-10-22T05:00:00,2026-10-22T05:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6110&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,fb73ff60d9ae470b2b3262b293e9ba8244c0cea20661a7edd60dcbb9565b6d10
-6107,22/10/2026,08:00,12:30,"Cerro Colorado, de Cerro Colorado",Urb. Los Sauces (Distrito de Cerro Colorado).,Mantenimiento de la subestación.,Circuito : SED 3645.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-JUEVES, 22 DE OCTUBRE DE 2026.
-Circuito : SED 3645.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento de la subestación.
-Zonas afectadas: Urb. Los Sauces (Distrito de Cerro Colorado).",,,,,Evento,el 16/10/2026 17:36 por Cuenta del sistema,16/10/2026 17:36,Cuenta del sistema,Cuenta del sistema,22/10/2026 8:00,22/10/2026 12:30,2026-10-22T08:00:00,2026-10-22T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6107&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,cafa9d5ac06f777c5e4ff87263a039899e9fc2515e8385d1ddd5486150b6b49b
-6108,22/10/2026,08:00,12:30,"Cerro Colorado, de Cerro Colorado",Mz. A-B-C-D de Urb. Casabella (Distrito de Cerro Colorado).,Mantenimiento de la subestación.,Circuito : SED 3553.,MANTENIMIENTO DE REDES.,,"MANTENIMIENTO DE REDES.
-JUEVES, 22 DE OCTUBRE DE 2026.
-Circuito : SED 3553.
-Hora : 08:00 a 12:30 Hrs.
-Motivo : Mantenimiento de la subestación.
-Zonas afectadas: Mz. A-B-C-D de Urb. Casabella (Distrito de Cerro Colorado).",,,,,Evento,el 16/10/2026 17:37 por Cuenta del sistema,16/10/2026 17:37,Cuenta del sistema,Cuenta del sistema,22/10/2026 8:00,22/10/2026 12:30,2026-10-22T08:00:00,2026-10-22T12:30:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6108&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,233ec5f38946c90b25a2d7280b000325de47b1a71366847c47b40c3ffb25ad2c
-6109,22/10/2026,08:00,13:00,"Mariano Melgar, de Mariano Melgar","Cuadra 8 de la Av. Perú, Cuadra 6-7 de Av. Nicolas de Pierola (Distrito de Mariano Melgar).",Cambio de tablero de distribución.,Circuito : SED 3079.,MANTENIMIENTO DE REDES. SUSPENDIDO,,"MANTENIMIENTO DE REDES.
-JUEVES, 22 DE OCTUBRE DE 2026.
-Circuito : SED 3079.
-Hora : 08:00 a 13:00 Hrs.
-Motivo : Cambio de tablero de distribución.
-Zonas afectadas: Cuadra 8 de la Av. Perú, Cuadra 6-7 de Av. Nicolas de Pierola (Distrito de Mariano Melgar).",,,,,Evento,el 16/10/2026 17:37 por Cuenta del sistema,23/10/2026 7:47,Cuenta del sistema,Cuenta del sistema,22/10/2026 8:00,22/10/2026 13:00,2026-10-22T08:00:00,2026-10-22T13:00:00,https://www.seal.com.pe/clientes/Lists/Calendario/DispForm.aspx?ID=6109&Source=https%3A%2F%2Fwww.seal.com.pe%2Fclientes%2FSitePages%2FCortes.aspx,DISPFORM_REQUESTS,5dd5dfa9bcc3551fa1eba97d57e3da0d9adb86d928eeaeec708f3e9d58278bc3
 6117,23/10/2026,06:00,09:00,"Mollendo, de Mollendo","Urbanizaciones del distrito de Mollendo: Inclan, Los Delfines de Mollendo.",Cambio de seccionadores y transferencia de carga.,Circuito : Cercado desde REC - 200285.,MANTENIMIENTO DE REDES.,"8029, 8030, 8034, 8032, 8233, 8033, 8420, 8437, 8042, 8501, 8031, 8603, 8368, 8428.","MANTENIMIENTO DE REDES.
 VIERNES, 23 DE OCTUBRE DE 2026:
 Circuito : Cercado desde REC - 200285.
